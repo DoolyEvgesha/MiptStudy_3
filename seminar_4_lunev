@@ -1,0 +1,15 @@
+file_desctiptor->dentry->inode
+link
+unlink
+1) regular files
+2) directory (read only)
+3) FIFO 
+4) devices
+5) symlink(content: text, which is a path)
+
+stat, fstat
+/etc/passwd
+getuid, geteuid(effective user id)
+s-r-w-x(suid)
+open(name, flag, rights)
+fcntl, flock, NFS, dup2()

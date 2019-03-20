@@ -1,0 +1,1465 @@
+32548 execve("./a", ["./a", "5", "2", "4", "10"], 0x7ffef0662628 /* 51 vars */) = 0
+32548 brk(NULL)                         = 0x17e1000
+32548 access("/etc/ld.so.preload", R_OK) = -1 ENOENT (No such file or directory)
+32548 openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+32548 fstat(3, {st_mode=S_IFREG|0644, st_size=135139, ...}) = 0
+32548 mmap(NULL, 135139, PROT_READ, MAP_PRIVATE, 3, 0) = 0x7fc5b76ab000
+32548 close(3)                          = 0
+32548 openat(AT_FDCWD, "/lib64/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+32548 read(3, "\177ELF\2\1\1\3\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\00002\2\0\0\0\0\0"..., 832) = 832
+32548 fstat(3, {st_mode=S_IFREG|0755, st_size=2123224, ...}) = 0
+32548 mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7fc5b76a9000
+32548 mmap(NULL, 3926752, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7fc5b70e7000
+32548 mprotect(0x7fc5b729c000, 2097152, PROT_NONE) = 0
+32548 mmap(0x7fc5b749c000, 24576, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1b5000) = 0x7fc5b749c000
+32548 mmap(0x7fc5b74a2000, 15072, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7fc5b74a2000
+32548 close(3)                          = 0
+32548 arch_prctl(ARCH_SET_FS, 0x7fc5b76aa4c0) = 0
+32548 mprotect(0x7fc5b749c000, 16384, PROT_READ) = 0
+32548 mprotect(0x601000, 4096, PROT_READ) = 0
+32548 mprotect(0x7fc5b76cc000, 4096, PROT_READ) = 0
+32548 munmap(0x7fc5b76ab000, 135139)    = 0
+32548 semget(IPC_PRIVATE, 4, 0700)      = 3407907
+32548 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32549
+32548 clone( <unfinished ...>
+32549 semop(3407907, [{0, 4, 0}], 1 <unfinished ...>
+32548 <... clone resumed> child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32550
+32549 <... semop resumed> )             = 0
+32548 clone( <unfinished ...>
+32549 fstat(1,  <unfinished ...>
+32550 fstat(1,  <unfinished ...>
+32548 <... clone resumed> child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32551
+32550 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32548 clone( <unfinished ...>
+32551 fstat(1,  <unfinished ...>
+32550 brk(NULL <unfinished ...>
+32549 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32548 <... clone resumed> child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32552
+32550 <... brk resumed> )               = 0x17e1000
+32548 clone( <unfinished ...>
+32550 brk(0x1802000 <unfinished ...>
+32551 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32550 <... brk resumed> )               = 0x1802000
+32552 fstat(1,  <unfinished ...>
+32548 <... clone resumed> child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32553
+32552 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32548 clone( <unfinished ...>
+32550 brk(NULL <unfinished ...>
+32549 brk(NULL <unfinished ...>
+32550 <... brk resumed> )               = 0x1802000
+32553 fstat(1,  <unfinished ...>
+32548 <... clone resumed> child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7fc5b76aa790) = 32554
+32553 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32548 wait4(-1,  <unfinished ...>
+32552 brk(NULL <unfinished ...>
+32551 brk(NULL <unfinished ...>
+32552 <... brk resumed> )               = 0x17e1000
+32551 <... brk resumed> )               = 0x17e1000
+32554 fstat(1,  <unfinished ...>
+32553 brk(NULL <unfinished ...>
+32554 <... fstat resumed> {st_mode=S_IFCHR|0620, st_rdev=makedev(136, 0), ...}) = 0
+32553 <... brk resumed> )               = 0x17e1000
+32552 brk(0x1802000 <unfinished ...>
+32553 brk(0x1802000 <unfinished ...>
+32552 <... brk resumed> )               = 0x1802000
+32553 <... brk resumed> )               = 0x1802000
+32554 brk(NULL <unfinished ...>
+32553 brk(NULL <unfinished ...>
+32554 <... brk resumed> )               = 0x17e1000
+32553 <... brk resumed> )               = 0x1802000
+32554 brk(0x1802000 <unfinished ...>
+32552 brk(NULL <unfinished ...>
+32554 <... brk resumed> )               = 0x1802000
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 brk(NULL <unfinished ...>
+32552 <... brk resumed> )               = 0x1802000
+32554 <... brk resumed> )               = 0x1802000
+32553 <... write resumed> )             = 32
+32551 brk(0x1802000 <unfinished ...>
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... write resumed> )             = 32
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 32
+32551 <... brk resumed> )               = 0x1802000
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 brk(NULL <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... brk resumed> )               = 0x1802000
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 write(1, "Passenger 0 wants to go to ship\n", 32 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... write resumed> )             = 32
+32552 <... semop resumed> )             = 0
+32550 <... write resumed> )             = 32
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32549 <... brk resumed> )               = 0x17e1000
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 brk(0x1802000 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32549 <... brk resumed> )               = 0x1802000
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 brk(NULL)                         = 0x1802000
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32554 <... write resumed> )             = 20
+32553 <... write resumed> )             = 20
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 write(1, "Passenger 1 on ship\n", 20 <unfinished ...>
+32552 <... write resumed> )             = 20
+32551 <... write resumed> )             = 20
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32553 <... write resumed> )             = 28
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32551 write(1, "Passenger 1 leaves the ship\n", 28 <unfinished ...>
+32552 <... write resumed> )             = 28
+32551 <... write resumed> )             = 28
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 <... write resumed> )             = 32
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 32
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32551 <... semop resumed> )             = 0
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 32
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 <... write resumed> )             = 32
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 20
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 write(1, "Passenger 0 on ship\n", 20) = 20
+32550 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... write resumed> )             = 28
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 28
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 write(1, "Passenger 0 leaves the ship\n", 28 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... write resumed> )             = 28
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 <... write resumed> )             = 32
+32553 <... write resumed> )             = 32
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 32
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 write(1, "Passenger 1 on ship\n", 20 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32551 <... write resumed> )             = 20
+32550 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32550 write(1, "Passenger 0 wants to go to ship\n", 32 <unfinished ...>
+32552 <... write resumed> )             = 20
+32550 <... write resumed> )             = 32
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 28
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 leaves the ship\n", 28 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32551 <... write resumed> )             = 28
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 <... write resumed> )             = 32
+32554 <... write resumed> )             = 32
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32554 <... write resumed> )             = 20
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 32
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... write resumed> )             = 32
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 20
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{1, -1, 0}], 1)   = 0
+32550 semop(3407907, [{1, 1, 0}], 1)    = 0
+32550 write(1, "Passenger 0 on ship\n", 20) = 20
+32550 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... write resumed> )             = 28
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 28
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 write(1, "Passenger 0 leaves the ship\n", 28 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... write resumed> )             = 28
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32554 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1)    = 0
+32551 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1)    = 0
+32554 <... write resumed> )             = 32
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 32
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 write(1, "Passenger 1 on ship\n", 20 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 <... write resumed> )             = 20
+32552 <... write resumed> )             = 20
+32551 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32549 <... nanosleep resumed> NULL)     = 0
+32550 write(1, "Passenger 0 wants to go to ship\n", 32 <unfinished ...>
+32549 write(1, "Ship: close ladder\n", 19 <unfinished ...>
+32550 <... write resumed> )             = 32
+32549 <... write resumed> )             = 19
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 semop(3407907, [{1, -2, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1) = 0
+32553 semop(3407907, [{0, 1, 0}], 1)    = 0
+32550 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 32
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... write resumed> )             = 28
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32551 write(1, "Passenger 1 leaves the ship\n", 28 <unfinished ...>
+32552 <... write resumed> )             = 28
+32551 <... write resumed> )             = 28
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... write resumed> )             = 32
+32551 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 32
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 <... write resumed> )             = 32
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 20
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 write(1, "Passenger 0 on ship\n", 20 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... write resumed> )             = 20
+32550 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32553 <... write resumed> )             = 28
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32550 write(1, "Passenger 0 leaves the ship\n", 28 <unfinished ...>
+32552 <... write resumed> )             = 28
+32550 <... write resumed> )             = 28
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 <... write resumed> )             = 32
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 32
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32551 <... semop resumed> )             = 0
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 32
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 on ship\n", 20 <unfinished ...>
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... write resumed> )             = 20
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32550 write(1, "Passenger 0 wants to go to ship\n", 32 <unfinished ...>
+32552 <... write resumed> )             = 20
+32550 <... write resumed> )             = 32
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... write resumed> )             = 28
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 28
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 write(1, "Passenger 1 leaves the ship\n", 28 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32551 <... write resumed> )             = 28
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 <... write resumed> )             = 32
+32553 <... write resumed> )             = 32
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 20
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 32
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... write resumed> )             = 32
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... write resumed> )             = 20
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{1, -1, 0}], 1)   = 0
+32550 semop(3407907, [{1, 1, 0}], 1)    = 0
+32550 write(1, "Passenger 0 on ship\n", 20) = 20
+32550 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32553 <... write resumed> )             = 28
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... write resumed> )             = 28
+32550 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 write(1, "Passenger 0 leaves the ship\n", 28 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32550 <... write resumed> )             = 28
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 <... write resumed> )             = 32
+32554 <... write resumed> )             = 32
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 <... write resumed> )             = 20
+32554 <... write resumed> )             = 20
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 32
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32551 write(1, "Passenger 1 on ship\n", 20 <unfinished ...>
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... write resumed> )             = 20
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32552 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32550 write(1, "Passenger 0 wants to go to ship\n", 32 <unfinished ...>
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32550 <... write resumed> )             = 32
+32552 <... write resumed> )             = 20
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32553 <... write resumed> )             = 28
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32551 write(1, "Passenger 1 leaves the ship\n", 28 <unfinished ...>
+32552 <... write resumed> )             = 28
+32551 <... write resumed> )             = 28
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... semop resumed> )             = 0
+32549 nanosleep({tv_sec=0, tv_nsec=1000000}, NULL) = 0
+32549 write(1, "Ship approaches the beach\n", 26) = 26
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship decends the ladder\n", 24) = 24
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 wants to go to ship\n", 32 <unfinished ...>
+32553 write(1, "Passenger 3 wants to go to ship\n", 32 <unfinished ...>
+32554 <... write resumed> )             = 32
+32553 <... write resumed> )             = 32
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 on ship\n", 20 <unfinished ...>
+32553 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32554 <... write resumed> )             = 20
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 wants to go to ship\n", 32 <unfinished ...>
+32553 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 32
+32553 write(1, "Passenger 3 on ship\n", 20 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 20
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = 0
+32550 <... semop resumed> )             = 0
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32552 write(1, "Passenger 2 on ship\n", 20 <unfinished ...>
+32551 write(1, "Passenger 1 wants to go to ship\n", 32 <unfinished ...>
+32552 <... write resumed> )             = 20
+32551 <... write resumed> )             = 32
+32552 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32551 <... semop resumed> )             = 0
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32551 semop(3407907, [{0, -1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32550 semop(3407907, [{1, 1, 0}], 1 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 <... semop resumed> )             = 0
+32550 write(1, "Passenger 0 on ship\n", 20) = 20
+32550 semop(3407907, [{2, 0, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 write(1, "Ship: close ladder\n", 19) = 19
+32549 semop(3407907, [{1, -2, 0}], 1)   = 0
+32549 semop(3407907, [{2, -1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the ship\n", 28 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the ship\n", 28 <unfinished ...>
+32554 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32554 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 <... write resumed> )             = 28
+32552 <... semop resumed> )             = 0
+32553 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32552 write(1, "Passenger 2 leaves the ship\n", 28 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32552 <... write resumed> )             = 28
+32550 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32552 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32550 <... semop resumed> )             = 0
+32549 <... semop resumed> )             = 0
+32550 write(1, "Passenger 0 leaves the ship\n", 28 <unfinished ...>
+32549 nanosleep({tv_sec=0, tv_nsec=1000000},  <unfinished ...>
+32550 <... write resumed> )             = 28
+32550 semop(3407907, [{1, -1, 0}], 1 <unfinished ...>
+32549 <... nanosleep resumed> NULL)     = 0
+32549 semop(3407907, [{3, 1, 0}], 1)    = 0
+32549 semop(3407907, [{2, 1, 0}], 1)    = 0
+32549 write(1, "Ship: open ladder\n", 18) = 18
+32549 semop(3407907, [{1, 2, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32553 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32554 <... semop resumed> )             = -1 EAGAIN (Resource temporarily unavailable)
+32553 <... semop resumed> )             = -1 EAGAIN (Resource temporarily unavailable)
+32554 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32553 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 <... semop resumed> )             = 0
+32553 <... semop resumed> )             = 0
+32554 write(1, "Passenger 4 leaves the beach\n", 29 <unfinished ...>
+32553 write(1, "Passenger 3 leaves the beach\n", 29 <unfinished ...>
+32554 <... write resumed> )             = 29
+32551 <... semop resumed> )             = 0
+32553 <... write resumed> )             = 29
+32549 <... semop resumed> )             = 0
+32554 exit_group(0 <unfinished ...>
+32553 exit_group(0 <unfinished ...>
+32554 <... exit_group resumed>)         = ?
+32553 <... exit_group resumed>)         = ?
+32551 semop(3407907, [{3, 0, IPC_NOWAIT}], 1 <unfinished ...>
+32549 semop(3407907, [{0, 4, 0}], 1 <unfinished ...>
+32551 <... semop resumed> )             = -1 EAGAIN (Resource temporarily unavailable)
+32549 <... semop resumed> )             = 0
+32551 semop(3407907, [{0, 1, 0}], 1 <unfinished ...>
+32554 +++ exited with 0 +++
+32551 <... semop resumed> )             = 0
+32548 <... wait4 resumed> NULL, 0, NULL) = 32554
+32553 +++ exited with 0 +++
+32548 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=32554, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+32551 write(1, "Passenger 1 leaves the beach\n", 29 <unfinished ...>
+32548 wait4(-1,  <unfinished ...>
+32551 <... write resumed> )             = 29
+32548 <... wait4 resumed> NULL, 0, NULL) = 32553
+32549 write(1, "Ship leaves the beach\n", 22 <unfinished ...>
+32548 wait4(-1,  <unfinished ...>
+32551 exit_group(0 <unfinished ...>
+32549 <... write resumed> )             = 22
+32551 <... exit_group resumed>)         = ?
+32549 exit_group(0)                     = ?
+32551 +++ exited with 0 +++
+32548 <... wait4 resumed> NULL, 0, NULL) = 32551
+32548 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=32551, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+32549 +++ exited with 0 +++
+32548 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=32549, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+32548 wait4(-1, NULL, 0, NULL)          = 32549
+32548 wait4(-1, NULL, 0, NULL)          = ? ERESTARTSYS (To be restarted if SA_RESTART is set)
+32552 <... semop resumed> )             = -1 EINTR (Interrupted system call)
+32548 --- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+32552 --- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+32550 <... semop resumed> )             = -1 EINTR (Interrupted system call)
+32550 --- SIGINT {si_signo=SIGINT, si_code=SI_KERNEL} ---
+32548 +++ killed by SIGINT +++
+32550 +++ killed by SIGINT +++
+32552 +++ killed by SIGINT +++

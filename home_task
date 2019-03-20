@@ -1,0 +1,83 @@
+myshell.c
+sh -> mychell
+$ cat file.txt | sort | uniq (pipe)
+while(1)
+	//use prompt (like $ or $$)
+	read stdin line
+	parse line
+	fork + exec
+	some kind of exit (EOF or exit)
+//=============
+yar@oblo.me
+//=============
+
+seminar 25/09/18
+Pudgorodski
+	file
+	open->fd->{read, write, close}
+	i-node 
+	stat fstat lstat
+	file -> i-node meta info
+	struct stat{
+	}
+	c{meta information(size, blocks, time)}, m{write}, a{read} time
+	/--------------
+	size//blocks
+	/---------------
+	|owner                      |group                   |
+	|UID {->struct stat}for user|GID, users list         |
+	|name                       |name//R W EXEcute 9 bits|
+				    |8 |user|group|other(rwx)|process -> uid||gid|| group
+
+
+
+seminar 02/10/18---------------------------------------
+	stat.s!mode 		type REG, IS_REG(), DIR, 
+	/{i-node, name} ---> 
+	expample: /usr/bin/ls ; i-node ---> stat, DIR ---> "usr" == d.name {then repeat the loop}
+	finally: DIR -> REG (this is what "open" does)
+	opendir => d, readdir => while(e = readdir(d)!=NULL)......then CLOSE(d), closedir (like f***** for files)
+	"."- current catalog, ".."-parent catalog
+-------------------------------------------------------
+write my_ls.c
+	-l, -n, -i, -a, -R, -d
+getopt(), getopt_long() e.g. {-l} is short; {--long} is long; short keys can be cancated
+gcc -o hello hello.c
+
+**********************************************************************
+**********************SEMINAR 6***************************************
+-----------------------
+IPC SysV
+1) msg, queue
+2) sem
+3) shared shm	memory
+	creat->id ---- xxxget .msg .sem  .shm
+	get->id
+msg get - очередь сообщений 
+msgget(key, flags) IPC_PRIVATE
+IPC_CREAT, IPC_EXCL -----------key = ftok(path, salt)
+msgrcv
+msgctl(id, op, arg) IPC_RMID
+
+******************************************************************
+***********************SEMINAR 7**********************************
+******************************************************************
+pipe, nisg, recv 1 message
+critical section:   binary -> lock/unlock; semaphore->p(s)/v(s)
+
+semget(key,m,flags), semop(id,ops, num) ops -> struct semop{index, value, flag}
+id = shmget
+char*p=shmat, shmdt, shmctl
+	task: N childs(in line), shmget(in parent, before fork, parent, child i++ 
+
+
+
+
+
+
+
+
+
+
+
+

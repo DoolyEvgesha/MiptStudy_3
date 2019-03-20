@@ -1,0 +1,37 @@
+##seminar 2
+	-lpthread
+	int pthread_create (pthread_t *thred, const pthread_altr_t *altrs, void(*run)(void*), void *arg);
+	pthread_join
+
+execv
+exec[v//p][l] {v for vector}{p for path}
+execl(path, arg0, arg1, arg2, NULL);{l for list}
+
+get_pid, get_ppid
+
+1 task:
+	programm that creates n children, prints n, prints pid
+
+2 task:strace
+	runs programm and prints errors(using exec...)
+3 task:
+	n потоков k z
+
+## seminar 3
+	pipe()
+	int pipe(int fd[2]);
+	read, write, open, close
+	find .-name \*.\[ch\]|
+	xargs grep CodeWord  |
+
+	task:
+создается доч процесс, открыть процесс - pipe, parent reads and prints
+передать содержимое в родительский процесс и напечатать на экран
+
+	mkfifo("fifo", 0644)
+	!O_NDELAY
+
+TASK: две программы: в двух терминалах два процесса не связанных р-р передать файл имя которого поступило одному из партнеров, вторая должна напечатать. Замечание: переданный файл не должен быть испорчен
+второе: семафорами, локами пользоваться нельзя
+защищена от выключения питания 
+файл-замок, если нет файла - нельзя его создавать		

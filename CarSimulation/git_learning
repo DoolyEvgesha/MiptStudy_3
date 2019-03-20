@@ -1,0 +1,7 @@
+git init /*one time*/
+git remote add origin https://github.com/DoolyEvgesha/CarSimulation /*one time - know the address*/
+git pull /*the other person has changed smth*/
+git add [*.cpp *.h makefile *.txt]
+git commit -m "YOUR COMMENTARY"
+//git push -u origin master /*one time*/
+git push

@@ -1,0 +1,9 @@
+*.o
+*idea*
+*cmake*
+*CMake*
+*swp*
+*txt*
+*zip*
+*google*
+*a.out

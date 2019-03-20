@@ -1,0 +1,7941 @@
+0 . 1
+1 . 2
+2 n 11
+3 m 5
+4 e 16
+5 a 7
+6 s 11
+7 e 5
+10 a 2
+11 m 12
+12 r 5
+13 a 13
+14 u 8
+15 u 5
+16 m 8
+17 r 5
+20 o 6
+21 p 9
+22 g 21
+23 z 11
+24 m 4
+25 w 6
+26 p 17
+27 o 13
+30 e 8
+31 g 18
+32 n 5
+33 l 5
+34 g 7
+35 p 15
+36 c 6
+37 d 7
+40 l 8
+41 a 30
+42 c 11
+43 e 14
+44 x 20
+45 a 8
+46 s 16
+47 j 11
+50 t 4
+51 m 5
+52 r 3
+53 p 7
+54 j 3
+55 h 7
+56 c 5
+57 o 9
+60 j 14
+61 p 8
+62 r 9
+63 m 4
+64 t 11
+65 r 11
+66 i 4
+67 l 8
+70 f 10
+71 a 14
+72 i 5
+73 x 15
+74 r 19
+75 b 2
+76 c 9
+77 x 14
+100 m 7
+101 p 4
+102 g 10
+103 s 8
+104 n 15
+105 n 7
+106 n 12
+107 r 15
+110 x 5
+111 u 7
+112 d 12
+113 z 3
+114 o 6
+115 j 7
+116 f 8
+117 f 16
+120 g 22
+121 x 20
+122 s 14
+123 t 8
+124 g 5
+125 a 4
+126 x 5
+127 t 6
+130 s 11
+131 r 17
+132 d 5
+133 c 6
+134 t 12
+135 x 22
+136 f 8
+137 w 4
+140 s 7
+141 c 9
+142 d 6
+143 v 4
+144 s 6
+145 p 8
+146 n 9
+147 v 11
+150 c 9
+151 t 18
+152 a 5
+153 o 5
+154 m 6
+155 i 7
+156 s 7
+157 u 8
+160 s 8
+161 s 9
+162 p 7
+163 v 19
+164 f 6
+165 q 19
+166 x 28
+167 s 15
+170 c 19
+171 i 4
+172 n 7
+173 g 4
+174 g 4
+175 s 7
+176 d 6
+177 c 17
+200 m 11
+201 g 5
+202 v 25
+203 t 9
+204 j 9
+205 a 8
+206 f 18
+207 b 15
+210 p 10
+211 b 10
+212 r 12
+213 p 4
+214 g 9
+215 e 10
+216 j 6
+217 b 8
+220 a 6
+221 s 30
+222 e 8
+223 m 3
+224 c 5
+225 i 6
+226 r 6
+227 c 12
+230 p 8
+231 d 9
+232 c 17
+233 w 10
+234 g 5
+235 a 5
+236 s 11
+237 n 15
+240 f 7
+241 v 4
+242 c 7
+243 m 10
+244 m 11
+245 n 13
+246 f 10
+247 d 5
+250 l 7
+251 v 7
+252 g 10
+253 g 8
+254 m 11
+255 g 17
+256 g 11
+257 n 6
+260 l 4
+261 b 20
+262 l 4
+263 c 14
+264 q 6
+265 s 9
+266 z 6
+267 l 2
+270 p 2
+271 c 7
+272 t 22
+273 l 8
+274 t 8
+275 c 7
+276 n 12
+277 g 12
+300 w 8
+301 c 13
+302 b 25
+303 g 18
+304 d 20
+305 x 23
+306 r 7
+307 b 5
+310 l 6
+311 n 11
+312 p 11
+313 r 15
+314 c 3
+315 t 15
+316 s 10
+317 j 7
+320 a 14
+321 p 10
+322 r 10
+323 d 10
+324 a 35
+325 f 8
+326 d 7
+327 x 6
+330 z 8
+331 a 29
+332 x 23
+333 r 5
+334 s 12
+335 p 9
+336 o 9
+337 p 7
+340 g 5
+341 a 22
+342 l 5
+343 g 5
+344 g 20
+345 w 8
+346 d 3
+347 r 14
+350 t 9
+351 j 15
+352 p 11
+353 s 10
+354 c 3
+355 k 7
+356 t 3
+357 x 6
+360 s 8
+361 p 6
+362 p 7
+363 c 8
+364 s 9
+365 o 7
+366 s 8
+367 q 7
+370 r 7
+371 s 11
+372 r 8
+373 r 2
+374 j 8
+375 n 13
+376 x 8
+377 t 12
+400 s 6
+401 r 16
+402 w 2
+403 l 10
+404 p 7
+405 a 10
+406 c 12
+407 a 8
+410 d 11
+411 i 6
+412 t 11
+413 l 7
+414 c 18
+415 g 5
+416 c 6
+417 h 9
+420 c 7
+421 g 11
+422 x 13
+423 o 7
+424 z 5
+425 j 10
+426 f 3
+427 c 6
+430 g 3
+431 s 6
+432 i 2
+433 s 5
+434 e 8
+435 g 7
+436 c 10
+437 c 6
+440 f 6
+441 n 7
+442 p 6
+443 s 5
+444 j 14
+445 n 16
+446 z 6
+447 g 13
+450 b 8
+451 r 10
+452 i 9
+453 f 5
+454 a 29
+455 g 5
+456 g 14
+457 s 8
+460 a 17
+461 s 9
+462 r 11
+463 e 6
+464 s 6
+465 c 6
+466 d 13
+467 g 22
+470 j 3
+471 p 4
+472 s 19
+473 l 9
+474 z 6
+475 g 11
+476 j 13
+477 w 20
+500 g 9
+501 g 13
+502 x 23
+503 e 11
+504 h 4
+505 f 11
+506 n 6
+507 p 10
+510 x 4
+511 n 7
+512 x 8
+513 j 11
+514 g 5
+515 t 19
+516 g 9
+517 p 6
+520 p 5
+521 n 10
+522 c 18
+523 p 11
+524 f 13
+525 p 13
+526 r 6
+527 s 3
+530 u 9
+531 d 7
+532 r 15
+533 d 2
+534 n 8
+535 b 12
+536 p 7
+537 g 5
+540 d 7
+541 y 4
+542 p 12
+543 f 10
+544 g 6
+545 g 9
+546 i 5
+547 n 8
+550 p 6
+551 e 4
+552 a 9
+553 g 4
+554 p 12
+555 x 12
+556 r 11
+557 r 4
+560 m 7
+561 s 7
+562 n 4
+563 o 7
+564 s 10
+565 s 7
+566 c 13
+567 j 8
+570 n 12
+571 v 14
+572 u 5
+573 x 6
+574 r 9
+575 r 2
+576 s 3
+577 s 22
+600 x 14
+601 g 4
+602 a 6
+603 c 11
+604 z 7
+605 c 7
+606 s 16
+607 p 4
+610 o 2
+611 r 9
+612 x 8
+613 v 8
+614 u 6
+615 c 5
+616 e 9
+617 t 3
+620 c 11
+621 x 5
+622 s 8
+623 g 15
+624 l 6
+625 p 10
+626 p 7
+627 p 9
+630 c 14
+631 s 2
+632 b 10
+633 d 11
+634 r 7
+635 d 17
+636 p 4
+637 s 18
+640 r 11
+641 r 9
+642 n 13
+643 c 14
+644 d 10
+645 n 4
+646 c 15
+647 l 7
+650 i 13
+651 r 4
+652 g 20
+653 p 6
+654 x 20
+655 p 7
+656 s 9
+657 i 7
+660 x 11
+661 j 9
+662 u 4
+663 n 8
+664 d 3
+665 b 5
+666 s 9
+667 t 13
+670 s 7
+671 g 26
+672 i 9
+673 t 11
+674 s 20
+675 z 5
+676 a 8
+677 g 16
+700 g 13
+701 h 8
+702 m 9
+703 v 4
+704 g 18
+705 x 17
+706 b 5
+707 g 17
+710 v 11
+711 u 12
+712 f 4
+713 s 5
+714 p 9
+715 n 13
+716 a 2
+717 n 5
+720 s 6
+721 p 7
+722 r 4
+723 c 7
+724 l 7
+725 l 8
+726 p 10
+727 p 4
+730 v 4
+731 p 24
+732 s 7
+733 p 10
+734 l 7
+735 s 8
+736 n 15
+737 g 11
+740 s 15
+741 w 12
+742 a 7
+743 c 8
+744 s 2
+745 l 5
+746 z 4
+747 p 8
+750 b 6
+751 l 5
+752 s 7
+753 x 9
+754 s 5
+755 j 26
+756 n 10
+757 s 10
+760 a 8
+761 v 10
+762 v 8
+763 d 9
+764 m 9
+765 e 16
+766 c 11
+767 x 22
+770 z 7
+771 o 7
+772 e 7
+773 c 11
+774 e 7
+775 j 9
+776 z 12
+777 c 11
+1000 g 9
+1001 p 7
+1002 j 10
+1003 h 7
+1004 m 14
+1005 e 4
+1006 g 10
+1007 c 3
+1010 s 4
+1011 e 10
+1012 l 6
+1013 p 5
+1014 b 5
+1015 l 8
+1016 s 2
+1017 l 11
+1020 f 2
+1021 n 12
+1022 s 9
+1023 n 14
+1024 m 8
+1025 s 6
+1026 j 3
+1027 g 5
+1030 b 16
+1031 f 10
+1032 c 2
+1033 i 15
+1034 x 7
+1035 p 5
+1036 m 9
+1037 g 10
+1040 b 11
+1041 j 4
+1042 a 11
+1043 r 11
+1044 t 10
+1045 a 7
+1046 w 6
+1047 d 3
+1050 g 8
+1051 l 6
+1052 l 11
+1053 g 11
+1054 m 7
+1055 f 12
+1056 c 8
+1057 t 19
+1060 x 21
+1061 t 9
+1062 x 17
+1063 t 11
+1064 s 9
+1065 g 18
+1066 t 13
+1067 s 7
+1070 f 14
+1071 c 18
+1072 w 7
+1073 x 22
+1074 d 5
+1075 p 8
+1076 s 8
+1077 p 7
+1100 a 12
+1101 d 4
+1102 p 5
+1103 x 27
+1104 c 11
+1105 t 12
+1106 l 3
+1107 m 12
+1110 f 11
+1111 a 12
+1112 c 11
+1113 x 6
+1114 n 16
+1115 b 12
+1116 d 12
+1117 n 11
+1120 u 15
+1121 s 10
+1122 t 10
+1123 g 18
+1124 s 7
+1125 e 12
+1126 r 8
+1127 h 18
+1130 p 8
+1131 x 10
+1132 s 10
+1133 o 4
+1134 p 8
+1135 r 8
+1136 a 9
+1137 p 9
+1140 t 3
+1141 m 9
+1142 v 7
+1143 n 5
+1144 r 7
+1145 j 22
+1146 j 13
+1147 d 3
+1150 s 6
+1151 s 14
+1152 f 14
+1153 t 8
+1154 s 5
+1155 h 7
+1156 s 15
+1157 T 6
+1160 f 11
+1161 i 4
+1162 h 11
+1163 g 4
+1164 r 2
+1165 o 9
+1166 c 7
+1167 u 6
+1170 j 19
+1171 q 9
+1172 l 4
+1173 a 7
+1174 d 8
+1175 n 4
+1176 i 5
+1177 m 7
+1200 s 13
+1201 o 9
+1202 u 20
+1203 c 6
+1204 v 8
+1205 p 5
+1206 p 9
+1207 p 5
+1210 b 10
+1211 b 6
+1212 t 15
+1213 j 18
+1214 j 5
+1215 j 4
+1216 f 8
+1217 l 9
+1220 j 4
+1221 d 7
+1222 e 8
+1223 i 6
+1224 s 15
+1225 t 7
+1226 c 13
+1227 g 20
+1230 h 10
+1231 s 8
+1232 s 16
+1233 s 4
+1234 p 4
+1235 a 13
+1236 l 11
+1237 i 7
+1240 a 10
+1241 j 10
+1242 v 8
+1243 h 9
+1244 c 16
+1245 d 20
+1246 l 4
+1247 g 8
+1250 s 22
+1251 j 12
+1252 c 4
+1253 p 6
+1254 t 19
+1255 b 8
+1256 x 6
+1257 n 15
+1260 n 7
+1261 t 5
+1262 s 11
+1263 g 15
+1264 z 4
+1265 x 8
+1266 g 14
+1267 c 5
+1270 c 8
+1271 r 9
+1272 a 31
+1273 p 10
+1274 o 6
+1275 c 3
+1276 e 2
+1277 g 17
+1300 h 8
+1301 s 9
+1302 r 8
+1303 h 7
+1304 l 7
+1305 f 7
+1306 n 9
+1307 j 9
+1310 l 3
+1311 x 24
+1312 a 19
+1313 x 7
+1314 g 11
+1315 l 5
+1316 g 3
+1317 j 14
+1320 c 4
+1321 s 23
+1322 d 21
+1323 g 10
+1324 n 9
+1325 g 3
+1326 l 4
+1327 x 19
+1330 l 4
+1331 g 4
+1332 d 10
+1333 j 5
+1334 p 10
+1335 p 9
+1336 l 5
+1337 c 4
+1340 g 5
+1341 v 4
+1342 b 2
+1343 i 7
+1344 g 15
+1345 g 16
+1346 t 5
+1347 x 12
+1350 g 7
+1351 x 4
+1352 j 13
+1353 q 5
+1354 s 8
+1355 c 3
+1356 j 14
+1357 t 10
+1360 s 24
+1361 x 20
+1362 g 7
+1363 n 8
+1364 p 10
+1365 x 8
+1366 j 8
+1367 e 12
+1370 d 9
+1371 g 8
+1372 z 10
+1373 s 12
+1374 u 6
+1375 p 8
+1376 p 6
+1377 s 9
+1400 c 5
+1401 c 10
+1402 w 5
+1403 m 7
+1404 l 11
+1405 s 12
+1406 r 9
+1407 e 10
+1410 a 9
+1411 i 8
+1412 t 9
+1413 g 6
+1414 t 13
+1415 d 9
+1416 m 7
+1417 t 3
+1420 v 9
+1421 x 26
+1422 x 18
+1423 l 10
+1424 r 16
+1425 s 9
+1426 p 5
+1427 m 8
+1430 g 9
+1431 f 2
+1432 s 11
+1433 t 17
+1434 p 10
+1435 a 3
+1436 n 20
+1437 t 4
+1440 t 13
+1441 p 10
+1442 b 6
+1443 g 6
+1444 x 17
+1445 n 12
+1446 p 3
+1447 x 6
+1450 p 5
+1451 l 11
+1452 b 7
+1453 v 17
+1454 a 11
+1455 l 10
+1456 r 6
+1457 j 5
+1460 f 8
+1461 j 12
+1462 v 11
+1463 l 8
+1464 c 16
+1465 p 5
+1466 s 4
+1467 p 6
+1470 m 18
+1471 d 10
+1472 x 7
+1473 f 18
+1474 l 10
+1475 e 11
+1476 c 11
+1477 t 4
+1500 a 8
+1501 g 6
+1502 c 6
+1503 s 8
+1504 p 21
+1505 a 7
+1506 e 7
+1507 n 8
+1510 u 7
+1511 x 15
+1512 x 23
+1513 u 10
+1514 g 4
+1515 d 7
+1516 g 7
+1517 t 4
+1520 f 15
+1521 a 3
+1522 x 12
+1523 d 14
+1524 p 5
+1525 o 11
+1526 f 11
+1527 b 7
+1530 c 9
+1531 f 20
+1532 l 7
+1533 x 10
+1534 n 4
+1535 m 6
+1536 c 10
+1537 p 8
+1540 p 6
+1541 v 24
+1542 d 8
+1543 d 2
+1544 h 11
+1545 v 9
+1546 c 9
+1547 d 8
+1550 t 13
+1551 m 5
+1552 n 13
+1553 b 6
+1554 s 8
+1555 h 6
+1556 h 4
+1557 l 6
+1560 g 26
+1561 v 20
+1562 e 9
+1563 s 5
+1564 u 10
+1565 p 5
+1566 x 11
+1567 n 13
+1570 k 7
+1571 j 10
+1572 l 10
+1573 p 10
+1574 m 7
+1575 p 9
+1576 x 8
+1577 d 7
+1600 d 7
+1601 n 10
+1602 p 17
+1603 w 5
+1604 c 19
+1605 o 13
+1606 s 17
+1607 t 7
+1610 h 18
+1611 f 4
+1612 d 10
+1613 k 7
+1614 o 3
+1615 s 9
+1616 c 18
+1617 s 7
+1620 r 6
+1621 j 9
+1622 s 8
+1623 s 8
+1624 r 13
+1625 x 16
+1626 u 6
+1627 r 5
+1630 e 12
+1631 p 7
+1632 c 5
+1633 a 22
+1634 r 9
+1635 r 16
+1636 x 6
+1637 m 7
+1640 p 3
+1641 p 18
+1642 t 15
+1643 c 12
+1644 r 7
+1645 g 2
+1646 d 13
+1647 p 5
+1650 j 14
+1651 p 6
+1652 s 12
+1653 t 6
+1654 x 7
+1655 p 8
+1656 o 6
+1657 z 7
+1660 z 4
+1661 c 11
+1662 s 15
+1663 j 5
+1664 n 12
+1665 u 8
+1666 o 4
+1667 g 11
+1670 n 4
+1671 x 17
+1672 s 2
+1673 n 9
+1674 f 17
+1675 p 8
+1676 p 10
+1677 n 15
+1700 t 14
+1701 x 25
+1702 r 4
+1703 l 2
+1704 g 13
+1705 t 5
+1706 c 14
+1707 f 7
+1710 r 6
+1711 s 9
+1712 v 22
+1713 h 11
+1714 d 16
+1715 k 8
+1716 p 16
+1717 s 4
+1720 m 5
+1721 p 5
+1722 g 4
+1723 i 11
+1724 s 12
+1725 n 11
+1726 d 8
+1727 l 27
+1730 g 9
+1731 f 6
+1732 i 7
+1733 l 3
+1734 x 22
+1735 n 13
+1736 r 6
+1737 t 15
+1740 t 6
+1741 b 12
+1742 s 5
+1743 g 10
+1744 x 6
+1745 w 7
+1746 s 14
+1747 f 4
+1750 x 28
+1751 c 17
+1752 x 6
+1753 x 34
+1754 p 10
+1755 s 7
+1756 a 3
+1757 g 16
+1760 t 8
+1761 r 15
+1762 j 3
+1763 c 8
+1764 g 6
+1765 g 9
+1766 s 7
+1767 i 17
+1770 o 14
+1771 p 10
+1772 g 17
+1773 l 5
+1774 h 4
+1775 h 9
+1776 v 14
+1777 s 7
+2000 r 4
+2001 x 18
+2002 m 4
+2003 c 9
+2004 x 7
+2005 p 6
+2006 p 13
+2007 r 7
+2010 s 14
+2011 l 5
+2012 n 5
+2013 e 6
+2014 v 15
+2015 k 7
+2016 n 12
+2017 d 7
+2020 z 6
+2021 x 28
+2022 g 10
+2023 x 5
+2024 m 7
+2025 b 7
+2026 p 8
+2027 s 8
+2030 m 6
+2031 n 13
+2032 c 7
+2033 s 7
+2034 a 7
+2035 s 7
+2036 m 7
+2037 u 8
+2040 f 8
+2041 t 4
+2042 f 5
+2043 i 9
+2044 l 5
+2045 j 4
+2046 s 11
+2047 a 10
+2050 g 4
+2051 o 12
+2052 x 6
+2053 x 13
+2054 t 9
+2055 a 18
+2056 t 18
+2057 s 7
+2060 q 5
+2061 j 11
+2062 c 7
+2063 a 2
+2064 X 1
+2065 m 6
+2066 t 15
+2067 r 8
+2070 t 14
+2071 a 7
+2072 c 18
+2073 a 11
+2074 c 4
+2075 o 8
+2076 w 4
+2077 r 15
+2100 m 6
+2101 p 5
+2102 r 9
+2103 a 9
+2104 s 7
+2105 a 6
+2106 c 12
+2107 t 3
+2110 g 8
+2111 i 11
+2112 d 17
+2113 u 6
+2114 a 29
+2115 u 5
+2116 i 12
+2117 g 4
+2120 e 6
+2121 g 11
+2122 p 5
+2123 c 5
+2124 c 9
+2125 m 7
+2126 t 5
+2127 t 10
+2130 n 20
+2131 s 16
+2132 c 11
+2133 g 9
+2134 m 15
+2135 e 26
+2136 b 7
+2137 f 9
+2140 h 8
+2141 s 20
+2142 x 14
+2143 c 5
+2144 p 8
+2145 o 6
+2146 g 19
+2147 l 7
+2150 g 26
+2151 n 16
+2152 o 6
+2153 e 8
+2154 w 6
+2155 h 8
+2156 e 16
+2157 b 5
+2160 g 10
+2161 l 6
+2162 t 7
+2163 c 19
+2164 p 7
+2165 m 5
+2166 m 9
+2167 i 8
+2170 x 5
+2171 d 10
+2172 c 5
+2173 g 13
+2174 r 8
+2175 b 7
+2176 i 8
+2177 l 7
+2200 t 2
+2201 s 13
+2202 p 8
+2203 p 5
+2204 t 8
+2205 r 13
+2206 m 9
+2207 r 7
+2210 o 11
+2211 g 16
+2212 i 8
+2213 g 7
+2214 n 13
+2215 v 9
+2216 s 8
+2217 s 11
+2220 n 6
+2221 p 7
+2222 g 10
+2223 x 16
+2224 g 15
+2225 f 7
+2226 x 10
+2227 b 12
+2230 s 9
+2231 k 9
+2232 l 7
+2233 o 5
+2234 h 8
+2235 i 15
+2236 u 5
+2237 d 34
+2240 f 12
+2241 t 17
+2242 a 18
+2243 s 8
+2244 p 7
+2245 s 9
+2246 e 8
+2247 p 7
+2250 w 5
+2251 a 26
+2252 h 8
+2253 n 9
+2254 p 9
+2255 s 14
+2256 g 18
+2257 o 6
+2260 f 9
+2261 t 10
+2262 g 5
+2263 x 5
+2264 f 7
+2265 a 21
+2266 r 5
+2267 p 8
+2270 n 12
+2271 p 5
+2272 c 5
+2273 p 8
+2274 x 21
+2275 c 10
+2276 m 7
+2277 p 4
+2300 m 8
+2301 c 11
+2302 r 7
+2303 r 5
+2304 l 7
+2305 s 9
+2306 s 4
+2307 r 6
+2310 r 17
+2311 n 12
+2312 x 8
+2313 b 17
+2314 t 5
+2315 p 9
+2316 n 11
+2317 s 8
+2320 v 17
+2321 s 4
+2322 g 18
+2323 n 20
+2324 g 11
+2325 i 24
+2326 a 7
+2327 c 10
+2330 r 14
+2331 n 7
+2332 m 11
+2333 w 5
+2334 a 9
+2335 x 20
+2336 w 10
+2337 c 14
+2340 a 7
+2341 l 6
+2342 w 6
+2343 g 7
+2344 s 6
+2345 r 10
+2346 x 6
+2347 r 9
+2350 t 3
+2351 e 21
+2352 g 4
+2353 p 7
+2354 x 8
+2355 x 9
+2356 z 8
+2357 j 4
+2360 f 4
+2361 a 40
+2362 e 6
+2363 f 12
+2364 m 16
+2365 e 8
+2366 x 12
+2367 n 2
+2370 s 12
+2371 b 6
+2372 x 5
+2373 j 9
+2374 s 4
+2375 o 11
+2376 g 27
+2377 t 6
+2400 j 7
+2401 r 10
+2402 g 12
+2403 l 8
+2404 X 4
+2405 s 3
+2406 n 2
+2407 s 10
+2410 g 6
+2411 f 18
+2412 c 6
+2413 m 12
+2414 b 9
+2415 b 5
+2416 e 5
+2417 s 4
+2420 p 11
+2421 s 20
+2422 g 14
+2423 s 6
+2424 x 24
+2425 n 5
+2426 a 7
+2427 r 9
+2430 b 8
+2431 d 4
+2432 p 7
+2433 s 6
+2434 h 5
+2435 c 5
+2436 h 8
+2437 n 12
+2440 f 7
+2441 l 6
+2442 e 10
+2443 g 17
+2444 j 5
+2445 r 5
+2446 k 7
+2447 l 9
+2450 f 22
+2451 j 5
+2452 u 5
+2453 g 3
+2454 p 9
+2455 t 8
+2456 p 8
+2457 w 5
+2460 b 5
+2461 h 11
+2462 s 9
+2463 r 18
+2464 m 8
+2465 c 5
+2466 c 7
+2467 x 6
+2470 f 20
+2471 p 6
+2472 i 10
+2473 l 4
+2474 e 21
+2475 e 5
+2476 s 7
+2477 x 19
+2500 r 13
+2501 n 2
+2502 d 10
+2503 a 8
+2504 c 3
+2505 e 4
+2506 g 10
+2507 p 8
+2510 c 6
+2511 s 7
+2512 p 6
+2513 s 10
+2514 u 9
+2515 x 7
+2516 j 18
+2517 z 12
+2520 d 2
+2521 a 4
+2522 s 5
+2523 u 7
+2524 t 17
+2525 n 10
+2526 m 8
+2527 r 14
+2530 w 5
+2531 m 7
+2532 c 3
+2533 x 19
+2534 j 10
+2535 a 30
+2536 g 9
+2537 s 8
+2540 m 6
+2541 h 9
+2542 d 8
+2543 n 6
+2544 s 23
+2545 e 14
+2546 t 7
+2547 u 13
+2550 p 2
+2551 s 10
+2552 k 4
+2553 h 5
+2554 d 14
+2555 l 10
+2556 j 6
+2557 c 8
+2560 n 4
+2561 s 4
+2562 x 9
+2563 p 5
+2564 s 19
+2565 g 10
+2566 l 4
+2567 s 22
+2570 g 9
+2571 a 14
+2572 r 14
+2573 c 7
+2574 t 5
+2575 b 9
+2576 i 7
+2577 n 11
+2600 g 5
+2601 s 2
+2602 b 6
+2603 u 8
+2604 c 6
+2605 g 9
+2606 t 17
+2607 m 7
+2610 l 6
+2611 p 5
+2612 x 7
+2613 s 7
+2614 a 10
+2615 x 25
+2616 n 8
+2617 s 6
+2620 c 17
+2621 n 10
+2622 v 8
+2623 g 12
+2624 a 33
+2625 p 8
+2626 h 10
+2627 i 7
+2630 g 10
+2631 f 4
+2632 t 3
+2633 i 5
+2634 g 19
+2635 a 29
+2636 m 15
+2637 u 7
+2640 a 24
+2641 f 8
+2642 s 12
+2643 m 8
+2644 n 15
+2645 h 9
+2646 e 8
+2647 m 8
+2650 t 4
+2651 p 11
+2652 j 12
+2653 p 15
+2654 r 6
+2655 c 4
+2656 s 18
+2657 f 10
+2660 d 9
+2661 t 16
+2662 v 6
+2663 g 14
+2664 v 18
+2665 o 13
+2666 o 19
+2667 n 8
+2670 j 19
+2671 n 11
+2672 g 14
+2673 d 11
+2674 r 24
+2675 g 14
+2676 t 4
+2677 g 3
+2700 p 8
+2701 g 10
+2702 b 7
+2703 g 17
+2704 t 7
+2705 g 8
+2706 j 19
+2707 g 6
+2710 s 8
+2711 n 12
+2712 j 10
+2713 p 5
+2714 v 10
+2715 c 10
+2716 s 9
+2717 s 11
+2720 q 4
+2721 z 4
+2722 p 6
+2723 b 6
+2724 e 18
+2725 c 11
+2726 m 6
+2727 b 10
+2730 i 10
+2731 z 5
+2732 u 7
+2733 r 9
+2734 l 9
+2735 t 14
+2736 V 13
+2737 e 10
+2740 l 7
+2741 n 13
+2742 l 8
+2743 n 7
+2744 x 5
+2745 l 8
+2746 l 8
+2747 t 3
+2750 u 9
+2751 j 12
+2752 i 20
+2753 s 5
+2754 x 5
+2755 e 5
+2756 p 8
+2757 c 2
+2760 c 4
+2761 g 9
+2762 u 8
+2763 s 7
+2764 s 7
+2765 c 11
+2766 t 5
+2767 a 21
+2770 d 11
+2771 c 3
+2772 t 12
+2773 j 6
+2774 s 9
+2775 d 14
+2776 c 7
+2777 t 9
+3000 c 7
+3001 e 13
+3002 i 4
+3003 r 7
+3004 r 18
+3005 n 13
+3006 p 7
+3007 s 10
+3010 g 24
+3011 r 10
+3012 s 13
+3013 t 4
+3014 w 3
+3015 p 6
+3016 j 19
+3017 p 5
+3020 g 26
+3021 g 16
+3022 c 15
+3023 c 14
+3024 l 17
+3025 d 9
+3026 o 6
+3027 d 11
+3030 n 4
+3031 n 11
+3032 g 13
+3033 s 13
+3034 z 7
+3035 a 10
+3036 o 7
+3037 c 4
+3040 g 3
+3041 j 13
+3042 c 19
+3043 s 8
+3044 i 4
+3045 p 8
+3046 d 7
+3047 l 10
+3050 p 7
+3051 u 6
+3052 i 6
+3053 w 5
+3054 g 13
+3055 j 4
+3056 s 4
+3057 p 4
+3060 s 17
+3061 f 20
+3062 c 9
+3063 h 4
+3064 g 7
+3065 d 10
+3066 z 3
+3067 p 11
+3070 g 6
+3071 p 4
+3072 l 7
+3073 r 15
+3074 p 18
+3075 m 13
+3076 m 5
+3077 s 13
+3100 c 9
+3101 p 6
+3102 s 8
+3103 l 7
+3104 r 9
+3105 t 4
+3106 h 21
+3107 c 18
+3110 f 5
+3111 r 7
+3112 v 5
+3113 x 25
+3114 l 16
+3115 t 9
+3116 b 5
+3117 t 13
+3120 r 21
+3121 s 16
+3122 w 8
+3123 s 17
+3124 s 13
+3125 r 15
+3126 g 9
+3127 s 8
+3130 e 7
+3131 n 12
+3132 r 3
+3133 t 19
+3134 g 7
+3135 c 11
+3136 c 19
+3137 e 10
+3140 v 4
+3141 g 6
+3142 s 10
+3143 c 7
+3144 p 10
+3145 h 6
+3146 u 4
+3147 l 9
+3150 s 16
+3151 f 6
+3152 c 19
+3153 w 8
+3154 m 5
+3155 g 5
+3156 s 6
+3157 y 3
+3160 s 9
+3161 X 4
+3162 g 15
+3163 a 8
+3164 g 7
+3165 m 2
+3166 m 8
+3167 t 17
+3170 d 6
+3171 t 4
+3172 a 8
+3173 n 15
+3174 h 4
+3175 p 4
+3176 n 11
+3177 i 8
+3200 b 5
+3201 p 9
+3202 g 4
+3203 a 2
+3204 a 8
+3205 w 6
+3206 l 3
+3207 g 27
+3210 t 19
+3211 m 6
+3212 g 8
+3213 l 4
+3214 g 9
+3215 n 9
+3216 d 12
+3217 d 6
+3220 r 22
+3221 s 7
+3222 e 8
+3223 b 4
+3224 s 5
+3225 x 23
+3226 t 22
+3227 c 16
+3230 j 15
+3231 v 17
+3232 t 15
+3233 a 9
+3234 u 7
+3235 o 7
+3236 f 9
+3237 i 8
+3240 a 24
+3241 c 4
+3242 d 7
+3243 x 5
+3244 d 10
+3245 f 7
+3246 p 8
+3247 h 11
+3250 i 9
+3251 g 15
+3252 p 11
+3253 a 22
+3254 f 17
+3255 p 10
+3256 p 11
+3257 u 2
+3260 e 6
+3261 r 7
+3262 a 9
+3263 z 5
+3264 r 7
+3265 x 13
+3266 l 3
+3267 g 3
+3270 o 9
+3271 e 12
+3272 m 8
+3273 j 4
+3274 g 4
+3275 r 13
+3276 v 11
+3277 j 12
+3300 e 13
+3301 d 4
+3302 f 5
+3303 f 8
+3304 r 6
+3305 n 11
+3306 d 13
+3307 x 8
+3310 r 7
+3311 j 10
+3312 s 5
+3313 s 7
+3314 k 4
+3315 m 5
+3316 i 4
+3317 b 9
+3320 p 4
+3321 d 11
+3322 e 7
+3323 x 6
+3324 g 12
+3325 y 12
+3326 r 6
+3327 s 8
+3330 t 5
+3331 g 12
+3332 f 7
+3333 h 7
+3334 m 10
+3335 l 10
+3336 n 14
+3337 r 15
+3340 c 10
+3341 g 6
+3342 g 7
+3343 v 8
+3344 f 10
+3345 l 3
+3346 n 16
+3347 a 24
+3350 e 5
+3351 m 4
+3352 g 9
+3353 c 10
+3354 i 17
+3355 q 11
+3356 u 5
+3357 p 7
+3360 o 8
+3361 p 10
+3362 h 9
+3363 p 11
+3364 r 7
+3365 l 8
+3366 s 3
+3367 r 3
+3370 d 12
+3371 a 16
+3372 b 6
+3373 s 9
+3374 x 8
+3375 t 14
+3376 g 9
+3377 p 8
+3400 r 5
+3401 s 6
+3402 p 8
+3403 g 21
+3404 x 5
+3405 c 13
+3406 e 10
+3407 r 5
+3410 r 13
+3411 p 5
+3412 s 3
+3413 j 14
+3414 m 2
+3415 a 35
+3416 s 7
+3417 n 17
+3420 o 12
+3421 g 19
+3422 d 10
+3423 g 10
+3424 h 8
+3425 c 3
+3426 l 7
+3427 a 4
+3430 l 6
+3431 a 22
+3432 g 10
+3433 m 7
+3434 c 6
+3435 s 2
+3436 f 4
+3437 p 23
+3440 f 19
+3441 c 17
+3442 g 4
+3443 l 15
+3444 g 12
+3445 g 20
+3446 y 3
+3447 h 18
+3450 w 4
+3451 e 2
+3452 k 6
+3453 o 15
+3454 p 9
+3455 l 6
+3456 p 6
+3457 n 18
+3460 v 13
+3461 r 9
+3462 v 18
+3463 m 8
+3464 s 6
+3465 t 9
+3466 c 4
+3467 r 13
+3470 f 12
+3471 p 13
+3472 b 5
+3473 v 8
+3474 d 5
+3475 p 10
+3476 t 9
+3477 g 13
+3500 e 3
+3501 g 21
+3502 p 3
+3503 r 7
+3504 a 9
+3505 e 12
+3506 s 7
+3507 p 7
+3510 n 10
+3511 p 8
+3512 g 3
+3513 c 7
+3514 i 8
+3515 a 5
+3516 d 11
+3517 u 6
+3520 s 8
+3521 o 8
+3522 c 8
+3523 c 10
+3524 x 8
+3525 g 14
+3526 y 4
+3527 f 8
+3530 b 14
+3531 g 12
+3532 e 5
+3533 b 9
+3534 c 7
+3535 s 6
+3536 n 14
+3537 a 8
+3540 s 7
+3541 a 7
+3542 u 23
+3543 n 9
+3544 s 3
+3545 h 7
+3546 M 4
+3547 n 5
+3550 u 11
+3551 x 8
+3552 a 14
+3553 n 12
+3554 c 12
+3555 g 22
+3556 m 5
+3557 g 6
+3560 d 6
+3561 r 2
+3562 l 7
+3563 n 11
+3564 x 3
+3565 p 3
+3566 c 3
+3567 p 6
+3570 c 5
+3571 n 9
+3572 g 9
+3573 p 21
+3574 u 15
+3575 p 8
+3576 g 4
+3577 p 6
+3600 f 4
+3601 s 5
+3602 k 8
+3603 c 8
+3604 f 9
+3605 e 10
+3606 g 10
+3607 v 17
+3610 p 12
+3611 p 11
+3612 t 11
+3613 s 8
+3614 t 16
+3615 p 3
+3616 u 6
+3617 a 6
+3620 e 3
+3621 l 8
+3622 r 3
+3623 p 3
+3624 t 23
+3625 h 6
+3626 s 11
+3627 v 3
+3630 s 4
+3631 d 14
+3632 j 15
+3633 u 7
+3634 p 8
+3635 s 6
+3636 a 26
+3637 x 22
+3640 b 11
+3641 u 20
+3642 f 18
+3643 l 8
+3644 a 5
+3645 g 7
+3646 h 11
+3647 c 12
+3650 l 10
+3651 d 3
+3652 p 6
+3653 c 10
+3654 s 7
+3655 g 7
+3656 n 6
+3657 s 5
+3660 r 11
+3661 n 13
+3662 t 20
+3663 l 8
+3664 m 6
+3665 x 11
+3666 x 9
+3667 o 10
+3670 l 10
+3671 a 21
+3672 c 2
+3673 s 10
+3674 u 11
+3675 v 2
+3676 j 5
+3677 a 33
+3700 g 7
+3701 k 4
+3702 e 13
+3703 m 5
+3704 g 14
+3705 x 3
+3706 r 7
+3707 v 3
+3710 x 6
+3711 i 3
+3712 l 2
+3713 s 7
+3714 t 11
+3715 s 4
+3716 g 8
+3717 n 11
+3720 g 10
+3721 l 9
+3722 p 8
+3723 g 4
+3724 p 5
+3725 x 11
+3726 r 5
+3727 i 12
+3730 e 6
+3731 t 6
+3732 x 11
+3733 g 3
+3734 p 6
+3735 c 5
+3736 s 16
+3737 h 8
+3740 c 4
+3741 g 11
+3742 s 20
+3743 t 11
+3744 g 9
+3745 f 10
+3746 w 8
+3747 s 7
+3750 u 6
+3751 p 4
+3752 x 7
+3753 o 6
+3754 m 4
+3755 v 4
+3756 c 6
+3757 j 5
+3760 v 8
+3761 x 2
+3762 w 1
+3763 z 7
+3764 s 13
+3765 a 6
+3766 p 5
+3767 x 19
+3770 m 4
+3771 a 2
+3772 x 8
+3773 r 3
+3774 g 26
+3775 k 14
+3776 a 8
+3777 m 11
+4000 l 4
+4001 f 14
+4002 p 8
+4003 n 13
+4004 c 11
+4005 i 7
+4006 a 10
+4007 a 8
+4010 b 7
+4011 a 7
+4012 u 22
+4013 p 4
+4014 p 7
+4015 a 7
+4016 g 19
+4017 l 6
+4020 c 7
+4021 [ 1
+4022 d 2
+4023 m 7
+4024 l 2
+4025 d 7
+4026 o 10
+4027 g 13
+4030 g 17
+4031 n 7
+4032 z 6
+4033 g 6
+4034 f 11
+4035 h 7
+4036 b 8
+4037 s 7
+4040 x 3
+4041 p 6
+4042 g 12
+4043 p 8
+4044 o 7
+4045 v 8
+4046 g 8
+4047 p 6
+4050 s 19
+4051 c 16
+4052 c 6
+4053 r 6
+4054 r 8
+4055 p 6
+4056 x 20
+4057 W 15
+4060 g 4
+4061 f 6
+dir_arr[0] = (null)
+dir_arr[1] = (null)
+dir_arr[2] = eoops
+dir_arr[3] = cp
+dir_arr[4] = en
+dir_arr[5] = 
+dir_arr[6] = I•4)y 
+dir_arr[7] = ]ÆÅBy8
+dir_arr[8] = erability
+dir_arr[9] = 9E1Fy 
+dir_arr[10] = ÚGy
+dir_arr[11] = ebook-convert
+dir_arr[12] = mount
+dir_arr[13] = genl-ctrl-list
+dir_arr[14] = Æpyy
+dir_arr[15] = rrdinfo
+dir_arr[16] = vlc
+dir_arr[17] = atq
+dir_arr[18] = 
+dir_arr[19] = 
+dir_arr[20] = ist
+dir_arr[21] = svlc
+dir_arr[22] = 
+dir_arr[23] = 
+dir_arr[24] = ‚<z 
+dir_arr[25] = è¾%Oz 
+dir_arr[26] = gslp
+dir_arr[27] = 
+dir_arr[28] = nel
+dir_arr[29] = 0
+dir_arr[30] = 
+dir_arr[31] = 
+dir_arr[32] = 
+dir_arr[33] = 
+dir_arr[34] = 
+dir_arr[35] = 
+dir_arr[36] = 
+dir_arr[37] = JCÀ3{
+dir_arr[38] = ghostscript
+dir_arr[39] = lseaudio-x11
+dir_arr[40] = tpm2_create
+dir_arr[41] = ;İ[S{ 
+dir_arr[42] = ì*äj{ 
+dir_arr[43] = 
+dir_arr[44] = 
+dir_arr[45] = espep/†
+dir_arr[46] = vmwaò†
+dir_arr[47] = 
+dir_arr[48] = 
+dir_arr[49] = ãH:¥{
+dir_arr[50] = vcut
+dir_arr[51] = xfceg$†
+dir_arr[52] = javac
+dir_arr[53] = vmtoolsd
+dir_arr[54] = xz
+dir_arr[55] = w
+dir_arr[56] = booteA†
+dir_arr[57] = gedit
+dir_arr[58] = 
+dir_arr[59] = xdg-N†
+dir_arr[60] = ter
+dir_arr[61] = áêßN|
+dir_arr[62] = @VZ| 
+dir_arr[63] = ‡µ³`|
+dir_arr[64] = y-immodules-2.0-64
+dir_arr[65] = ÷Mßu|(
+dir_arr[66] = 
+dir_arr[67] = 
+dir_arr[68] = ale
+dir_arr[69] = V‹œ|(
+dir_arr[70] = 
+dir_arr[71] = 
+dir_arr[72] = 
+dir_arr[73] = 
+dir_arr[74] = 
+dir_arr[75] = 
+dir_arr[76] = 
+dir_arr[77] = ssio
+_†
+dir_arr[78] = tpm2Ä†
+dir_arr[79] = rypto-policies
+dir_arr[80] = pip3
+dir_arr[81] = ª0ğq} 
+dir_arr[82] = gio-querymodules-32
+dir_arr[83] = ltrace
+dir_arr[84] = ccttest
+dir_arr[85] = [
+dir_arr[86] = du
+dir_arr[87] = tpm2aD†
+dir_arr[88] = 
+dir_arr[89] = 
+dir_arr[90] = ©´.~(
+dir_arr[91] = 
+dir_arr[92] = e
+dir_arr[93] = 
+dir_arr[94] = -ÿö¡~ 
+dir_arr[95] = G-`¯~ 
+dir_arr[96] = 
+dir_arr[97] = 
+dir_arr[98] = 
+dir_arr[99] = 
+dir_arr[100] = 
+dir_arr[101] = 
+dir_arr[102] = 
+dir_arr[103] = 
+dir_arr[104] = 
+dir_arr[105] = 
+dir_arr[106] = H«P 
+dir_arr[107] = Å”7x(
+dir_arr[108] = 
+dir_arr[109] = 
+dir_arr[110] = sealMG†
+dir_arr[111] = upda×7†
+dir_arr[112] = 
+dir_arr[113] = 
+dir_arr[114] = aver-command
+dir_arr[115] = WebKitWebDriver
+dir_arr[116] = grep
+dir_arr[117] = 2ªS
+ 
+dir_arr[118] = msgcomm
+dir_arr[119] = 
+dir_arr[120] = Pé
+qC(
+dir_arr[121] = LYÿC(
+dir_arr[122] = 
+dir_arr[123] = md5
+dir_arr[124] = gvfs-save
+dir_arr[125] = cdÌºC(
+dir_arr[126] = 
+dir_arr[127] = plications
+dir_arr[128] = mini
+q6†
+dir_arr[129] = p
+dir_arr[130] = 
+dir_arr[131] = 
+dir_arr[132] = jack†
+dir_arr[133] = aseqş†
+dir_arr[134] = 
+dir_arr[135] = 
+dir_arr[136] = 
+dir_arr[137] = 
+dir_arr[138] = les-3.0-64
+dir_arr[139] = nl-neightbl-list
+dir_arr[140] = 
+dir_arr[141] = 
+dir_arr[142] = 
+dir_arr[143] = 
+dir_arr[144] = 
+dir_arr[145] = 
+dir_arr[146] = gcc-ranlib
+dir_arr[147] = lpstat
+dir_arr[148] = ß7-&E 
+dir_arr[149] = |¯9'E(
+dir_arr[150] = 
+dir_arr[151] = 
+dir_arr[152] = 
+dir_arr[153] = 
+dir_arr[154] = 
+dir_arr[155] = R—$×E 
+dir_arr[156] = Ñæ
+âE 
+dir_arr[157] = ®’KãE(
+dir_arr[158] = 
+dir_arr[159] = 
+dir_arr[160] = 2}F 
+dir_arr[161] = ´z#F 
+dir_arr[162] = 
+dir_arr[163] = ²îBF(
+dir_arr[164] = 
+dir_arr[165] = 
+dir_arr[166] = €ÅyF 
+dir_arr[167] = ¹ğ¼F(
+dir_arr[168] = 
+dir_arr[169] = 
+dir_arr[170] = 
+dir_arr[171] = 
+dir_arr[172] = 
+dir_arr[173] = 
+dir_arr[174] = 
+dir_arr[175] = numfe7†
+dir_arr[176] = d
+dir_arr[177] = specplot
+dir_arr[178] = ode
+dir_arr[179] = newgrp
+dir_arr[180] = qmic-H†
+dir_arr[181] = er
+dir_arr[182] = top-icon
+dir_arr[183] = gnome-keyring-3
+dir_arr[184] = 
+dir_arr[185] = ciptÂ^†
+dir_arr[186] = ts
+dir_arr[187] = ´rf°G 
+dir_arr[188] = ^×¹G 
+dir_arr[189] = ÿ@ÕÆG 
+dir_arr[190] = É	(ÜG 
+dir_arr[191] = epPëG 
+dir_arr[192] = ©CïG(
+dir_arr[193] = 
+dir_arr[194] = ßÄöG8
+dir_arr[195] = 
+dir_arr[196] = >Ü|H(
+dir_arr[197] = è:£H(
+dir_arr[198] = svnadmin
+dir_arr[199] = pod2man
+dir_arr[200] = sexp-conv
+dir_arr[201] = encguess
+dir_arr[202] = pip-2.7
+dir_arr[203] = write
+dir_arr[204] = ion-analyze-vmcore
+dir_arr[205] = 
+dir_arr[206] = m nH 
+dir_arr[207] = ñ-p‰H 
+dir_arr[208] = 'œH(
+dir_arr[209] = |¡H(
+dir_arr[210] = 
+dir_arr[211] = 
+dir_arr[212] = 
+dir_arr[213] = fc-qŒ†
+dir_arr[214] = disp
+Â,†
+dir_arr[215] = xzgrÑF†
+dir_arr[216] = ion-list-dsos
+dir_arr[217] = ÿÎ>I 
+dir_arr[218] = 
+dir_arr[219] = pkmon
+dir_arr[220] = chgrp
+dir_arr[221] = pinentry
+dir_arr[222] = xfce4-settings-editor
+dir_arr[223] = 
+dir_arr[224] = 
+dir_arr[225] = 
+dir_arr[226] = 
+dir_arr[227] = ate
+dir_arr[228] = gnoméQ†
+dir_arr[229] = 
+dir_arr[230] = 
+dir_arr[231] = t
+dir_arr[232] = —ÿÖNJ 
+dir_arr[233] = ¬¦[J(
+dir_arr[234] = 0=cJ 
+dir_arr[235] = uµÙfJ 
+dir_arr[236] = ¨h]qJ(
+dir_arr[237] = n
+dir_arr[238] = tee
+dir_arr[239] = pdftotext
+dir_arr[240] = ntfsrecover
+dir_arr[241] = smbcacls
+dir_arr[242] = vmware-hgfsclient
+dir_arr[243] = b>céJ
+dir_arr[244] = grub2-mkstandalone
+dir_arr[245] = X
+dir_arr[246] = 
+dir_arr[247] = 
+dir_arr[248] = utattach
+dir_arr[249] = asunder
+dir_arr[250] = celtenc071
+dir_arr[251] = reporter-print
+dir_arr[252] = 
+dir_arr[253] = 
+dir_arr[254] = ÷Ã¡K 
+dir_arr[255] = æf¶K 
+dir_arr[256] = ~jE¹K(
+dir_arr[257] = 
+dir_arr[258] = ×ºÇK(
+dir_arr[259] = ldap`!†
+dir_arr[260] = pdftÒ,†
+dir_arr[261] = autoæ'†
+dir_arr[262] = cairì&†
+dir_arr[263] = auto‡†
+dir_arr[264] = dotlJ†
+dir_arr[265] = tk
+dir_arr[266] = tpm2|]†
+dir_arr[267] = t
+dir_arr[268] = 
+dir_arr[269] = gproÈ†
+dir_arr[270] = 
+dir_arr[271] = 
+dir_arr[272] = 
+dir_arr[273] = 
+dir_arr[274] = 
+dir_arr[275] = file
+dir_arr[276] = ion-check-oops-for-alt-component
+dir_arr[277] = 
+dir_arr[278] = fmt
+dir_arr[279] = firewall-cmd
+dir_arr[280] = markdown-calibre
+dir_arr[281] = 
+dir_arr[282] = 
+dir_arr[283] = uery
+dir_arr[284] = 
+dir_arr[285] = 
+dir_arr[286] = 
+dir_arr[287] = 
+dir_arr[288] = 
+dir_arr[289] = ¯«¼vM 
+dir_arr[290] = ÆJ¡M0
+dir_arr[291] = -64
+dir_arr[292] = jack…&†
+dir_arr[293] = 
+dir_arr[294] = jLÛÎM 
+dir_arr[295] = İqÊğM 
+dir_arr[296] = Xorg
+dir_arr[297] = 
+dir_arr[298] = ¢"€N 
+dir_arr[299] = VG5N 
+dir_arr[300] = Ït7N(
+dir_arr[301] = gvieX4†
+dir_arr[302] = work
+dir_arr[303] = 
+dir_arr[304] = 
+dir_arr[305] = !Â´zN
+dir_arr[306] = pkcs11-tool
+dir_arr[307] = systemd-ask-password
+dir_arr[308] = ta†N(
+dir_arr[309] = 
+dir_arr[310] = 
+dir_arr[311] = 
+dir_arr[312] = ‚£N 
+dir_arr[313] = 
+dir_arr[314] = e
+dir_arr[315] = 
+dir_arr[316] = é‹€âN 
+dir_arr[317] = 3‰kO 
+dir_arr[318] = Š˜pO 
+dir_arr[319] = conch
+dir_arr[320] = 
+dir_arr[321] = -add
+dir_arr[322] = 
+dir_arr[323] = eu-readelf
+dir_arr[324] = grub2-menulst2cfg
+dir_arr[325] = 
+dir_arr[326] = 
+dir_arr[327] = 
+dir_arr[328] = 
+dir_arr[329] = r
+dir_arr[330] = -searchprinter
+dir_arr[331] = »í‰¸O 
+dir_arr[332] = "j\ÄO 
+dir_arr[333] = áÖO
+dir_arr[334] = h
+dir_arr[335] = 
+dir_arr[336] = 
+dir_arr[337] = nl-c°]†
+dir_arr[338] = clevvY†
+dir_arr[339] = 
+dir_arr[340] = 
+dir_arr[341] = 
+dir_arr[342] = bãpP 
+dir_arr[343] = ú³ôrP 
+dir_arr[344] = 
+dir_arr[345] = 
+dir_arr[346] = ions
+dir_arr[347] = 
+dir_arr[348] = er
+dir_arr[349] = 
+dir_arr[350] = -edit
+dir_arr[351] = eu-ar
+dir_arr[352] = signver
+dir_arr[353] = xfce4-power-manager
+dir_arr[354] = 
+dir_arr[355] = fixc<†
+dir_arr[356] = 
+dir_arr[357] = 
+dir_arr[358] = 
+dir_arr[359] = TëÎQ
+dir_arr[360] = gcm-picker
+dir_arr[361] = pdfunite
+dir_arr[362] = ŸùºR 
+dir_arr[363] = XpÏR 
+dir_arr[364] = 
+dir_arr[365] = 
+dir_arr[366] = 
+dir_arr[367] = 
+dir_arr[368] = msggk2†
+dir_arr[369] = ent_client
+dir_arr[370] = zvbi-atsc-cc
+dir_arr[371] = u"ÛPR
+dir_arr[372] = attr
+dir_arr[373] = sotró,†
+dir_arr[374] = canbü†
+dir_arr[375] = l
+dir_arr[376] = or
+dir_arr[377] = 
+dir_arr[378] = umasõ
+†
+dir_arr[379] = xinp_,†
+dir_arr[380] = rmdtÆ(†
+dir_arr[381] = 
+dir_arr[382] = me-settings
+dir_arr[383] = øóîßR 
+dir_arr[384] = ion-analyze-ccpp-local
+dir_arr[385] = a+íR 
+dir_arr[386] = 
+dir_arr[387] = 
+dir_arr[388] = 
+dir_arr[389] = 
+dir_arr[390] = 
+dir_arr[391] = k=1S0
+dir_arr[392] = ctivate
+dir_arr[393] = ØÔES(
+dir_arr[394] = 
+dir_arr[395] = 
+dir_arr[396] = umouD†
+dir_arr[397] = 
+dir_arr[398] = 
+dir_arr[399] = rğS 
+dir_arr[400] = 
+dir_arr[401] = xfwmÇP†
+dir_arr[402] = ap
+dir_arr[403] = gst-
+I,†
+dir_arr[404] = 
+dir_arr[405] = y¤T
+dir_arr[406] = xfdesktop
+dir_arr[407] = pinfo
+dir_arr[408] = systemd-detect-virt
+dir_arr[409] = gvfs-trash
+dir_arr[410] = ÔÅõST
+dir_arr[411] = system-config-language
+dir_arr[412] = 
+dir_arr[413] = 
+dir_arr[414] = 
+dir_arr[415] = ewinit
+dir_arr[416] = rpm2g†
+dir_arr[417] = run-˜4†
+dir_arr[418] = d
+dir_arr[419] = 
+dir_arr[420] = Î4ŸµT 
+dir_arr[421] = Â¡óÍT
+dir_arr[422] = ê‰âT 
+dir_arr[423] = unix2mac
+dir_arr[424] = cb2ti3
+dir_arr[425] = y
+dir_arr[426] = transmission-show
+dir_arr[427] = msgconv
+dir_arr[428] = locate
+dir_arr[429] = perlÀK†
+dir_arr[430] = syntí,†
+dir_arr[431] = isdn5†
+dir_arr[432] = te
+dir_arr[433] = edhat-linux-gcc-8
+dir_arr[434] = Zò¹rU 
+dir_arr[435] = 
+dir_arr[436] = 
+dir_arr[437] = -gtk-play
+dir_arr[438] = nf-exp-add
+dir_arr[439] = vboxtoau
+dir_arr[440] = find
+dir_arr[441] = ion-perform-ccpp-analysis
+dir_arr[442] = pathplot
+dir_arr[443] = hp-sendfax
+dir_arr[444] = icctest
+dir_arr[445] = lp
+dir_arr[446] = 
+dir_arr[447] = K¦…V 
+dir_arr[448] = gio-querymodules-64
+dir_arr[449] = abrt-action-install-debuginfo
+dir_arr[450] = mkfo”†
+dir_arr[451] = -2.7.py
+dir_arr[452] = º°<ÊV 
+dir_arr[453] = abrt-action-analyze-core
+dir_arr[454] = Ká!ŞV 
+dir_arr[455] = ã­ÀøV 
+dir_arr[456] = mailmail
+dir_arr[457] = nl-list-sockets
+dir_arr[458] = Hpã}W 
+dir_arr[459] = 
+dir_arr[460] = 
+dir_arr[461] = 
+dir_arr[462] = pkcs15-init
+dir_arr[463] = ëdôW 
+dir_arr[464] = ›ë™úW(
+dir_arr[465] = 
+dir_arr[466] = 
+dir_arr[467] = 
+dir_arr[468] = ge
+dir_arr[469] = rn
+dir_arr[470] = y
+dir_arr[471] = sion-gtk
+dir_arr[472] = Êº–X 
+dir_arr[473] = 
+dir_arr[474] = ãÙX(
+dir_arr[475] = 
+dir_arr[476] = linu¥]†
+dir_arr[477] = -perfevents
+dir_arr[478] = ntfsinfo
+dir_arr[479] = sion_notify
+dir_arr[480] = nettle-hash
+dir_arr[481] = rescue
+dir_arr[482] = dbus-launch
+dir_arr[483] = reporter-systemd-journal
+dir_arr[484] = 
+dir_arr[485] = layout
+dir_arr[486] = tmux
+dir_arr[487] = gdb
+dir_arr[488] = 
+dir_arr[489] = cl
+dir_arr[490] = setpõ#†
+dir_arr[491] = ect-agent
+dir_arr[492] = taskset
+dir_arr[493] = gvimdiff
+dir_arr[494] = rol
+dir_arr[495] = sha3fA†
+dir_arr[496] = 
+dir_arr[497] = -add
+dir_arr[498] = pt
+dir_arr[499] = dircµD†
+dir_arr[500] = rt
+dir_arr[501] = rt
+dir_arr[502] = 
+dir_arr[503] = 
+dir_arr[504] = 
+dir_arr[505] = 
+dir_arr[506] = 
+dir_arr[507] = er
+dir_arr[508] = py2
+dir_arr[509] = jack·	†
+dir_arr[510] = 64
+dir_arr[511] = up
+dir_arr[512] = gpg-õ,†
+dir_arr[513] = playæQ†
+dir_arr[514] = m
+dir_arr[515] = l
+dir_arr[516] = extend
+dir_arr[517] = rvice
+dir_arr[518] = VÚâ[ 
+dir_arr[519] = B†÷é[ 
+dir_arr[520] = 
+dir_arr[521] = elete
+dir_arr[522] = loadkeys
+dir_arr[523] = ntfsfix
+dir_arr[524] = xmlwf
+dir_arr[525] = libinput
+dir_arr[526] = luksmeta
+dir_arr[527] = ¿J+\
+dir_arr[528] = udisksctl
+dir_arr[529] = ©á„>\ 
+dir_arr[530] = h"ÒU\(
+dir_arr[531] = 
+dir_arr[532] = e§§q\ 
+dir_arr[533] = !üt\ 
+dir_arr[534] = I\’w\ 
+dir_arr[535] = 
+dir_arr[536] = #Ó)‚\
+dir_arr[537] = p
+dir_arr[538] = 
+dir_arr[539] = sha1sum
+dir_arr[540] = xzeg+%†
+dir_arr[541] = ups
+dir_arr[542] = msgaiF†
+dir_arr[543] = ion-analyze-c
+dir_arr[544] = >2] 
+dir_arr[545] = PZß~]
+dir_arr[546] = ï(] 
+dir_arr[547] = Å`Ö‡] 
+dir_arr[548] = ÓÛÑ¸] 
+dir_arr[549] = ÷­ÜÂ](
+dir_arr[550] = 
+dir_arr[551] = 
+dir_arr[552] = d
+dir_arr[553] = ld.b<#†
+dir_arr[554] = lsmod
+dir_arr[555] = i386
+dir_arr[556] = msgi@†
+dir_arr[557] = db-upgrade
+dir_arr[558] = nl-link-stats
+dir_arr[559] = ÄÙÀl^ 
+dir_arr[560] = sudoreplay
+dir_arr[561] = -mounter
+dir_arr[562] = rpmdev-md5
+dir_arr[563] = _link
+dir_arr[564] = time
+dir_arr[565] = 
+dir_arr[566] = ÆEşá^(
+dir_arr[567] = k7ú^ 
+dir_arr[568] = 4« _0
+dir_arr[569] = 
+dir_arr[570] = 
+dir_arr[571] = xfceZs†
+dir_arr[572] = 
+dir_arr[573] = r
+dir_arr[574] = l
+dir_arr[575] = pack¹^†
+dir_arr[576] = xer
+dir_arr[577] = 
+dir_arr[578] = add
+dir_arr[579] = yring
+dir_arr[580] = capiØ†
+dir_arr[581] = tpm2
+t†
+dir_arr[582] = ct
+dir_arr[583] = opgprof
+dir_arr[584] = cvlc
+dir_arr[585] = 
+dir_arr[586] = cddaT†
+dir_arr[587] = ecrypt-http
+dir_arr[588] = seahorse
+dir_arr[589] = 
+dir_arr[590] = 
+dir_arr[591] = 
+dir_arr[592] = 
+dir_arr[593] = kSk…` 
+dir_arr[594] = @é‰` 
+dir_arr[595] = HÓĞ´` 
+dir_arr[596] = grub2-editenv
+dir_arr[597] = ÈÑ¶`
+dir_arr[598] = sscg
+dir_arr[599] = 
+dir_arr[600] = 
+dir_arr[601] = data
+dir_arr[602] = d
+dir_arr[603] = 
+dir_arr[604] = plymÕr†
+dir_arr[605] = tk
+dir_arr[606] = 
+dir_arr[607] = 
+dir_arr[608] = 
+dir_arr[609] = 
+dir_arr[610] = 
+dir_arr[611] = nameÂC†
+dir_arr[612] = rl-handler
+dir_arr[613] = miniterm-2.py
+dir_arr[614] = json–-†
+dir_arr[615] = dwp
+dir_arr[616] = coverage3
+dir_arr[617] = ps2ps2
+dir_arr[618] = 
+dir_arr[619] = 
+dir_arr[620] = 
+dir_arr[621] = hp·/b0
+dir_arr[622] = syst
+¤&†
+dir_arr[623] = es
+dir_arr[624] = fc-c†P†
+dir_arr[625] = idn2ÖP†
+dir_arr[626] = vlock
+dir_arr[627] = xfce4-popup-directorymenu
+dir_arr[628] = u
+dir_arr[629] = libieee1284_test
+dir_arr[630] = ¨&D±b 
+dir_arr[631] = 9ºÇb 
+dir_arr[632] = 1—Çb(
+dir_arr[633] = â«Ğb0
+dir_arr[634] = look¤-†
+dir_arr[635] = systemd-sysusers
+dir_arr[636] = È€Çîb 
+dir_arr[637] = „^"c(
+dir_arr[638] = t
+dir_arr[639] = delta
+dir_arr[640] = rpmdev-checksig
+dir_arr[641] = gcov-tool
+dir_arr[642] = svc_recv
+dir_arr[643] = ccti†
+dir_arr[644] = -add
+dir_arr[645] = 
+dir_arr[646] = ial
+dir_arr[647] = ps2pËz†
+dir_arr[648] = 0.6
+dir_arr[649] = ecrypt-tpm2
+dir_arr[650] = extracticc
+dir_arr[651] = 
+dir_arr[652] = 	OBìc 
+dir_arr[653] = <\`ïc 
+dir_arr[654] = 
+dir_arr[655] = 
+dir_arr[656] = 
+dir_arr[657] = 
+dir_arr[658] = 
+dir_arr[659] = 
+dir_arr[660] = systX†
+dir_arr[661] = ttp
+dir_arr[662] = 
+dir_arr[663] = 
+dir_arr[664] = ™âd 
+dir_arr[665] = ‰Ğüd
+dir_arr[666] = scanimage
+dir_arr[667] = 
+dir_arr[668] = ect-0.3
+dir_arr[669] = Ş˜=8e 
+dir_arr[670] = gvfs-rm
+dir_arr[671] = m4
+dir_arr[672] = 
+dir_arr[673] = dexternal
+dir_arr[674] = dracut
+dir_arr[675] = tset
+dir_arr[676] = 
+dir_arr[677] = dbusá„†
+dir_arr[678] = k«éÃe
+dir_arr[679] = …2SÉe 
+dir_arr[680] = t†Ìe 
+dir_arr[681] = jack?†
+dir_arr[682] = e
+dir_arr[683] = gzip
+dir_arr[684] = 
+dir_arr[685] = ší+f 
+dir_arr[686] = -şì3f
+dir_arr[687] = gdk-pixbuf-query-loaders-32
+dir_arr[688] = 7Vf(
+dir_arr[689] = 
+dir_arr[690] = 
+dir_arr[691] = 
+dir_arr[692] = gpg-error
+dir_arr[693] = Bêr’f 
+dir_arr[694] = ÅJö™f 
+dir_arr[695] = deluge
+dir_arr[696] = rebuild-jar-repository
+dir_arr[697] = 
+dir_arr[698] = 
+dir_arr[699] = 
+dir_arr[700] = 
+dir_arr[701] = nux-g++
+dir_arr[702] = Êád4g0
+dir_arr[703] = ockout
+dir_arr[704] = ar-links
+dir_arr[705] = jack_disconnect
+dir_arr[706] = Igag(
+dir_arr[707] = 
+dir_arr[708] = lp.c&;†
+dir_arr[709] = g
+dir_arr[710] = nosef†
+dir_arr[711] = jarsÁ,†
+dir_arr[712] = e
+dir_arr[713] = iso-info
+dir_arr[714] = yze-xorg
+dir_arr[715] = 
+dir_arr[716] = 
+dir_arr[717] = 
+dir_arr[718] = 
+dir_arr[719] = jackÖ†
+dir_arr[720] = 
+dir_arr[721] = ate
+dir_arr[722] = ö¦¥Fh(
+dir_arr[723] = pre-grohtml
+dir_arr[724] = abrt-dump-journal-xorg
+dir_arr[725] = 
+dir_arr[726] = -printjob
+dir_arr[727] = M€h 
+dir_arr[728] = pasuspender
+dir_arr[729] = –Ö4ªh
+dir_arr[730] = Kœ;¬h 
+dir_arr[731] =  w:·h 
+dir_arr[732] = çÑÑh 
+dir_arr[733] = Y|…Üh 
+dir_arr[734] = >]íh 
+dir_arr[735] = `$ui(
+dir_arr[736] = gzexR_†
+dir_arr[737] = 
+dir_arr[738] = 
+dir_arr[739] = c
+dir_arr[740] = ewer
+dir_arr[741] = 
+dir_arr[742] = gaim
+dir_arr[743] = ha224
+dir_arr[744] = vmware-user
+dir_arr[745] = jigdo-mirror
+dir_arr[746] = ³´¬ùi(
+dir_arr[747] = ³Ï:0j
+dir_arr[748] = false
+dir_arr[749] = flipdiff
+dir_arr[750] = (ƒBj 
+dir_arr[751] = netkey-tool
+dir_arr[752] = db_log_verify
+dir_arr[753] = 
+dir_arr[754] = 
+dir_arr[755] = 
+dir_arr[756] = 
+dir_arr[757] = 
+dir_arr[758] = aàÌj 
+dir_arr[759] = ûhzj
+dir_arr[760] = blueberry
+dir_arr[761] = paps
+dir_arr[762] = log
+dir_arr[763] = syst:†
+dir_arr[764] = unpi
+QD†
+dir_arr[765] = test
+dir_arr[766] = name
+dir_arr[767] = sha5`Z†
+dir_arr[768] = 
+dir_arr[769] = cvtsNˆ†
+dir_arr[770] = tion
+dir_arr[771] = manp¡/†
+dir_arr[772] = librÁL†
+dir_arr[773] = tl
+dir_arr[774] = 3g
+dir_arr[775] = e-list
+dir_arr[776] = rpmdev-packager
+dir_arr[777] = ËÈÖ’k 
+dir_arr[778] = t²d¤k 
+dir_arr[779] = "g]©k 
+dir_arr[780] = õĞö³k 
+dir_arr[781] = fonttosfnt
+dir_arr[782] = lz4
+dir_arr[783] = cy-check
+dir_arr[784] = STÙk0
+dir_arr[785] = 
+dir_arr[786] = êK
+l
+dir_arr[787] = l
+dir_arr[788] = mp
+dir_arr[789] = h
+dir_arr[790] = ork
+dir_arr[791] = mppcÔ†
+dir_arr[792] = gvfsá]†
+dir_arr[793] = 
+dir_arr[794] = perlthanks
+dir_arr[795] = hciattach
+dir_arr[796] = ool
+dir_arr[797] = arj
+dir_arr[798] = lessecho
+dir_arr[799] = 
+dir_arr[800] = 
+dir_arr[801] = 
+dir_arr[802] = 
+dir_arr[803] = 
+dir_arr[804] = 
+dir_arr[805] = rl†m(
+dir_arr[806] = 
+dir_arr[807] = o
+dir_arr[808] = 
+dir_arr[809] = lpstì,†
+dir_arr[810] = bt-o¡9†
+dir_arr[811] = 
+dir_arr[812] = cache
+dir_arr[813] = xinit
+dir_arr[814] = cisco-decrypt
+dir_arr[815] = ×[<ÿm 
+dir_arr[816] = ôB€n 
+dir_arr[817] = Şãán(
+dir_arr[818] = 
+dir_arr[819] = 
+dir_arr[820] = &•ˆ.n(
+dir_arr[821] = p½í0n
+dir_arr[822] = abrt-action-generate-core-backtrace
+dir_arr[823] = e-backtrace
+dir_arr[824] = stapbpf
+dir_arr[825] = id-lookup
+dir_arr[826] = openfortivpn
+dir_arr[827] = gst-xmlinspect-0.10
+dir_arr[828] = db_recover
+dir_arr[829] = gst-launch
+dir_arr[830] = hp-query
+dir_arr[831] = cat
+dir_arr[832] = lexgrog
+dir_arr[833] = atrm
+dir_arr[834] = coluÔF†
+dir_arr[835] = p-journal-core
+dir_arr[836] = Ïmèn 
+dir_arr[837] = aclo`D†
+dir_arr[838] = eu-s
+m+†
+dir_arr[839] = 
+dir_arr[840] = ì«Ho0
+dir_arr[841] = xfce?Y†
+dir_arr[842] = xml
+dir_arr[843] = 
+dir_arr[844] = ¥”—do(
+dir_arr[845] = dbxt	+†
+dir_arr[846] = kup6
+dir_arr[847] = yring-daemon
+dir_arr[848] = o™‰o
+dir_arr[849] = pdate-ppds
+dir_arr[850] = f³Ršo
+dir_arr[851] = ed
+dir_arr[852] = 
+dir_arr[853] = open|†
+dir_arr[854] = f
+dir_arr[855] = bzeg
+
+dir_arr[856] = ca-l
+2†
+dir_arr[857] = fib-stream
+dir_arr[858] = mment
+dir_arr[859] = rpcclient
+dir_arr[860] = valgrind-di-server
+dir_arr[861] = 
+dir_arr[862] = 
+dir_arr[863] = 
+dir_arr[864] = 
+dir_arr[865] = SÜP^p(
+dir_arr[866] = fakeroot-tcp
+dir_arr[867] = pkcs11-switch
+dir_arr[868] = 
+dir_arr[869] = 
+dir_arr[870] = 
+dir_arr[871] = 
+dir_arr[872] = 
+dir_arr[873] = zÙ_úp(
+dir_arr[874] = 
+dir_arr[875] = gkbd-keyboard-display
+dir_arr[876] = 
+dir_arr[877] = £6^3q 
+dir_arr[878] = (éjGq 
+dir_arr[879] = 
+dir_arr[880] = 
+dir_arr[881] = prtstat
+dir_arr[882] = st
+dir_arr[883] = 
+dir_arr[884] = 
+dir_arr[885] = 
+dir_arr[886] = 
+dir_arr[887] = 
+dir_arr[888] = snÛq 
+dir_arr[889] = •Œğïq 
+dir_arr[890] = èODr 
+dir_arr[891] = „|ÍUr 
+dir_arr[892] = ç¿úWr 
+dir_arr[893] = 0Øjr 
+dir_arr[894] = ¯É…mr(
+dir_arr[895] = 
+dir_arr[896] = ší9‰r 
+dir_arr[897] = ±hĞ r(
+dir_arr[898] = 
+dir_arr[899] = …cÇr 
+dir_arr[900] = ™§Ìr 
+dir_arr[901] = cd-info
+dir_arr[902] = spee†
+dir_arr[903] = txt2e†
+dir_arr[904] = 
+dir_arr[905] = 
+dir_arr[906] = dnfds#†
+dir_arr[907] = esktop-database
+dir_arr[908] = 1LA/s 
+dir_arr[909] = 
+dir_arr[910] = ÄPÁUs 
+dir_arr[911] = Mail
+dir_arr[912] = runcš^†
+dir_arr[913] = ces
+dir_arr[914] = 
+dir_arr[915] = m-util
+dir_arr[916] = native2ascii
+dir_arr[917] = -3.6
+dir_arr[918] = onvert
+dir_arr[919] = mailq
+dir_arr[920] = gcc-nm
+dir_arr[921] = dvcont
+dir_arr[922] = rm
+dir_arr[923] = abrt
+†
+dir_arr[924] = Ûæ8t
+dir_arr[925] = ptx
+dir_arr[926] = eM=@t 
+dir_arr[927] = Ê¨­tt 
+dir_arr[928] = ğLİ‡t 
+dir_arr[929] = 
+dir_arr[930] = /ˆ£t0
+dir_arr[931] = 
+dir_arr[932] = regdA†
+dir_arr[933] = 
+dir_arr[934] = gtbl
+dir_arr[935] = 
+dir_arr[936] = 5¶;u 
+dir_arr[937] = kdumpctl
+dir_arr[938] = compface
+dir_arr[939] = fgconsole
+dir_arr[940] = ebook-edit
+dir_arr[941] = gcm-viewer
+dir_arr[942] = vifm-screen-split
+dir_arr[943] = èi=nu 
+dir_arr[944] = )õpu 
+dir_arr[945] = 
+dir_arr[946] = 
+dir_arr[947] = ‚€Ì“u(
+dir_arr[948] = 
+dir_arr[949] = ~ñÒÜu 
+dir_arr[950] = ÃqZéu 
+dir_arr[951] = 
+dir_arr[952] = 5F7v 
+dir_arr[953] = 
+dir_arr[954] = pic
+dir_arr[955] = tpm2_activatecredential
+dir_arr[956] = 
+dir_arr[957] = gÒw„v 
+dir_arr[958] = Æş‡v
+dir_arr[959] = stty
+dir_arr[960] = tpm2u2†
+dir_arr[961] = xfceÅ	†
+dir_arr[962] = ÿÿÈv 
+dir_arr[963] = 
+dir_arr[964] = gst-½F†
+dir_arr[965] = yze-python
+dir_arr[966] = xfce4-clipman-settings
+dir_arr[967] = ŞÚñv 
+dir_arr[968] = ×Óûv(
+dir_arr[969] = 
+dir_arr[970] = db
+dir_arr[971] = ¯«â,w 
+dir_arr[972] = oÌ.Bw 
+dir_arr[973] = hardened.sh
+dir_arr[974] = calibre-smtp
+dir_arr[975] = ve
+dir_arr[976] = dnf
+dir_arr[977] = patcÖˆ†
+dir_arr[978] = ct
+dir_arr[979] = sqlite3
+dir_arr[980] = gsoelim
+dir_arr[981] = ntfsls
+dir_arr[982] = sleep
+dir_arr[983] = rpmdev-diff
+dir_arr[984] = gset
+†
+dir_arr[985] = ifysignature
+dir_arr[986] = liveinst
+dir_arr[987] = makedb
+dir_arr[988] = Æ&x 
+dir_arr[989] = r
+dir_arr[990] = revfix
+dir_arr[991] = libtoolize
+dir_arr[992] = ge-pstoreoops
+dir_arr[993] = ³£…îx
+dir_arr[994] = ssh-keygen
+dir_arr[995] = usbhid-dump
+dir_arr[996] = vi
+dir_arr[997] = wavp
+ÍF†
+dir_arr[998] = ion-analyze-vulnerability
+dir_arr[999] = 9E1Fy 
+dir_arr[1000] = 
+dir_arr[1001] = nvert
+dir_arr[1002] = x86_Šƒ†
+dir_arr[1003] = l-list
+dir_arr[1004] = rrdinfo
+dir_arr[1005] = vlc
+dir_arr[1006] = atq
+dir_arr[1007] = idn
+dir_arr[1008] = şí³Ây 
+dir_arr[1009] = şêŒÅy 
+dir_arr[1010] = svlc
+dir_arr[1011] = gvfs-cat
+dir_arr[1012] = nosetests-2
+dir_arr[1013] = globaltime
+dir_arr[1014] = libnetcfg
+dir_arr[1015] = piv-tool
+dir_arr[1016] = 
+dir_arr[1017] = œÊ«¤z 
+dir_arr[1018] = ‚ê~¨z 
+dir_arr[1019] = invprofcheck
+dir_arr[1020] = evince
+dir_arr[1021] = „€Æz 
+dir_arr[1022] = zªğz 
+dir_arr[1023] = gex
+dir_arr[1024] = read_†
+dir_arr[1025] = clear
+dir_arr[1026] = _package
+dir_arr[1027] = õµb2{ 
+dir_arr[1028] = JCÀ3{
+dir_arr[1029] = ghostscript
+dir_arr[1030] = start-pulseaudio-x11
+dir_arr[1031] = tpm2_create
+dir_arr[1032] = gcov-dump
+dir_arr[1033] = nt
+dir_arr[1034] = 
+dir_arr[1035] = espep/†
+dir_arr[1036] = vmwaò†
+dir_arr[1037] = ù¼x{ 
+dir_arr[1038] = #œ{ 
+dir_arr[1039] = ãH:¥{
+dir_arr[1040] = vcut
+dir_arr[1041] = xfceg$†
+dir_arr[1042] = &ì{ 
+dir_arr[1043] = gtôõ{
+dir_arr[1044] = w
+dir_arr[1045] = booteA†
+dir_arr[1046] = gedit
+dir_arr[1047] = aulast
+dir_arr[1048] = ppdpo
+dir_arr[1049] = xfce4-screenshooter
+dir_arr[1050] = mail
+dir_arr[1051] = 
+dir_arr[1052] = 
+dir_arr[1053] = š§c|0
+dir_arr[1054] = 64
+dir_arr[1055] = nstall
+dir_arr[1056] = alsa_out
+dir_arr[1057] = mkfontscale
+dir_arr[1058] = (Ï’|
+dir_arr[1059] = fprintd-enroll
+dir_arr[1060] = Pf¬| 
+dir_arr[1061] = ':°|(
+dir_arr[1062] = ssh-r\†
+dir_arr[1063] = ool
+dir_arr[1064] = gsndi†
+dir_arr[1065] = autoheader
+dir_arr[1066] = alsaloop
+dir_arr[1067] = bunzip2
+dir_arr[1068] = tpm2Ä†
+dir_arr[1069] = rypto-policies
+dir_arr[1070] = pip3
+dir_arr[1071] = 
+dir_arr[1072] = 
+dir_arr[1073] = -32
+dir_arr[1074] = cd-rH,†
+dir_arr[1075] = as
+dir_arr[1076] = [
+dir_arr[1077] = du
+dir_arr[1078] = tpm2aD†
+dir_arr[1079] = Ÿ=v~ 
+dir_arr[1080] = UÇn.~ 
+dir_arr[1081] = gdb-add-index
+dir_arr[1082] = b7­S~(
+dir_arr[1083] = ŸÃX{~ 
+dir_arr[1084] = .Ê6”~ 
+dir_arr[1085] = 
+dir_arr[1086] = 
+dir_arr[1087] = -32
+dir_arr[1088] = 
+dir_arr[1089] = 
+dir_arr[1090] = 
+dir_arr[1091] = sô) 
+dir_arr[1092] = Èû^ 
+dir_arr[1093] = —ô$ 
+dir_arr[1094] = wã' 
+dir_arr[1095] = â¡Ô; 
+dir_arr[1096] = 
+dir_arr[1097] = 
+dir_arr[1098] = 
+dir_arr[1099] = 
+dir_arr[1100] = 
+dir_arr[1101] = rrdcgi
+dir_arr[1102] = rpmquery
+dir_arr[1103] = pwmake
+dir_arr[1104] = œñwæ(
+dir_arr[1105] = 
+dir_arr[1106] = pl2pË
+†
+dir_arr[1107] = 
+dir_arr[1108] = calibredb
+dir_arr[1109] = msgcomm
+dir_arr[1110] = teamd
+dir_arr[1111] = tpm2_quote
+dir_arr[1112] = nl-link-ifindex2name
+dir_arr[1113] = strace-log-merge
+dir_arr[1114] = checkisomd5
+dir_arr[1115] = gvfs-save
+dir_arr[1116] = make-dummy-cert
+dir_arr[1117] = exo-preferred-applications
+dir_arr[1118] = bzfgrep
+dir_arr[1119] = faked-tcp
+dir_arr[1120] = hp-align
+dir_arr[1121] = systemd-stdio-bridge
+dir_arr[1122] = xfpanel-switch
+dir_arr[1123] = cksum
+dir_arr[1124] = pydoc2.7
+dir_arr[1125] = ophelp
+dir_arr[1126] = gupnp-dlna-info-2.0
+dir_arr[1127] = lspgpot
+dir_arr[1128] = gtk-query-immodules-3.0-64
+dir_arr[1129] = nl-neightbl-list
+dir_arr[1130] = ocount
+dir_arr[1131] = eu-strip
+dir_arr[1132] = whatis
+dir_arr[1133] = hostname
+dir_arr[1134] = evince-previewer
+dir_arr[1135] = bccmd
+dir_arr[1136] = gcc-ranlib
+dir_arr[1137] = lpstat
+dir_arr[1138] = timeout
+dir_arr[1139] = clevis-decrypt-tang
+dir_arr[1140] = p11-kit
+dir_arr[1141] = mmcli
+dir_arr[1142] = msgfilter
+dir_arr[1143] = isdnconf
+dir_arr[1144] = xauth
+dir_arr[1145] = db_dump185
+dir_arr[1146] = chmem
+dir_arr[1147] = google-chrome
+dir_arr[1148] = regshell
+dir_arr[1149] = bashbug
+dir_arr[1150] = isdnbill
+dir_arr[1151] = lesskey
+dir_arr[1152] = tr
+dir_arr[1153] = svndumpfilter
+dir_arr[1154] = pwqcheck
+dir_arr[1155] = pacat
+dir_arr[1156] = teamdctl
+dir_arr[1157] = rpmdev-sha512
+dir_arr[1158] = mkrfc2734
+dir_arr[1159] = rrdtool
+dir_arr[1160] = opensc-asn1
+dir_arr[1161] = gvfs-monitor-dir
+dir_arr[1162] = iccgamut
+dir_arr[1163] = gpasswd
+dir_arr[1164] = ntfs-3g.probe
+dir_arr[1165] = vncpasswd
+dir_arr[1166] = specplot
+dir_arr[1167] = setmetamode
+dir_arr[1168] = newgrp
+dir_arr[1169] = pkcheck
+dir_arr[1170] = gcr-viewer
+dir_arr[1171] = xdg-desktop-icon
+dir_arr[1172] = gnome-keyring-3
+dir_arr[1173] = findmnt
+dir_arr[1174] = xlsclients
+dir_arr[1175] = bluetoothctl
+dir_arr[1176] = stap-prep
+dir_arr[1177] = kodak2ti3
+dir_arr[1178] = lastlog
+dir_arr[1179] = operf
+dir_arr[1180] = hp-clean
+dir_arr[1181] = imsettings-info
+dir_arr[1182] = unlz4
+dir_arr[1183] = dbus-update-activation-environment
+dir_arr[1184] = foomatic-rip
+dir_arr[1185] = transmission-edit
+dir_arr[1186] = abrt-handle-upload
+dir_arr[1187] = svnadmin
+dir_arr[1188] = pod2man
+dir_arr[1189] = sexp-conv
+dir_arr[1190] = encguess
+dir_arr[1191] = pip-2.7
+dir_arr[1192] = write
+dir_arr[1193] = abrt-action-analyze-vmcore
+dir_arr[1194] = htpasswd
+dir_arr[1195] = nf-ct-add
+dir_arr[1196] = printtarg
+dir_arr[1197] = sylpheed-claws
+dir_arr[1198] = grub2-script-check
+dir_arr[1199] = oodraw
+dir_arr[1200] = fipscheck
+dir_arr[1201] = testlibraw
+dir_arr[1202] = gdbus
+dir_arr[1203] = xzcmp
+dir_arr[1204] = fincore
+dir_arr[1205] = abrt-action-list-dsos
+dir_arr[1206] = reset
+dir_arr[1207] = ps2pdf12
+dir_arr[1208] = nl-rule-list
+dir_arr[1209] = pkmon
+dir_arr[1210] = chgrp
+dir_arr[1211] = pinentry
+dir_arr[1212] = xfce4-settings-editor
+dir_arr[1213] = celtdec071
+dir_arr[1214] = modutil
+dir_arr[1215] = pigz
+dir_arr[1216] = mac2unix
+dir_arr[1217] = cg_annotate
+dir_arr[1218] = rpmpeek
+dir_arr[1219] = rpmls
+dir_arr[1220] = lslocks
+dir_arr[1221] = ssh-agent
+dir_arr[1222] = stat
+dir_arr[1223] = rapper
+dir_arr[1224] = reporter-bugzilla
+dir_arr[1225] = nl-util-addr
+dir_arr[1226] = xstdcmap
+dir_arr[1227] = blivet-gui-daemon
+dir_arr[1228] = troff
+dir_arr[1229] = pdftotext
+dir_arr[1230] = ntfsrecover
+dir_arr[1231] = smbcacls
+dir_arr[1232] = vmware-hgfsclient
+dir_arr[1233] = sftp
+dir_arr[1234] = grub2-mkstandalone
+dir_arr[1235] = nm-connection-editor
+dir_arr[1236] = geoiplookup
+dir_arr[1237] = isdv4-serial-inputattach
+dir_arr[1238] = asunder
+dir_arr[1239] = celtenc071
+dir_arr[1240] = reporter-print
+dir_arr[1241] = nsenter
+dir_arr[1242] = mergerepo_c
+dir_arr[1243] = wvtag
+dir_arr[1244] = ausyscall
+dir_arr[1245] = xfce4-mouse-settings
+dir_arr[1246] = watchgnupg
+dir_arr[1247] = cockpit-bridge
+dir_arr[1248] = aserver
+dir_arr[1249] = logger
+dir_arr[1250] = wmctrl
+dir_arr[1251] = gettext
+dir_arr[1252] = shasum
+dir_arr[1253] = report-gtk
+dir_arr[1254] = xfburn
+dir_arr[1255] = runscript
+dir_arr[1256] = top
+dir_arr[1257] = eu-make-debug-archive
+dir_arr[1258] = gpic
+dir_arr[1259] = ps2epsi
+dir_arr[1260] = xdg-mime
+dir_arr[1261] = xdg-email
+dir_arr[1262] = zipcloak
+dir_arr[1263] = jhat
+dir_arr[1264] = file
+dir_arr[1265] = abrt-action-check-oops-for-alt-component
+dir_arr[1266] = efivar
+dir_arr[1267] = firewall-cmd
+dir_arr[1268] = markdown-calibre
+dir_arr[1269] = envsubst
+dir_arr[1270] = xfconf-query
+dir_arr[1271] = nc
+dir_arr[1272] = scriptreplay
+dir_arr[1273] = bzless
+dir_arr[1274] = xprop
+dir_arr[1275] = jack_test
+dir_arr[1276] = stap
+dir_arr[1277] = opensc-tool
+dir_arr[1278] = gdk-pixbuf-query-loaders-64
+dir_arr[1279] = telnet
+dir_arr[1280] = javadoc
+dir_arr[1281] = report-cli
+dir_arr[1282] = grub2-mkfont
+dir_arr[1283] = lsinitrd
+dir_arr[1284] = Xorg
+dir_arr[1285] = sed
+dir_arr[1286] = nm
+dir_arr[1287] = sha256hmac
+dir_arr[1288] = gstack
+dir_arr[1289] = foomatic-configure
+dir_arr[1290] = cifsdd
+dir_arr[1291] = mbim-network
+dir_arr[1292] = bt-device
+dir_arr[1293] = bzcmp
+dir_arr[1294] = exiv2
+dir_arr[1295] = sync
+dir_arr[1296] = pkcs11-tool
+dir_arr[1297] = systemd-ask-password
+dir_arr[1298] = grub2-glue-efi
+dir_arr[1299] = smbtar
+dir_arr[1300] = xfwm4-workspace-settings
+dir_arr[1301] = nmcli
+dir_arr[1302] = aseqnet
+dir_arr[1303] = rrdcreate
+dir_arr[1304] = bluemoon
+dir_arr[1305] = delv
+dir_arr[1306] = perlivp
+dir_arr[1307] = ssltap
+dir_arr[1308] = hpijs
+dir_arr[1309] = conch
+dir_arr[1310] = hp-setup
+dir_arr[1311] = nl-qdisc-add
+dir_arr[1312] = fribidi
+dir_arr[1313] = l2test
+dir_arr[1314] = eu-readelf
+dir_arr[1315] = grub2-menulst2cfg
+dir_arr[1316] = jdeps
+dir_arr[1317] = rview
+dir_arr[1318] = kbdrate
+dir_arr[1319] = lrfviewer
+dir_arr[1320] = foomatic-searchprinter
+dir_arr[1321] = jimsh
+dir_arr[1322] = unarj
+dir_arr[1323] = g++
+dir_arr[1324] = pdfdetach
+dir_arr[1325] = truncate
+dir_arr[1326] = panelctl
+dir_arr[1327] = watch
+dir_arr[1328] = batch
+dir_arr[1329] = hp-testpage
+dir_arr[1330] = sha384sum
+dir_arr[1331] = rpmdev-rmdevelrpms
+dir_arr[1332] = mkinitrd
+dir_arr[1333] = chown
+dir_arr[1334] = catfish
+dir_arr[1335] = xzmore
+dir_arr[1336] = foomatic-ppd-options
+dir_arr[1337] = pydoc2
+dir_arr[1338] = im-chooser
+dir_arr[1339] = lsof
+dir_arr[1340] = exo-desktop-item-edit
+dir_arr[1341] = eu-ar
+dir_arr[1342] = signver
+dir_arr[1343] = xfce4-power-manager
+dir_arr[1344] = rpmdev-sha384
+dir_arr[1345] = nl
+dir_arr[1346] = deluge-web
+dir_arr[1347] = autom4te
+dir_arr[1348] = c89
+dir_arr[1349] = echo
+dir_arr[1350] = gcm-picker
+dir_arr[1351] = pdfunite
+dir_arr[1352] = catman
+dir_arr[1353] = setleds
+dir_arr[1354] = piconv
+dir_arr[1355] = startxfce4
+dir_arr[1356] = unpack200
+dir_arr[1357] = xmodmap
+dir_arr[1358] = jack_latent_client
+dir_arr[1359] = zvbi-atsc-cc
+dir_arr[1360] = df
+dir_arr[1361] = attr
+dir_arr[1362] = sdiff
+dir_arr[1363] = unshare
+dir_arr[1364] = tpm2_evictcontrol
+dir_arr[1365] = nf-monitor
+dir_arr[1366] = ms_print
+dir_arr[1367] = rpmdev-extract
+dir_arr[1368] = which
+dir_arr[1369] = mppprof
+dir_arr[1370] = cpp
+dir_arr[1371] = xfce4-mime-settings
+dir_arr[1372] = jack_alias
+dir_arr[1373] = abrt-action-analyze-ccpp-local
+dir_arr[1374] = gvfs-less
+dir_arr[1375] = spotread
+dir_arr[1376] = mkfifo
+dir_arr[1377] = hciconfig
+dir_arr[1378] = db_tuner
+dir_arr[1379] = nf-log
+dir_arr[1380] = systemd-socket-activate
+dir_arr[1381] = eu-elfcompress
+dir_arr[1382] = tkconch
+dir_arr[1383] = unicode_start
+dir_arr[1384] = pr
+dir_arr[1385] = smbcquotas
+dir_arr[1386] = koji
+dir_arr[1387] = htdbm
+dir_arr[1388] = dirmngr-client
+dir_arr[1389] = loadunimap
+dir_arr[1390] = jstack
+dir_arr[1391] = ccxxmake
+dir_arr[1392] = nmap
+dir_arr[1393] = size
+dir_arr[1394] = xfdesktop
+dir_arr[1395] = pinfo
+dir_arr[1396] = systemd-detect-virt
+dir_arr[1397] = gvfs-trash
+dir_arr[1398] = lame
+dir_arr[1399] = system-config-language
+dir_arr[1400] = glxinfo64
+dir_arr[1401] = abrt-dump-xorg
+dir_arr[1402] = rpmdev-newinit
+dir_arr[1403] = chronyc
+dir_arr[1404] = tsort
+dir_arr[1405] = broadwayd
+dir_arr[1406] = isosize
+dir_arr[1407] = notify-send
+dir_arr[1408] = gneqn
+dir_arr[1409] = sh
+dir_arr[1410] = brotli
+dir_arr[1411] = unix2mac
+dir_arr[1412] = cb2ti3
+dir_arr[1413] = gvfs-copy
+dir_arr[1414] = transmission-show
+dir_arr[1415] = msgconv
+dir_arr[1416] = locate
+dir_arr[1417] = pkcon
+dir_arr[1418] = xflock4
+dir_arr[1419] = setterm
+dir_arr[1420] = alsaunmute
+dir_arr[1421] = x86_64-redhat-linux-gcc-8
+dir_arr[1422] = nf-queue
+dir_arr[1423] = screen
+dir_arr[1424] = canberra-gtk-play
+dir_arr[1425] = nf-exp-add
+dir_arr[1426] = vboxtoau
+dir_arr[1427] = gst-typefind
+dir_arr[1428] = abrt-action-perform-ccpp-analysis
+dir_arr[1429] = pathplot
+dir_arr[1430] = hp-sendfax
+dir_arr[1431] = icctest
+dir_arr[1432] = gnome-help
+dir_arr[1433] = flex
+dir_arr[1434] = tar
+dir_arr[1435] = icclu
+dir_arr[1436] = gio-querymodules-64
+dir_arr[1437] = abrt-action-install-debuginfo
+dir_arr[1438] = miniterm-2.7.py
+dir_arr[1439] = udevadm
+dir_arr[1440] = abrt-action-analyze-core
+dir_arr[1441] = fc-match
+dir_arr[1442] = systemd-cgls
+dir_arr[1443] = mailmail
+dir_arr[1444] = nl-list-sockets
+dir_arr[1445] = hp-unload
+dir_arr[1446] = exo-open
+dir_arr[1447] = mkzftree
+dir_arr[1448] = type
+dir_arr[1449] = pkcs15-init
+dir_arr[1450] = jack_iodelay
+dir_arr[1451] = pinentry-gnome3
+dir_arr[1452] = rfcomm
+dir_arr[1453] = cftp
+dir_arr[1454] = semodule_unpackage
+dir_arr[1455] = fc-pattern
+dir_arr[1456] = db_verify
+dir_arr[1457] = transmission-gtk
+dir_arr[1458] = vmstat
+dir_arr[1459] = gst-xmlinspect
+dir_arr[1460] = vmware-toolbox-cmd
+dir_arr[1461] = opensc-notify
+dir_arr[1462] = op-check-perfevents
+dir_arr[1463] = ntfsinfo
+dir_arr[1464] = jack_session_notify
+dir_arr[1465] = nettle-hash
+dir_arr[1466] = grub2-mkrescue
+dir_arr[1467] = dbus-launch
+dir_arr[1468] = reporter-systemd-journal
+dir_arr[1469] = grub2-mklayout
+dir_arr[1470] = tmux
+dir_arr[1471] = gdb
+dir_arr[1472] = ps2pdf13
+dir_arr[1473] = getcifsacl
+dir_arr[1474] = boltctl
+dir_arr[1475] = gpg-connect-agent
+dir_arr[1476] = taskset
+dir_arr[1477] = gvimdiff
+dir_arr[1478] = jack_server_control
+dir_arr[1479] = grotty
+dir_arr[1480] = sharesec
+dir_arr[1481] = nl-route-add
+dir_arr[1482] = jrunscript
+dir_arr[1483] = paste
+dir_arr[1484] = vm-support
+dir_arr[1485] = cd-convert
+dir_arr[1486] = splitdiff
+dir_arr[1487] = secret-tool
+dir_arr[1488] = qvlc
+dir_arr[1489] = zstd
+dir_arr[1490] = parole
+dir_arr[1491] = bzgrep
+dir_arr[1492] = evince-thumbnailer
+dir_arr[1493] = catfish-py2
+dir_arr[1494] = msgfmt
+dir_arr[1495] = bashbug-64
+dir_arr[1496] = ibus-setup
+dir_arr[1497] = zmore
+dir_arr[1498] = uuidgen
+dir_arr[1499] = rpmelfsym
+dir_arr[1500] = localectl
+dir_arr[1501] = tpm2_pcrextend
+dir_arr[1502] = VGAuthService
+dir_arr[1503] = eu-elflint
+dir_arr[1504] = leafpad
+dir_arr[1505] = nf-exp-delete
+dir_arr[1506] = loadkeys
+dir_arr[1507] = ntfsfix
+dir_arr[1508] = xmlwf
+dir_arr[1509] = libinput
+dir_arr[1510] = luksmeta
+dir_arr[1511] = tic
+dir_arr[1512] = udisksctl
+dir_arr[1513] = jack_midiseq
+dir_arr[1514] = idiag-socket-details
+dir_arr[1515] = split
+dir_arr[1516] = xhost
+dir_arr[1517] = egrep
+dir_arr[1518] = perltidy
+dir_arr[1519] = cd
+dir_arr[1520] = chsh
+dir_arr[1521] = gdbm_dump
+dir_arr[1522] = utmpdump
+dir_arr[1523] = sha1sum
+dir_arr[1524] = setfacl
+dir_arr[1525] = cancel.cups
+dir_arr[1526] = tload
+dir_arr[1527] = abrt-action-analyze-c
+dir_arr[1528] = dbus-daemon
+dir_arr[1529] = cal
+dir_arr[1530] = tpm2_startup
+dir_arr[1531] = jstatd
+dir_arr[1532] = serialver
+dir_arr[1533] = dbus-test-tool
+dir_arr[1534] = crontab
+dir_arr[1535] = tpm2_load
+dir_arr[1536] = collink
+dir_arr[1537] = enchant-lsmod
+dir_arr[1538] = i386
+dir_arr[1539] = regtree
+dir_arr[1540] = redland-db-upgrade
+dir_arr[1541] = nl-link-stats
+dir_arr[1542] = ppdhtml
+dir_arr[1543] = sudoreplay
+dir_arr[1544] = gnome-disk-image-mounter
+dir_arr[1545] = rpmdev-md5
+dir_arr[1546] = semodule_link
+dir_arr[1547] = time
+dir_arr[1548] = who
+dir_arr[1549] = printf
+dir_arr[1550] = jack_monitor_client
+dir_arr[1551] = pacmd
+dir_arr[1552] = gtk-query-immodules-2.0-32
+dir_arr[1553] = git-receive-pack
+dir_arr[1554] = cryptoflex-tool
+dir_arr[1555] = calibre-server
+dir_arr[1556] = linux-boot-prober
+dir_arr[1557] = dnie-tool
+dir_arr[1558] = oggdec
+dir_arr[1559] = doxyindexer
+dir_arr[1560] = nice
+dir_arr[1561] = nl-addr-add
+dir_arr[1562] = gnome-keyring
+dir_arr[1563] = systemd-mount
+dir_arr[1564] = zsoelim
+dir_arr[1565] = authselect
+dir_arr[1566] = opgprof
+dir_arr[1567] = cvlc
+dir_arr[1568] = gpg
+dir_arr[1569] = jack_showtime
+dir_arr[1570] = clevis-decrypt-http
+dir_arr[1571] = seahorse
+dir_arr[1572] = idlj
+dir_arr[1573] = pod2html
+dir_arr[1574] = db_dump
+dir_arr[1575] = ldappasswd
+dir_arr[1576] = pdfinfo
+dir_arr[1577] = uptime
+dir_arr[1578] = indent
+dir_arr[1579] = whois
+dir_arr[1580] = grub2-editenv
+dir_arr[1581] = jobs
+dir_arr[1582] = sscg
+dir_arr[1583] = pldd
+dir_arr[1584] = sane-find-scanner
+dir_arr[1585] = fetch-ebook-metadata
+dir_arr[1586] = chartread
+dir_arr[1587] = hash
+dir_arr[1588] = getopts
+dir_arr[1589] = deluge-gtk
+dir_arr[1590] = zsh
+dir_arr[1591] = psfgettable
+dir_arr[1592] = gtroff
+dir_arr[1593] = par2
+dir_arr[1594] = lrf2lrs
+dir_arr[1595] = recode-sr-latin
+dir_arr[1596] = purple-url-handler
+dir_arr[1597] = miniterm-2.py
+dir_arr[1598] = msgen
+dir_arr[1599] = systemd-cgtop
+dir_arr[1600] = coverage3
+dir_arr[1601] = ps2ps2
+dir_arr[1602] = sudoedit
+dir_arr[1603] = linux32
+dir_arr[1604] = rrdcached
+dir_arr[1605] = tail
+dir_arr[1606] = hp-config_usb_printer
+dir_arr[1607] = clean-binary-files
+dir_arr[1608] = fgrep
+dir_arr[1609] = rpmspec
+dir_arr[1610] = vlock
+dir_arr[1611] = xfce4-popup-directorymenu
+dir_arr[1612] = libieee1284_test
+dir_arr[1613] = tnameserv
+dir_arr[1614] = bison
+dir_arr[1615] = tpm2_nvdefine
+dir_arr[1616] = run-on-binaries-in.sh
+dir_arr[1617] = systemd-sysusers
+dir_arr[1618] = wvunpack
+dir_arr[1619] = systemd-firstboot
+dir_arr[1620] = systemd-delta
+dir_arr[1621] = rpmdev-checksig
+dir_arr[1622] = gcov-tool
+dir_arr[1623] = svc_recv
+dir_arr[1624] = eps2eps
+dir_arr[1625] = nl-class-add
+dir_arr[1626] = raw
+dir_arr[1627] = tpm2_makecredential
+dir_arr[1628] = gpgconf
+dir_arr[1629] = csslint-0.6
+dir_arr[1630] = clevis-decrypt-tpm2
+dir_arr[1631] = extracticc
+dir_arr[1632] = vimx
+dir_arr[1633] = groups
+dir_arr[1634] = sha512hmac
+dir_arr[1635] = cg_diff
+dir_arr[1636] = python3.6m
+dir_arr[1637] = hostid
+dir_arr[1638] = uniq
+dir_arr[1639] = localedef
+dir_arr[1640] = scp-dbus-service
+dir_arr[1641] = factor
+dir_arr[1642] = clevis-encrypt-http
+dir_arr[1643] = withsctp
+dir_arr[1644] = mpage
+dir_arr[1645] = gcore
+dir_arr[1646] = script
+dir_arr[1647] = yum
+dir_arr[1648] = scanimage
+dir_arr[1649] = Xvnc
+dir_arr[1650] = grl-inspect-0.3
+dir_arr[1651] = abrt-cli
+dir_arr[1652] = gvfs-rm
+dir_arr[1653] = m4
+dir_arr[1654] = metaflac
+dir_arr[1655] = tpm2_loadexternal
+dir_arr[1656] = dracut
+dir_arr[1657] = tset
+dir_arr[1658] = applycal
+dir_arr[1659] = nl-neigh-delete
+dir_arr[1660] = h2ph
+dir_arr[1661] = perl
+dir_arr[1662] = ntfsdecrypt
+dir_arr[1663] = isdnrate
+dir_arr[1664] = btmon
+dir_arr[1665] = pod2usage
+dir_arr[1666] = gzip
+dir_arr[1667] = ac
+dir_arr[1668] = autovbox
+dir_arr[1669] = wvdial
+dir_arr[1670] = lpr
+dir_arr[1671] = gdk-pixbuf-query-loaders-32
+dir_arr[1672] = tpm2_encryptdecrypt
+dir_arr[1673] = md5sum
+dir_arr[1674] = gatttool
+dir_arr[1675] = lprm
+dir_arr[1676] = gpg-error
+dir_arr[1677] = nm-applet
+dir_arr[1678] = db_replicate
+dir_arr[1679] = deluge
+dir_arr[1680] = rebuild-jar-repository
+dir_arr[1681] = showrgb
+dir_arr[1682] = eu-stack
+dir_arr[1683] = bash
+dir_arr[1684] = sprof
+dir_arr[1685] = x86_64-redhat-linux-g++
+dir_arr[1686] = tpm2_dictionarylockout
+dir_arr[1687] = create-jar-links
+dir_arr[1688] = jack_disconnect
+dir_arr[1689] = valgrind-listener
+dir_arr[1690] = tpm2_rsadecrypt
+dir_arr[1691] = aulastlog
+dir_arr[1692] = umax_pp
+dir_arr[1693] = ooffice
+dir_arr[1694] = fallocate
+dir_arr[1695] = iso-info
+dir_arr[1696] = abrt-action-analyze-xorg
+dir_arr[1697] = comm
+dir_arr[1698] = db_stat
+dir_arr[1699] = xargs
+dir_arr[1700] = driverless
+dir_arr[1701] = fakeCMY
+dir_arr[1702] = pydoc3.6
+dir_arr[1703] = hp-timedate
+dir_arr[1704] = instmodsh
+dir_arr[1705] = gst-inspect-1.0
+dir_arr[1706] = pre-grohtml
+dir_arr[1707] = abrt-dump-journal-xorg
+dir_arr[1708] = foomatic-printjob
+dir_arr[1709] = pulseaudio
+dir_arr[1710] = pasuspender
+dir_arr[1711] = ul
+dir_arr[1712] = expand
+dir_arr[1713] = rpminfo
+dir_arr[1714] = ascii-xfr
+dir_arr[1715] = zless
+dir_arr[1716] = rdfproc
+dir_arr[1717] = xfce4-clipman
+dir_arr[1718] = lex
+dir_arr[1719] = git
+dir_arr[1720] = ooviewdoc
+dir_arr[1721] = ebook-viewer
+dir_arr[1722] = msgmerge
+dir_arr[1723] = java
+dir_arr[1724] = gaim
+dir_arr[1725] = rpmdev-sha224
+dir_arr[1726] = vmware-user
+dir_arr[1727] = jigdo-mirror
+dir_arr[1728] = esmtp-wrapper
+dir_arr[1729] = date
+dir_arr[1730] = false
+dir_arr[1731] = flipdiff
+dir_arr[1732] = ranlib
+dir_arr[1733] = netkey-tool
+dir_arr[1734] = db_log_verify
+dir_arr[1735] = xsltproc
+dir_arr[1736] = rpmargs
+dir_arr[1737] = jigdo-file
+dir_arr[1738] = shred
+dir_arr[1739] = stapdyn
+dir_arr[1740] = kill
+dir_arr[1741] = mailx
+dir_arr[1742] = ibus
+dir_arr[1743] = blueberry
+dir_arr[1744] = paps
+dir_arr[1745] = db_printlog
+dir_arr[1746] = enchant
+dir_arr[1747] = xdelta
+dir_arr[1748] = grub2-fstest
+dir_arr[1749] = ypdomainname
+dir_arr[1750] = rename
+dir_arr[1751] = svnserve
+dir_arr[1752] = touch
+dir_arr[1753] = gapplication
+dir_arr[1754] = fc-scan
+dir_arr[1755] = hcitool
+dir_arr[1756] = machinectl
+dir_arr[1757] = lowntfs-3g
+dir_arr[1758] = nl-tctree-list
+dir_arr[1759] = rpmdev-packager
+dir_arr[1760] = chmextract
+dir_arr[1761] = guile2
+dir_arr[1762] = glxinfo
+dir_arr[1763] = valgrind
+dir_arr[1764] = fonttosfnt
+dir_arr[1765] = lz4
+dir_arr[1766] = nss-policy-check
+dir_arr[1767] = abrt-action-analyze-oops
+dir_arr[1768] = esmtp
+dir_arr[1769] = mesg
+dir_arr[1770] = gids-tool
+dir_arr[1771] = cd-iccdump
+dir_arr[1772] = imsettings-switch
+dir_arr[1773] = qmi-network
+dir_arr[1774] = unzip
+dir_arr[1775] = preconv
+dir_arr[1776] = opreport
+dir_arr[1777] = perlthanks
+dir_arr[1778] = hciattach
+dir_arr[1779] = pkcs15-tool
+dir_arr[1780] = rngtest
+dir_arr[1781] = lessecho
+dir_arr[1782] = sum
+dir_arr[1783] = rvi
+dir_arr[1784] = dbus-uuidgen
+dir_arr[1785] = anaconda-cleanup
+dir_arr[1786] = base32
+dir_arr[1787] = sctp_test
+dir_arr[1788] = xlsatoms
+dir_arr[1789] = tpm2_getrandom
+dir_arr[1790] = gvfs-info
+dir_arr[1791] = printenv
+dir_arr[1792] = rygel
+dir_arr[1793] = setsid
+dir_arr[1794] = printafm
+dir_arr[1795] = gtk-update-icon-cache
+dir_arr[1796] = xinit
+dir_arr[1797] = cisco-decrypt
+dir_arr[1798] = ebook-meta
+dir_arr[1799] = roqet
+dir_arr[1800] = rpmdumpheader
+dir_arr[1801] = parec
+dir_arr[1802] = svn
+dir_arr[1803] = jack_netsource
+dir_arr[1804] = mv
+dir_arr[1805] = abrt-action-generate-core-backtrace
+dir_arr[1806] = stapbpf
+dir_arr[1807] = nl-classid-lookup
+dir_arr[1808] = openfortivpn
+dir_arr[1809] = gst-xmlinspect-0.10
+dir_arr[1810] = db_recover
+dir_arr[1811] = gst-launch
+dir_arr[1812] = hp-query
+dir_arr[1813] = cat
+dir_arr[1814] = lexgrog
+dir_arr[1815] = atrm
+dir_arr[1816] = libtar
+dir_arr[1817] = abrt-dump-journal-core
+dir_arr[1818] = gvfs-mount
+dir_arr[1819] = meshctl
+dir_arr[1820] = cancel
+dir_arr[1821] = sb
+dir_arr[1822] = flac
+dir_arr[1823] = package-stash-conflicts
+dir_arr[1824] = foomatic-ppd-to-xml
+dir_arr[1825] = cd-create-profile
+dir_arr[1826] = gpg2
+dir_arr[1827] = libyui-terminal
+dir_arr[1828] = geoiplookup6
+dir_arr[1829] = gnome-keyring-daemon
+dir_arr[1830] = yes
+dir_arr[1831] = hpcups-update-ppds
+dir_arr[1832] = wget
+dir_arr[1833] = ed
+dir_arr[1834] = keyctl
+dir_arr[1835] = opensc-explorer
+dir_arr[1836] = paperconf
+dir_arr[1837] = lsdiff
+dir_arr[1838] = python
+dir_arr[1839] = nettle-lfib-stream
+dir_arr[1840] = vorbiscomment
+dir_arr[1841] = rpcclient
+dir_arr[1842] = valgrind-di-server
+dir_arr[1843] = msexpand
+dir_arr[1844] = soelim
+dir_arr[1845] = tiffgamut
+dir_arr[1846] = cpio
+dir_arr[1847] = rpmdev-sha256
+dir_arr[1848] = fakeroot-tcp
+dir_arr[1849] = pkcs11-switch
+dir_arr[1850] = b2sum
+dir_arr[1851] = vboxcnvt
+dir_arr[1852] = dnf-3
+dir_arr[1853] = par2verify
+dir_arr[1854] = tpm2_sign
+dir_arr[1855] = gst-stats-1.0
+dir_arr[1856] = eqn
+dir_arr[1857] = gkbd-keyboard-display
+dir_arr[1858] = pwd
+dir_arr[1859] = rpcinfo
+dir_arr[1860] = audit2why
+dir_arr[1861] = ebook-device
+dir_arr[1862] = sessreg
+dir_arr[1863] = prtstat
+dir_arr[1864] = nf-ct-list
+dir_arr[1865] = padsp-32
+dir_arr[1866] = gcc
+dir_arr[1867] = crlutil
+dir_arr[1868] = iso-read
+dir_arr[1869] = alias
+dir_arr[1870] = db_deadlock
+dir_arr[1871] = unlink
+dir_arr[1872] = sha1hmac
+dir_arr[1873] = oowriter
+dir_arr[1874] = cd-drive
+dir_arr[1875] = claws-mail
+dir_arr[1876] = xgettext
+dir_arr[1877] = grub2-mknetdir
+dir_arr[1878] = yacc
+dir_arr[1879] = fakeread
+dir_arr[1880] = blueberry-tray
+dir_arr[1881] = gst-feedback
+dir_arr[1882] = eu-nm
+dir_arr[1883] = bond2team
+dir_arr[1884] = cd-info
+dir_arr[1885] = scanin
+dir_arr[1886] = nl-addr-delete
+dir_arr[1887] = automake
+dir_arr[1888] = sendiso
+dir_arr[1889] = afs5log
+dir_arr[1890] = update-desktop-database
+dir_arr[1891] = ntfsmount
+dir_arr[1892] = seq
+dir_arr[1893] = hex2hcd
+dir_arr[1894] = Mail
+dir_arr[1895] = nroff
+dir_arr[1896] = usb-devices
+dir_arr[1897] = xlsfonts
+dir_arr[1898] = appstream-util
+dir_arr[1899] = native2ascii
+dir_arr[1900] = coverage-3.6
+dir_arr[1901] = gsettings-data-convert
+dir_arr[1902] = mailq
+dir_arr[1903] = gcc-nm
+dir_arr[1904] = dvcont
+dir_arr[1905] = rm
+dir_arr[1906] = lrs2lrf
+dir_arr[1907] = nl-cls-list
+dir_arr[1908] = xev
+dir_arr[1909] = ptx
+dir_arr[1910] = cvt
+dir_arr[1911] = pydoc3
+dir_arr[1912] = chmod
+dir_arr[1913] = newuidmap
+dir_arr[1914] = gvfs-tree
+dir_arr[1915] = purple-client-example
+dir_arr[1916] = ulockmgr_server
+dir_arr[1917] = pdffonts
+dir_arr[1918] = gtbl
+dir_arr[1919] = passwd
+dir_arr[1920] = fros
+dir_arr[1921] = satyr
+dir_arr[1922] = kdumpctl
+dir_arr[1923] = compface
+dir_arr[1924] = fgconsole
+dir_arr[1925] = ebook-edit
+dir_arr[1926] = gcm-viewer
+dir_arr[1927] = vifm-screen-split
+dir_arr[1928] = post-grohtml
+dir_arr[1929] = psfaddtable
+dir_arr[1930] = tpm2_nvread
+dir_arr[1931] = smbspool
+dir_arr[1932] = telegram-desktop
+dir_arr[1933] = pip
+dir_arr[1934] = unzstd
+dir_arr[1935] = analog
+dir_arr[1936] = env
+dir_arr[1937] = ldapexop
+dir_arr[1938] = rev
+dir_arr[1939] = pic
+dir_arr[1940] = tpm2_activatecredential
+dir_arr[1941] = hangul
+dir_arr[1942] = systemd-cat
+dir_arr[1943] = vim
+dir_arr[1944] = stty
+dir_arr[1945] = doxysearch.cgi
+dir_arr[1946] = jack_net_master
+dir_arr[1947] = unalias
+dir_arr[1948] = pk12util
+dir_arr[1949] = splain
+dir_arr[1950] = abrt-action-analyze-python
+dir_arr[1951] = xfce4-clipman-settings
+dir_arr[1952] = built-by.sh
+dir_arr[1953] = update-mime-database
+dir_arr[1954] = foomatic-compiledb
+dir_arr[1955] = loginctl
+dir_arr[1956] = aread
+dir_arr[1957] = gsdj500
+dir_arr[1958] = hardened.sh
+dir_arr[1959] = calibre-smtp
+dir_arr[1960] = logresolve
+dir_arr[1961] = dnf
+dir_arr[1962] = pip2.7
+dir_arr[1963] = chardetect
+dir_arr[1964] = sqlite3
+dir_arr[1965] = gsoelim
+dir_arr[1966] = ntfsls
+dir_arr[1967] = sleep
+dir_arr[1968] = rpmdev-diff
+dir_arr[1969] = nisdomainname
+dir_arr[1970] = tpm2_verifysignature
+dir_arr[1971] = liveinst
+dir_arr[1972] = makedb
+dir_arr[1973] = xfce4-about
+dir_arr[1974] = xarchiver
+dir_arr[1975] = opannotate
+dir_arr[1976] = libtoolize
+dir_arr[1977] = abrt-merge-pstoreoops
+dir_arr[1978] = cp
+dir_arr[1979] = ssh-keygen
+dir_arr[1980] = usbhid-dump
+dir_arr[1981] = vi
+dir_arr[1982] = javah
+dir_arr[1983] = abrt-action-analyze-vulnerability
+dir_arr[1984] = gvfs-ls
+dir_arr[1985] = kmod
+dir_arr[1986] = ebook-convert
+dir_arr[1987] = mount
+dir_arr[1988] = genl-ctrl-list
+dir_arr[1989] = xxd
+dir_arr[1990] = rrdinfo
+dir_arr[1991] = vlc
+dir_arr[1992] = xzless
+dir_arr[1993] = idn
+dir_arr[1994] = ld
+dir_arr[1995] = soffice
+dir_arr[1996] = tpm2_nvlist
+dir_arr[1997] = svlc
+dir_arr[1998] = gvfs-cat
+dir_arr[1999] = nosetests-2
+dir_arr[2000] = globaltime
+dir_arr[2001] = libnetcfg
+dir_arr[2002] = piv-tool
+dir_arr[2003] = gslp
+dir_arr[2004] = pgrep
+dir_arr[2005] = xfce4-panel
+dir_arr[2006] = rmdir
+dir_arr[2007] = invprofcheck
+dir_arr[2008] = evince
+dir_arr[2009] = targen
+dir_arr[2010] = xfsettingsd
+dir_arr[2011] = gex
+dir_arr[2012] = pdfsig
+dir_arr[2013] = clear
+dir_arr[2014] = semodule_package
+dir_arr[2015] = hp-probe
+dir_arr[2016] = curl
+dir_arr[2017] = ghostscript
+dir_arr[2018] = start-pulseaudio-x11
+dir_arr[2019] = tpm2_create
+dir_arr[2020] = gcov-dump
+dir_arr[2021] = fusermount
+dir_arr[2022] = wsimport
+dir_arr[2023] = sandbox
+dir_arr[2024] = upower
+dir_arr[2025] = pip2
+dir_arr[2026] = xdelta3
+dir_arr[2027] = oomath
+dir_arr[2028] = mcpp
+dir_arr[2029] = vcut
+dir_arr[2030] = clevis
+dir_arr[2031] = javac
+dir_arr[2032] = vmtoolsd
+dir_arr[2033] = xz
+dir_arr[2034] = w
+dir_arr[2035] = zipgrep
+dir_arr[2036] = samba-regedit
+dir_arr[2037] = aulast
+dir_arr[2038] = ppdpo
+dir_arr[2039] = xfce4-screenshooter
+dir_arr[2040] = mail
+dir_arr[2041] = at
+dir_arr[2042] = xdg-open
+dir_arr[2043] = rpm
+dir_arr[2044] = gtk-query-immodules-2.0-64
+dir_arr[2045] = kernel-install
+dir_arr[2046] = alsa_out
+dir_arr[2047] = mkfontscale
+dir_arr[2048] = lz4c
+dir_arr[2049] = fprintd-enroll
+dir_arr[2050] = parecord
+dir_arr[2051] = nl-qdisc-list
+dir_arr[2052] = cardos-tool
+dir_arr[2053] = install
+dir_arr[2054] = autoheader
+dir_arr[2055] = alsaloop
+dir_arr[2056] = bunzip2
+dir_arr[2057] = atmdump
+dir_arr[2058] = update-crypto-policies
+dir_arr[2059] = pip3
+dir_arr[2060] = pdf2dsc
+dir_arr[2061] = arjdisp
+dir_arr[2062] = gio-querymodules-32
+dir_arr[2063] = ltrace
+dir_arr[2064] = ccttest
+dir_arr[2065] = [
+dir_arr[2066] = du
+dir_arr[2067] = mbimcli
+dir_arr[2068] = lp
+dir_arr[2069] = dm-tool
+dir_arr[2070] = oabextract
+dir_arr[2071] = gdb-add-index
+dir_arr[2072] = generate_randfile
+dir_arr[2073] = ndptool
+dir_arr[2074] = zstdmt
+dir_arr[2075] = gencat
+dir_arr[2076] = fc-cache-32
+dir_arr[2077] = hddtemp
+dir_arr[2078] = basename
+dir_arr[2079] = slabtop
+dir_arr[2080] = xjc
+dir_arr[2081] = pwqgen
+dir_arr[2082] = gpgparsemail
+dir_arr[2083] = pfbtopfa
+dir_arr[2084] = objcopy
+dir_arr[2085] = vboxplay
+dir_arr[2086] = gpgsplit
+dir_arr[2087] = peekfd
+dir_arr[2088] = system-config-users
+dir_arr[2089] = clevis-luks-bind
+dir_arr[2090] = cscope
+dir_arr[2091] = rrdcgi
+dir_arr[2092] = rpmquery
+dir_arr[2093] = pwmake
+dir_arr[2094] = xscreensaver-command
+dir_arr[2095] = WebKitWebDriver
+dir_arr[2096] = grep
+dir_arr[2097] = flex++
+ Thu Oct 11 03:04:28 2018
+ 175576 rwxr-xr-x 1  root  root regular file  cp 
+
+ Sun Sep 30 14:10:20 2018
+ 26 rwxrwxrwx 1  root  root symlink ebook-convert->/opt/calibre/ebook-convert 
+
+ Thu Oct 11 03:13:03 2018
+ 50152 rwxr-xr-x 1  root  root regular file  mount 
+
+ Thu Oct 11 02:52:58 2018
+ 11904 rwxr-xr-x 1  root  root regular file  genl-ctrl-list 
+
+ Thu Oct 11 03:23:16 2018
+ 9 rwxrwxrwx 1  root  root symlink rrdinfo->rrdupdate 
+
+ Thu Oct 11 03:19:26 2018
+ 16264 rwxr-xr-x 1  root  root regular file  vlc 
+
+ Thu Oct 11 03:23:13 2018
+ 2 rwxrwxrwx 1  root  root symlink atq->at 
+
+ Thu Oct 11 03:19:31 2018
+ 46 rwxr-xr-x 1  root  root regular file  svlc 
+
+ Thu Oct 11 03:15:40 2018
+ 350 rwxr-xr-x 1  root  root regular file  gslp 
+
+ Thu Oct 11 03:15:38 2018
+ 11 rwxrwxrwx 1  root  root symlink ghostscript->/usr/bin/gs 
+
+ Thu Oct 11 03:22:25 2018
+ 65952 rwxr-xr-x 1  root  root regular file  tpm2_create 
+
+ Thu Oct 11 03:09:25 2018
+ 20088 rwxr-xr-x 1  root  root regular file  vcut 
+
+ Thu Oct 11 03:50:43 2018
+ 23 rwxrwxrwx 1  root  root symlink javac->/etc/alternatives/javac 
+
+ Thu Oct 11 03:25:23 2018
+ 51480 rwxr-xr-x 1  root  root regular file  vmtoolsd 
+
+ Thu Oct 11 03:00:12 2018
+ 81928 rwxr-xr-x 1  root  root regular file  xz 
+
+ Thu Oct 11 03:06:25 2018
+ 20312 rwxr-xr-x 1  root  root regular file  w 
+
+ Thu Oct 11 03:06:01 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip3 
+
+ Thu Oct 11 03:27:04 2018
+ 11148 rwxr-xr-x 1  root  root regular file  gio-querymodules-32 
+
+ Thu Oct 11 03:33:47 2018
+ 229744 rwxr-xr-x 1  root  root regular file  ltrace 
+
+ Thu Oct 11 02:58:14 2018
+ 15832 rwxr-xr-x 1  root  root regular file  ccttest 
+
+ Thu Oct 11 03:04:28 2018
+ 65176 rwxr-xr-x 1  root  root regular file  [ 
+
+ Thu Oct 11 03:04:28 2018
+ 121848 rwxr-xr-x 1  root  root regular file  du 
+
+ Thu Oct 11 03:20:36 2018
+ 877112 rwxr-xr-x 1  root  root regular file  WebKitWebDriver 
+
+ Thu Oct 11 02:59:43 2018
+ 187952 rwxr-xr-x 1  root  root regular file  grep 
+
+ Thu Oct 11 03:07:55 2018
+ 24040 rwxr-xr-x 1  root  root regular file  msgcomm 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-save 
+
+ Thu Oct 11 02:52:58 2018
+ 11872 rwxr-xr-x 1  root  root regular file  nl-neightbl-list 
+
+ Thu Oct 11 03:14:10 2018
+ 37024 rwxr-xr-x 1  root  root regular file  gcc-ranlib 
+
+ Thu Oct 11 03:08:43 2018
+ 30 rwxrwxrwx 1  root  root symlink lpstat->/etc/alternatives/print-lpstat 
+
+ Thu Oct 11 02:58:14 2018
+ 15840 rwxr-xr-x 1  root  root regular file  specplot 
+
+ Thu Oct 11 03:04:51 2018
+ 48752 rwxr-xr-x 1  root  root regular file  newgrp 
+
+ Thu Oct 11 03:21:44 2018
+ 20504 rwxr-xr-x 1  root  root regular file  gnome-keyring-3 
+
+ Thu Oct 11 03:33:33 2018
+ 102432 rwxr-xr-x 1  root  root regular file  svnadmin 
+
+ Thu Oct 11 03:00:50 2018
+ 15034 rwxr-xr-x 1  root  root regular file  pod2man 
+
+ Sat Nov 11 20:22:44 2017
+ 23816 rwxr-xr-x 1  root  root regular file  sexp-conv 
+
+ Thu Oct 11 03:00:47 2018
+ 2980 rwxr-xr-x 1  root  root regular file  encguess 
+
+ Thu Oct 11 03:06:06 2018
+ 8 rwxrwxrwx 1  root  root symlink pip-2.7->./pip2.7 
+
+ Thu Oct 11 03:13:04 2018
+ 20328 rwxr-xr-x 1  tty  root regular file  write 
+
+ Thu Oct 11 03:18:13 2018
+ 20304 rwxr-xr-x 1  root  root regular file  pkmon 
+
+ Thu Oct 11 03:04:28 2018
+ 75864 rwxr-xr-x 1  root  root regular file  chgrp 
+
+ Thu Oct 11 03:12:22 2018
+ 2404 rwxr-xr-x 1  root  root regular file  pinentry 
+
+ Thu Oct 11 03:21:38 2018
+ 75352 rwxr-xr-x 1  root  root regular file  xfce4-settings-editor 
+
+ Thu Oct 11 03:04:28 2018
+ 47760 rwxr-xr-x 1  root  root regular file  tee 
+
+ Thu Oct 11 03:10:06 2018
+ 42000 rwxr-xr-x 1  root  root regular file  pdftotext 
+
+ Thu Oct 11 03:13:32 2018
+ 113744 rwxr-xr-x 1  root  root regular file  ntfsrecover 
+
+ Thu Oct 11 03:18:35 2018
+ 40832 rwxr-xr-x 1  root  root regular file  smbcacls 
+
+ Thu Oct 11 03:25:23 2018
+ 12240 rwxr-xr-x 1  root  root regular file  vmware-hgfsclient 
+
+ Thu Oct 11 03:18:24 2018
+ 564296 rwxr-xr-x 1  root  root regular file  grub2-mkstandalone 
+
+ Thu Oct 11 03:16:24 2018
+ 4 rwxrwxrwx 1  root  root symlink X->Xorg 
+
+ Thu Oct 11 03:35:15 2018
+ 159688 rwxr-xr-x 1  root  root regular file  asunder 
+
+ Thu Oct 11 02:56:39 2018
+ 29768 rwxr-xr-x 1  root  root regular file  celtenc071 
+
+ Thu Oct 11 03:15:01 2018
+ 11744 rwxr-xr-x 1  root  root regular file  reporter-print 
+
+ Thu Oct 11 02:51:18 2018
+ 24624 rwxr-xr-x 1  root  root regular file  file 
+
+ Thu Oct 11 03:04:28 2018
+ 51248 rwxr-xr-x 1  root  root regular file  fmt 
+
+ Thu Oct 11 03:23:29 2018
+ 115384 rwxr-xr-x 1  root  root regular file  firewall-cmd 
+
+ Sun Sep 30 14:10:20 2018
+ 29 rwxrwxrwx 1  root  root symlink markdown-calibre->/opt/calibre/markdown-calibre 
+
+ Thu Oct 11 03:16:24 2018
+ 273 rwxr-xr-x 1  root  root regular file  Xorg 
+
+ Thu Oct 11 03:32:27 2018
+ 147032 rwxr-xr-x 1  root  root regular file  pkcs11-tool 
+
+ Thu Oct 11 03:16:04 2018
+ 11848 rwxr-xr-x 1  root  root regular file  systemd-ask-password 
+
+ Thu Oct 11 03:11:06 2018
+ 381 rwxr-xr-x 1  root  root regular file  conch 
+
+ Thu Oct 11 03:15:02 2018
+ 261968 rwxr-xr-x 1  root  root regular file  eu-readelf 
+
+ Thu Oct 11 03:22:52 2018
+ 251824 rwxr-xr-x 1  root  root regular file  grub2-menulst2cfg 
+
+ Thu Oct 11 03:15:02 2018
+ 42272 rwxr-xr-x 1  root  root regular file  eu-ar 
+
+ Thu Oct 11 01:15:12 2018
+ 101680 rwxr-xr-x 1  root  root regular file  signver 
+
+ Thu Oct 11 03:30:23 2018
+ 245312 rwxr-xr-x 1  root  root regular file  xfce4-power-manager 
+
+ Thu Oct 11 03:29:22 2018
+ 89248 rwxr-xr-x 1  root  root regular file  gcm-picker 
+
+ Thu Oct 11 03:10:06 2018
+ 37280 rwxr-xr-x 1  root  root regular file  pdfunite 
+
+ Thu Oct 11 03:17:58 2018
+ 110592 rwxr-xr-x 1  root  root regular file  zvbi-atsc-cc 
+
+ Thu Oct 11 03:37:40 2018
+ 11696 rwxr-xr-x 1  root  root regular file  attr 
+
+ Thu Oct 11 03:29:45 2018
+ 393688 rwxr-xr-x 1  root  root regular file  xfdesktop 
+
+ Thu Oct 11 03:35:42 2018
+ 109160 rwxr-xr-x 1  root  root regular file  pinfo 
+
+ Thu Oct 11 03:16:04 2018
+ 11616 rwxr-xr-x 1  root  root regular file  systemd-detect-virt 
+
+ Thu Oct 11 03:08:49 2018
+ 277 rwxr-xr-x 1  root  root regular file  gvfs-trash 
+
+ Thu Oct 11 03:32:46 2018
+ 87 rwxr-xr-x 1  root  root regular file  system-config-language 
+
+ Thu Oct 11 03:38:47 2018
+ 8 rwxrwxrwx 1  root  root symlink unix2mac->unix2dos 
+
+ Thu Oct 11 02:58:14 2018
+ 15888 rwxr-xr-x 1  root  root regular file  cb2ti3 
+
+ Thu Oct 11 03:12:00 2018
+ 568464 rwxr-xr-x 1  root  root regular file  transmission-show 
+
+ Thu Oct 11 03:07:55 2018
+ 19944 rwxr-xr-x 1  root  root regular file  msgconv 
+
+ Thu Oct 11 03:23:10 2018
+ 45064 rwx--x--x 1  slocate  root regular file  locate 
+
+ Thu Oct 11 02:52:58 2018
+ 16840 rwxr-xr-x 1  root  root regular file  nf-exp-add 
+
+ Thu Oct 11 03:32:42 2018
+ 8 rwxrwxrwx 1  root  root symlink vboxtoau->vboxcnvt 
+
+ Thu Oct 11 03:00:03 2018
+ 249344 rwxr-xr-x 1  root  root regular file  find 
+
+ Thu Oct 11 02:58:14 2018
+ 15888 rwxr-xr-x 1  root  root regular file  pathplot 
+
+ Thu Oct 11 03:32:17 2018
+ 25 rwxrwxrwx 1  root  root symlink hp-sendfax->../share/hplip/sendfax.py 
+
+ Thu Oct 11 02:58:14 2018
+ 36720 rwxr-xr-x 1  root  root regular file  icctest 
+
+ Thu Oct 11 03:08:43 2018
+ 26 rwxrwxrwx 1  root  root symlink lp->/etc/alternatives/print-lp 
+
+ Thu Oct 11 03:05:11 2018
+ 12024 rwxr-xr-x 1  root  root regular file  gio-querymodules-64 
+
+ Thu Oct 11 03:17:31 2018
+ 10115 rwxr-xr-x 1  root  root regular file  abrt-action-install-debuginfo 
+
+ Thu Oct 11 03:17:31 2018
+ 6894 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-core 
+
+ Thu Oct 11 03:11:06 2018
+ 387 rwxr-xr-x 1  root  root regular file  mailmail 
+
+ Thu Oct 11 02:52:58 2018
+ 11720 rwxr-xr-x 1  root  root regular file  nl-list-sockets 
+
+ Thu Oct 11 03:32:27 2018
+ 71096 rwxr-xr-x 1  root  root regular file  pkcs15-init 
+
+ Thu Oct 11 03:13:32 2018
+ 60208 rwxr-xr-x 1  root  root regular file  ntfsinfo 
+
+ Sat Nov 11 20:22:44 2017
+ 15312 rwxr-xr-x 1  root  root regular file  nettle-hash 
+
+ Thu Oct 11 03:16:39 2018
+ 28944 rwxr-xr-x 1  root  root regular file  dbus-launch 
+
+ Thu Oct 11 03:15:14 2018
+ 15864 rwxr-xr-x 1  root  root regular file  reporter-systemd-journal 
+
+ Thu Oct 11 03:35:58 2018
+ 643160 rwxr-xr-x 1  root  root regular file  tmux 
+
+ Thu Oct 11 03:33:44 2018
+ 14 rwxrwxrwx 1  root  root symlink gdb->../libexec/gdb 
+
+ Thu Oct 11 03:13:04 2018
+ 33824 rwxr-xr-x 1  root  root regular file  taskset 
+
+ Thu Oct 11 03:31:52 2018
+ 4 rwxrwxrwx 1  root  root symlink gvimdiff->gvim 
+
+ Thu Oct 11 03:18:45 2018
+ 219496 rwxr-xr-x 1  root  root regular file  loadkeys 
+
+ Thu Oct 11 03:13:32 2018
+ 43816 rwxr-xr-x 1  root  root regular file  ntfsfix 
+
+ Thu Oct 11 02:50:29 2018
+ 29680 rwxr-xr-x 1  root  root regular file  xmlwf 
+
+ Thu Oct 11 03:07:08 2018
+ 20488 rwxr-xr-x 1  root  root regular file  libinput 
+
+ Thu Oct 11 03:24:20 2018
+ 19992 rwxr-xr-x 1  root  root regular file  luksmeta 
+
+ Thu Oct 11 03:24:32 2018
+ 57216 rwxr-xr-x 1  root  root regular file  udisksctl 
+
+ Thu Oct 11 03:04:28 2018
+ 51920 rwxr-xr-x 1  root  root regular file  sha1sum 
+
+ Thu Oct 11 03:13:03 2018
+ 7 rwxrwxrwx 1  root  root symlink i386->setarch 
+
+ Thu Oct 11 02:52:58 2018
+ 11952 rwxr-xr-x 1  root  root regular file  nl-link-stats 
+
+ Thu Oct 11 03:35:37 2018
+ 58520 --x--x--x 1  root  root regular file  sudoreplay 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-md5 
+
+ Thu Oct 11 03:04:17 2018
+ 26120 rwxr-xr-x 1  root  root regular file  time 
+
+ Thu Oct 11 03:35:46 2018
+ 1870488 rwxr-xr-x 1  root  root regular file  opgprof 
+
+ Thu Oct 11 03:19:26 2018
+ 45 rwxr-xr-x 1  root  root regular file  cvlc 
+
+ Thu Oct 11 03:29:32 2018
+ 841752 rwxr-xr-x 1  root  root regular file  seahorse 
+
+ Thu Oct 11 03:17:22 2018
+ 426584 rwxr-xr-x 1  root  root regular file  grub2-editenv 
+
+ Thu Oct 11 03:36:15 2018
+ 38208 rwxr-xr-x 1  root  root regular file  sscg 
+
+ Thu Oct 11 03:35:53 2018
+ 33875 rwxr-xr-x 1  root  root regular file  miniterm-2.py 
+
+ Thu Oct 11 03:06:28 2018
+ 3248624 rwxr-xr-x 1  root  root regular file  dwp 
+
+ Thu Oct 11 03:11:30 2018
+ 16 rwxrwxrwx 1  root  root symlink coverage3->python3-coverage 
+
+ Thu Oct 11 03:15:38 2018
+ 669 rwxr-xr-x 1  root  root regular file  ps2ps2 
+
+ Thu Oct 11 03:18:45 2018
+ 22616 rwxr-xr-x 1  root  root regular file  vlock 
+
+ Thu Oct 11 03:20:25 2018
+ 1496 rwxr-xr-x 1  root  root regular file  xfce4-popup-directorymenu 
+
+ Thu Oct 11 02:52:36 2018
+ 11760 rwxr-xr-x 1  root  root regular file  libieee1284_test 
+
+ Thu Oct 11 03:16:04 2018
+ 53176 rwxr-xr-x 1  root  root regular file  systemd-sysusers 
+
+ Thu Oct 11 03:33:35 2018
+ 4820 rwxr-xr-x 1  root  root regular file  rpmdev-checksig 
+
+ Thu Oct 11 03:14:10 2018
+ 589584 rwxr-xr-x 1  root  root regular file  gcov-tool 
+
+ Thu Oct 11 03:37:13 2018
+ 11712 rwxr-xr-x 1  root  root regular file  svc_recv 
+
+ Thu Oct 11 02:58:14 2018
+ 15904 rwxr-xr-x 1  root  root regular file  extracticc 
+
+ Thu Oct 11 03:17:26 2018
+ 54432 rwxr-xr-x 1  root  root regular file  scanimage 
+
+ Thu Oct 11 03:08:49 2018
+ 279 rwxr-xr-x 1  root  root regular file  gvfs-rm 
+
+ Thu Oct 11 03:00:24 2018
+ 182984 rwxr-xr-x 1  root  root regular file  m4 
+
+ Thu Oct 11 03:22:34 2018
+ 66464 rwxr-xr-x 1  root  root regular file  dracut 
+
+ Thu Oct 11 02:52:45 2018
+ 23576 rwxr-xr-x 1  root  root regular file  tset 
+
+ Thu Oct 11 03:05:48 2018
+ 103296 rwxr-xr-x 1  root  root regular file  gzip 
+
+ Thu Oct 11 03:27:06 2018
+ 10908 rwxr-xr-x 1  root  root regular file  gdk-pixbuf-query-loaders-32 
+
+ Thu Oct 11 02:50:36 2018
+ 33056 rwxr-xr-x 1  root  root regular file  gpg-error 
+
+ Thu Oct 11 03:21:18 2018
+ 372 rwxr-xr-x 1  root  root regular file  deluge 
+
+ Thu Oct 11 03:07:33 2018
+ 1736 rwxr-xr-x 1  root  root regular file  rebuild-jar-repository 
+
+ Thu Oct 11 03:32:04 2018
+ 12 rwxrwxrwx 1  root  root symlink jack_disconnect->jack_connect 
+
+ Thu Oct 11 03:00:13 2018
+ 33408 rwxr-xr-x 1  root  root regular file  iso-info 
+
+ Thu Oct 11 03:00:45 2018
+ 126600 rwxr-xr-x 1  root  root regular file  pre-grohtml 
+
+ Thu Oct 11 03:17:45 2018
+ 33352 rwxr-xr-x 1  root  root regular file  abrt-dump-journal-xorg 
+
+ Thu Oct 11 03:12:19 2018
+ 15952 rwxr-xr-x 1  root  root regular file  pasuspender 
+
+ Thu Oct 11 03:32:09 2018
+ 6 rwxrwxrwx 1  root  root symlink gaim->pidgin 
+
+ Thu Oct 11 03:27:49 2018
+ 24 rwxrwxrwx 1  root  root symlink vmware-user->vmware-user-suid-wrapper 
+
+ Thu Oct 11 03:35:32 2018
+ 13728 rwxr-xr-x 1  root  root regular file  jigdo-mirror 
+
+ Thu Oct 11 03:04:28 2018
+ 37888 rwxr-xr-x 1  root  root regular file  false 
+
+ Thu Oct 11 03:36:25 2018
+ 9 rwxrwxrwx 1  root  root symlink flipdiff->interdiff 
+
+ Thu Oct 11 03:32:26 2018
+ 28480 rwxr-xr-x 1  root  root regular file  netkey-tool 
+
+ Thu Oct 11 02:56:45 2018
+ 16632 rwxr-xr-x 1  root  root regular file  db_log_verify 
+
+ Thu Oct 11 03:29:34 2018
+ 75 rwxr-xr-x 1  root  root regular file  blueberry 
+
+ Thu Oct 11 03:35:11 2018
+ 32336 rwxr-xr-x 1  root  root regular file  paps 
+
+ Thu Oct 11 03:04:28 2018
+ 60120 rwxr-xr-x 1  root  root regular file  test 
+
+ Thu Oct 11 03:33:35 2018
+ 3722 rwxr-xr-x 1  root  root regular file  rpmdev-packager 
+
+ Thu Oct 11 02:59:49 2018
+ 36504 rwxr-xr-x 1  root  root regular file  fonttosfnt 
+
+ Thu Oct 11 02:58:18 2018
+ 143232 rwxr-xr-x 1  root  root regular file  lz4 
+
+ Thu Oct 11 02:55:51 2018
+ 45458 rwxr-xr-x 2  root  root regular file  perlthanks 
+
+ Thu Oct 11 03:16:31 2018
+ 147472 rwxr-xr-x 1  root  root regular file  hciattach 
+
+ Thu Oct 11 03:14:29 2018
+ 233168 rwxr-xr-x 1  root  root regular file  arj 
+
+ Thu Oct 11 03:01:08 2018
+ 12104 rwxr-xr-x 1  root  root regular file  lessecho 
+
+ Thu Oct 11 03:07:51 2018
+ 20152 rwxr-xr-x 1  root  root regular file  xinit 
+
+ Thu Oct 11 03:18:46 2018
+ 12320 rwxr-xr-x 1  root  root regular file  cisco-decrypt 
+
+ Thu Oct 11 03:17:31 2018
+ 11696 rwxr-xr-x 1  root  root regular file  abrt-action-generate-core-backtrace 
+
+ Thu Oct 11 03:13:34 2018
+ 71088 rwxr-xr-x 1  root  root regular file  stapbpf 
+
+ Thu Oct 11 03:18:40 2018
+ 81224 rwxr-xr-x 1  root  root regular file  openfortivpn 
+
+ Thu Oct 11 03:12:39 2018
+ 23616 rwxr-xr-x 1  root  root regular file  gst-xmlinspect-0.10 
+
+ Thu Oct 11 02:56:45 2018
+ 16280 rwxr-xr-x 1  root  root regular file  db_recover 
+
+ Thu Oct 11 03:12:38 2018
+ 15608 rwxr-xr-x 1  root  root regular file  gst-launch 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-query->../share/hplip/query.py 
+
+ Thu Oct 11 03:04:28 2018
+ 47432 rwxr-xr-x 1  root  root regular file  cat 
+
+ Thu Oct 11 03:12:02 2018
+ 97624 rwxr-xr-x 1  root  root regular file  lexgrog 
+
+ Thu Oct 11 03:23:13 2018
+ 2 rwxrwxrwx 1  root  root symlink atrm->at 
+
+ Thu Oct 11 03:04:18 2018
+ 56416 rwxr-xr-x 1  root  root regular file  ed 
+
+ Thu Oct 11 03:18:35 2018
+ 1207040 rwxr-xr-x 1  root  root regular file  rpcclient 
+
+ Thu Oct 11 03:37:18 2018
+ 27368 rwxr-xr-x 1  root  root regular file  valgrind-di-server 
+
+ Thu Oct 11 03:13:26 2018
+ 3869 rwxr-xr-x 1  root  root regular file  fakeroot-tcp 
+
+ Thu Oct 11 03:32:27 2018
+ 2107 rwxr-xr-x 1  root  root regular file  pkcs11-switch 
+
+ Thu Oct 11 03:21:10 2018
+ 10880 rwxr-xr-x 1  root  root regular file  gkbd-keyboard-display 
+
+ Thu Oct 11 03:00:30 2018
+ 19944 rwxr-xr-x 1  root  root regular file  prtstat 
+
+ Thu Oct 11 03:00:13 2018
+ 46096 rwxr-xr-x 1  root  root regular file  cd-info 
+
+ Thu Oct 11 03:13:40 2018
+ 15 rwxrwxrwx 1  root  root symlink Mail->../../bin/mailx 
+
+ Thu Oct 11 03:50:43 2018
+ 30 rwxrwxrwx 1  root  root symlink native2ascii->/etc/alternatives/native2ascii 
+
+ Thu Oct 11 03:09:06 2018
+ 27 rwxrwxrwx 1  root  root symlink mailq->/etc/alternatives/mta-mailq 
+
+ Thu Oct 11 03:14:10 2018
+ 37016 rwxr-xr-x 1  root  root regular file  gcc-nm 
+
+ Thu Oct 11 02:52:51 2018
+ 15832 rwxr-xr-x 1  root  root regular file  dvcont 
+
+ Thu Oct 11 03:04:28 2018
+ 81592 rwxr-xr-x 1  root  root regular file  rm 
+
+ Thu Oct 11 03:04:28 2018
+ 88176 rwxr-xr-x 1  root  root regular file  ptx 
+
+ Thu Oct 11 03:00:45 2018
+ 3 rwxrwxrwx 1  root  root symlink gtbl->tbl 
+
+ Thu Oct 11 03:23:05 2018
+ 24827 rwxr-xr-x 1  root  root regular file  kdumpctl 
+
+ Thu Oct 11 02:58:48 2018
+ 12120 rwxr-xr-x 1  root  root regular file  compface 
+
+ Thu Oct 11 03:18:45 2018
+ 12456 rwxr-xr-x 1  root  root regular file  fgconsole 
+
+ Sun Sep 30 14:10:20 2018
+ 23 rwxrwxrwx 1  root  root symlink ebook-edit->/opt/calibre/ebook-edit 
+
+ Thu Oct 11 03:29:22 2018
+ 119360 rwxr-xr-x 1  root  root regular file  gcm-viewer 
+
+ Thu Oct 11 03:36:54 2018
+ 176 rwxr-xr-x 1  root  root regular file  vifm-screen-split 
+
+ Thu Oct 11 03:00:45 2018
+ 222232 rwxr-xr-x 1  root  root regular file  pic 
+
+ Thu Oct 11 03:22:25 2018
+ 43528 rwxr-xr-x 1  root  root regular file  tpm2_activatecredential 
+
+ Thu Oct 11 03:04:28 2018
+ 85944 rwxr-xr-x 1  root  root regular file  stty 
+
+ Thu Oct 11 03:30:06 2018
+ 90560 rwxr-xr-x 1  root  root regular file  xfce4-clipman-settings 
+
+ Thu Oct 11 03:04:16 2018
+ 21515 rwxr-xr-x 1  root  root regular file  hardened.sh 
+
+ Sun Sep 30 14:10:20 2018
+ 25 rwxrwxrwx 1  root  root symlink calibre-smtp->/opt/calibre/calibre-smtp 
+
+ Thu Oct 11 03:16:45 2018
+ 5 rwxrwxrwx 1  root  root symlink dnf->dnf-3 
+
+ Thu Oct 11 03:36:35 2018
+ 1248352 rwxr-xr-x 1  root  root regular file  sqlite3 
+
+ Thu Oct 11 03:00:45 2018
+ 6 rwxrwxrwx 1  root  root symlink gsoelim->soelim 
+
+ Thu Oct 11 03:13:32 2018
+ 32632 rwxr-xr-x 1  root  root regular file  ntfsls 
+
+ Thu Oct 11 03:04:28 2018
+ 43872 rwxr-xr-x 1  root  root regular file  sleep 
+
+ Thu Oct 11 03:33:35 2018
+ 6775 rwxr-xr-x 1  root  root regular file  rpmdev-diff 
+
+ Thu Oct 11 03:24:40 2018
+ 13 rwxrwxrwx 1  root  root symlink liveinst->consolehelper 
+
+ Thu Oct 11 01:14:56 2018
+ 25280 rwxr-xr-x 1  root  root regular file  makedb 
+
+ Thu Oct 11 02:58:14 2018
+ 20024 rwxr-xr-x 1  root  root regular file  revfix 
+
+ Thu Oct 11 03:33:57 2018
+ 129197 rwxr-xr-x 1  root  root regular file  libtoolize 
+
+ Thu Oct 11 03:13:10 2018
+ 455648 rwxr-xr-x 1  root  root regular file  ssh-keygen 
+
+ Thu Oct 11 03:35:54 2018
+ 29792 rwxr-xr-x 1  root  root regular file  usbhid-dump 
+
+ Thu Oct 11 03:36:31 2018
+ 1225400 rwxr-xr-x 1  root  root regular file  vi 
+
+ Thu Oct 11 03:23:16 2018
+ 9 rwxrwxrwx 1  root  root symlink rrdinfo->rrdupdate 
+
+ Thu Oct 11 03:19:26 2018
+ 16264 rwxr-xr-x 1  root  root regular file  vlc 
+
+ Thu Oct 11 03:23:13 2018
+ 2 rwxrwxrwx 1  root  root symlink atq->at 
+
+ Thu Oct 11 03:00:25 2018
+ 36960 rwxr-xr-x 1  root  root regular file  idn 
+
+ Thu Oct 11 03:19:31 2018
+ 46 rwxr-xr-x 1  root  root regular file  svlc 
+
+ Thu Oct 11 03:08:49 2018
+ 273 rwxr-xr-x 1  root  root regular file  gvfs-cat 
+
+ Thu Oct 11 03:10:43 2018
+ 13 rwxrwxrwx 1  root  root symlink nosetests-2->nosetests-2.7 
+
+ Thu Oct 11 03:30:02 2018
+ 88728 rwxr-xr-x 1  root  root regular file  globaltime 
+
+ Thu Oct 11 03:15:50 2018
+ 15775 rwxr-xr-x 1  root  root regular file  libnetcfg 
+
+ Thu Oct 11 03:32:26 2018
+ 33120 rwxr-xr-x 1  root  root regular file  piv-tool 
+
+ Thu Oct 11 02:58:14 2018
+ 20016 rwxr-xr-x 1  root  root regular file  invprofcheck 
+
+ Thu Oct 11 03:29:27 2018
+ 469224 rwxr-xr-x 1  root  root regular file  evince 
+
+ Thu Oct 11 03:31:52 2018
+ 4 rwxrwxrwx 1  root  root symlink gex->gvim 
+
+ Thu Oct 11 02:52:45 2018
+ 11144 rwxr-xr-x 1  root  root regular file  clear 
+
+ Thu Oct 11 03:15:38 2018
+ 11 rwxrwxrwx 1  root  root symlink ghostscript->/usr/bin/gs 
+
+ Thu Oct 11 03:32:03 2018
+ 1340 rwxr-xr-x 1  root  root regular file  start-pulseaudio-x11 
+
+ Thu Oct 11 03:22:25 2018
+ 65952 rwxr-xr-x 1  root  root regular file  tpm2_create 
+
+ Thu Oct 11 03:14:10 2018
+ 551720 rwxr-xr-x 1  root  root regular file  gcov-dump 
+
+ Thu Oct 11 03:09:25 2018
+ 20088 rwxr-xr-x 1  root  root regular file  vcut 
+
+ Thu Oct 11 03:06:25 2018
+ 20312 rwxr-xr-x 1  root  root regular file  w 
+
+ Thu Oct 11 03:23:49 2018
+ 20336 rwxr-xr-x 1  root  root regular file  aulast 
+
+ Thu Oct 11 03:16:33 2018
+ 15920 rwxr-xr-x 1  root  root regular file  ppdpo 
+
+ Thu Oct 11 03:21:49 2018
+ 89712 rwxr-xr-x 1  root  root regular file  xfce4-screenshooter 
+
+ Thu Oct 11 03:13:40 2018
+ 5 rwxrwxrwx 1  root  root symlink mail->mailx 
+
+ Thu Oct 11 03:32:04 2018
+ 33272 rwxr-xr-x 1  root  root regular file  alsa_out 
+
+ Thu Oct 11 02:59:49 2018
+ 40752 rwxr-xr-x 1  root  root regular file  mkfontscale 
+
+ Thu Oct 11 03:12:21 2018
+ 16696 rwxr-xr-x 1  root  root regular file  fprintd-enroll 
+
+ Thu Oct 11 03:01:01 2018
+ 8533 rwxr-xr-x 1  root  root regular file  autoheader 
+
+ Thu Oct 11 03:18:02 2018
+ 79456 rwxr-xr-x 1  root  root regular file  alsaloop 
+
+ Thu Oct 11 03:00:21 2018
+ 5 rwxrwxrwx 1  root  root symlink bunzip2->bzip2 
+
+ Thu Oct 11 03:06:01 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip3 
+
+ Thu Oct 11 03:06:28 2018
+ 889688 rwxr-xr-x 1  root  root regular file  as 
+
+ Thu Oct 11 03:04:28 2018
+ 65176 rwxr-xr-x 1  root  root regular file  [ 
+
+ Thu Oct 11 03:04:28 2018
+ 121848 rwxr-xr-x 1  root  root regular file  du 
+
+ Thu Oct 11 03:15:16 2018
+ 3271 rwxr-xr-x 1  root  root regular file  gdb-add-index 
+
+ Thu Oct 11 03:23:16 2018
+ 28816 rwxr-xr-x 1  root  root regular file  rrdcgi 
+
+ Thu Oct 11 03:05:06 2018
+ 3 rwxrwxrwx 1  root  root symlink rpmquery->rpm 
+
+ Thu Oct 11 03:07:01 2018
+ 11720 rwxr-xr-x 1  root  root regular file  pwmake 
+
+ Sun Sep 30 14:10:20 2018
+ 22 rwxrwxrwx 1  root  root symlink calibredb->/opt/calibre/calibredb 
+
+ Thu Oct 11 03:07:55 2018
+ 24040 rwxr-xr-x 1  root  root regular file  msgcomm 
+
+ Thu Oct 11 03:08:48 2018
+ 164080 rwxr-xr-x 1  root  root regular file  teamd 
+
+ Thu Oct 11 03:22:25 2018
+ 51912 rwxr-xr-x 1  root  root regular file  tpm2_quote 
+
+ Thu Oct 11 02:52:58 2018
+ 11720 rwxr-xr-x 1  root  root regular file  nl-link-ifindex2name 
+
+ Thu Oct 11 03:33:48 2018
+ 2644 rwxr-xr-x 1  root  root regular file  strace-log-merge 
+
+ Thu Oct 11 03:37:44 2018
+ 21176 rwxr-xr-x 1  root  root regular file  checkisomd5 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-save 
+
+ Thu Oct 11 03:06:27 2018
+ 610 rwxr-xr-x 1  root  root regular file  make-dummy-cert 
+
+ Thu Oct 11 03:19:50 2018
+ 281 rwxr-xr-x 1  root  root regular file  exo-preferred-applications 
+
+ Thu Oct 11 03:00:21 2018
+ 6 rwxrwxrwx 1  root  root symlink bzfgrep->bzgrep 
+
+ Thu Oct 11 03:13:26 2018
+ 32392 rwxr-xr-x 1  root  root regular file  faked-tcp 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-align->../share/hplip/align.py 
+
+ Thu Oct 11 03:16:04 2018
+ 15936 rwxr-xr-x 1  root  root regular file  systemd-stdio-bridge 
+
+ Thu Oct 11 03:30:33 2018
+ 91 rwxr-xr-x 1  root  root regular file  xfpanel-switch 
+
+ Thu Oct 11 03:04:28 2018
+ 42936 rwxr-xr-x 1  root  root regular file  cksum 
+
+ Thu Oct 11 03:06:10 2018
+ 78 rwxr-xr-x 1  root  root regular file  pydoc2.7 
+
+ Thu Oct 11 03:35:46 2018
+ 74936 rwxr-xr-x 1  root  root regular file  ophelp 
+
+ Thu Oct 11 03:09:41 2018
+ 15920 rwxr-xr-x 1  root  root regular file  gupnp-dlna-info-2.0 
+
+ Thu Oct 11 03:09:55 2018
+ 1081 rwxr-xr-x 1  root  root regular file  lspgpot 
+
+ Thu Oct 11 03:19:45 2018
+ 20384 rwxr-xr-x 1  root  root regular file  gtk-query-immodules-3.0-64 
+
+ Thu Oct 11 02:52:58 2018
+ 11872 rwxr-xr-x 1  root  root regular file  nl-neightbl-list 
+
+ Thu Oct 11 03:35:46 2018
+ 201824 rwxr-xr-x 1  root  root regular file  ocount 
+
+ Thu Oct 11 03:15:02 2018
+ 65016 rwxr-xr-x 1  root  root regular file  eu-strip 
+
+ Thu Oct 11 03:12:02 2018
+ 51224 rwxr-xr-x 1  root  root regular file  whatis 
+
+ Thu Oct 11 02:54:15 2018
+ 20008 rwxr-xr-x 1  root  root regular file  hostname 
+
+ Thu Oct 11 03:29:27 2018
+ 54888 rwxr-xr-x 1  root  root regular file  evince-previewer 
+
+ Thu Oct 11 03:16:31 2018
+ 207392 rwxr-xr-x 1  root  root regular file  bccmd 
+
+ Thu Oct 11 03:14:10 2018
+ 37024 rwxr-xr-x 1  root  root regular file  gcc-ranlib 
+
+ Thu Oct 11 03:08:43 2018
+ 30 rwxrwxrwx 1  root  root symlink lpstat->/etc/alternatives/print-lpstat 
+
+ Thu Oct 11 03:04:28 2018
+ 52264 rwxr-xr-x 1  root  root regular file  timeout 
+
+ Thu Oct 11 03:22:26 2018
+ 2712 rwxr-xr-x 1  root  root regular file  clevis-decrypt-tang 
+
+ Thu Oct 11 02:50:56 2018
+ 35272 rwxr-xr-x 1  root  root regular file  p11-kit 
+
+ Thu Oct 11 03:23:08 2018
+ 185568 rwxr-xr-x 1  root  root regular file  mmcli 
+
+ Thu Oct 11 03:07:55 2018
+ 28968 rwxr-xr-x 1  root  root regular file  msgfilter 
+
+ Thu Oct 11 03:32:42 2018
+ 144672 rwxr-xr-x 1  root  root regular file  isdnconf 
+
+ Thu Oct 11 02:55:08 2018
+ 50912 rwxr-xr-x 1  root  root regular file  xauth 
+
+ Thu Oct 11 02:56:45 2018
+ 75880 rwxr-xr-x 1  root  root regular file  db_dump185 
+
+ Thu Oct 11 03:13:03 2018
+ 46672 rwxr-xr-x 1  root  root regular file  chmem 
+
+ Wed Oct 10 23:57:33 2018
+ 31 rwxrwxrwx 1  root  root symlink google-chrome->/etc/alternatives/google-chrome 
+
+ Thu Oct 11 03:18:35 2018
+ 39448 rwxr-xr-x 1  root  root regular file  regshell 
+
+ Thu Oct 11 02:59:40 2018
+ 10 rwxrwxrwx 1  root  root symlink bashbug->bashbug-64 
+
+ Thu Oct 11 03:32:42 2018
+ 163552 rwxr-xr-x 1  root  root regular file  isdnbill 
+
+ Thu Oct 11 03:01:08 2018
+ 21928 rwxr-xr-x 1  root  root regular file  lesskey 
+
+ Thu Oct 11 03:04:28 2018
+ 59568 rwxr-xr-x 1  root  root regular file  tr 
+
+ Thu Oct 11 03:33:33 2018
+ 36640 rwxr-xr-x 1  root  root regular file  svndumpfilter 
+
+ Thu Oct 11 03:35:36 2018
+ 11960 rwxr-xr-x 1  root  root regular file  pwqcheck 
+
+ Thu Oct 11 03:12:19 2018
+ 48872 rwxr-xr-x 1  root  root regular file  pacat 
+
+ Thu Oct 11 03:08:48 2018
+ 30176 rwxr-xr-x 1  root  root regular file  teamdctl 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-sha512 
+
+ Thu Oct 11 02:52:51 2018
+ 11712 rwxr-xr-x 1  root  root regular file  mkrfc2734 
+
+ Thu Oct 11 03:23:16 2018
+ 28136 rwxr-xr-x 1  root  root regular file  rrdtool 
+
+ Thu Oct 11 03:32:26 2018
+ 16784 rwxr-xr-x 1  root  root regular file  opensc-asn1 
+
+ Thu Oct 11 03:08:49 2018
+ 281 rwxr-xr-x 1  root  root regular file  gvfs-monitor-dir 
+
+ Thu Oct 11 02:58:14 2018
+ 24096 rwxr-xr-x 1  root  root regular file  iccgamut 
+
+ Thu Oct 11 03:04:51 2018
+ 88288 rwxr-xr-x 1  root  root regular file  gpasswd 
+
+ Thu Oct 11 02:57:51 2018
+ 10704 rwxr-xr-x 1  root  root regular file  ntfs-3g.probe 
+
+ Thu Oct 11 03:23:52 2018
+ 29632 rwxr-xr-x 1  root  root regular file  vncpasswd 
+
+ Thu Oct 11 02:58:14 2018
+ 15840 rwxr-xr-x 1  root  root regular file  specplot 
+
+ Thu Oct 11 03:18:45 2018
+ 12216 rwxr-xr-x 1  root  root regular file  setmetamode 
+
+ Thu Oct 11 03:04:51 2018
+ 48752 rwxr-xr-x 1  root  root regular file  newgrp 
+
+ Thu Oct 11 03:16:12 2018
+ 24032 rwxr-xr-x 1  root  root regular file  pkcheck 
+
+ Thu Oct 11 03:20:16 2018
+ 11784 rwxr-xr-x 1  root  root regular file  gcr-viewer 
+
+ Thu Oct 11 03:06:42 2018
+ 21210 rwxr-xr-x 1  root  root regular file  xdg-desktop-icon 
+
+ Thu Oct 11 03:21:44 2018
+ 20504 rwxr-xr-x 1  root  root regular file  gnome-keyring-3 
+
+ Thu Oct 11 03:13:03 2018
+ 67944 rwxr-xr-x 1  root  root regular file  findmnt 
+
+ Thu Oct 11 03:37:12 2018
+ 15936 rwxr-xr-x 1  root  root regular file  xlsclients 
+
+ Thu Oct 11 03:16:31 2018
+ 235144 rwxr-xr-x 1  root  root regular file  bluetoothctl 
+
+ Thu Oct 11 03:15:19 2018
+ 4173 rwxr-xr-x 1  root  root regular file  stap-prep 
+
+ Thu Oct 11 02:58:14 2018
+ 45648 rwxr-xr-x 1  root  root regular file  kodak2ti3 
+
+ Thu Oct 11 03:04:51 2018
+ 21568 rwxr-xr-x 1  root  root regular file  lastlog 
+
+ Thu Oct 11 03:35:46 2018
+ 341936 rwxr-xr-x 1  root  root regular file  operf 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-clean->../share/hplip/clean.py 
+
+ Thu Oct 11 03:18:30 2018
+ 15824 rwxr-xr-x 1  root  root regular file  imsettings-info 
+
+ Thu Oct 11 02:58:18 2018
+ 3 rwxrwxrwx 1  root  root symlink unlz4->lz4 
+
+ Thu Oct 11 03:16:08 2018
+ 16152 rwxr-xr-x 1  root  root regular file  dbus-update-activation-environment 
+
+ Thu Oct 11 03:16:35 2018
+ 33 rwxrwxrwx 1  root  root symlink foomatic-rip->/usr/lib/cups/filter/foomatic-rip 
+
+ Thu Oct 11 03:12:00 2018
+ 568496 rwxr-xr-x 1  root  root regular file  transmission-edit 
+
+ Thu Oct 11 03:16:17 2018
+ 9110 rwxr-xr-x 1  root  root regular file  abrt-handle-upload 
+
+ Thu Oct 11 03:33:33 2018
+ 102432 rwxr-xr-x 1  root  root regular file  svnadmin 
+
+ Thu Oct 11 03:00:50 2018
+ 15034 rwxr-xr-x 1  root  root regular file  pod2man 
+
+ Sat Nov 11 20:22:44 2017
+ 23816 rwxr-xr-x 1  root  root regular file  sexp-conv 
+
+ Thu Oct 11 03:00:47 2018
+ 2980 rwxr-xr-x 1  root  root regular file  encguess 
+
+ Thu Oct 11 03:06:06 2018
+ 8 rwxrwxrwx 1  root  root symlink pip-2.7->./pip2.7 
+
+ Thu Oct 11 03:13:04 2018
+ 20328 rwxr-xr-x 1  tty  root regular file  write 
+
+ Thu Oct 11 03:23:07 2018
+ 2818 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-vmcore 
+
+ Thu Oct 11 03:14:05 2018
+ 20336 rwxr-xr-x 1  root  root regular file  htpasswd 
+
+ Thu Oct 11 02:52:58 2018
+ 12328 rwxr-xr-x 1  root  root regular file  nf-ct-add 
+
+ Thu Oct 11 02:58:14 2018
+ 78128 rwxr-xr-x 1  root  root regular file  printtarg 
+
+ Thu Oct 11 03:09:52 2018
+ 10 rwxrwxrwx 1  root  root symlink sylpheed-claws->claws-mail 
+
+ Thu Oct 11 03:22:52 2018
+ 306664 rwxr-xr-x 1  root  root regular file  grub2-script-check 
+
+ Thu Oct 11 03:21:48 2018
+ 39 rwxr-xr-x 1  root  root regular file  oodraw 
+
+ Thu Oct 11 03:09:15 2018
+ 16592 rwxr-xr-x 1  root  root regular file  fipscheck 
+
+ Thu Oct 11 02:51:33 2018
+ 15896 rwxr-xr-x 1  root  root regular file  testlibraw 
+
+ Thu Oct 11 03:05:11 2018
+ 44816 rwxr-xr-x 1  root  root regular file  gdbus 
+
+ Thu Oct 11 03:00:12 2018
+ 6 rwxrwxrwx 1  root  root symlink xzcmp->xzdiff 
+
+ Thu Oct 11 03:13:03 2018
+ 28968 rwxr-xr-x 1  root  root regular file  fincore 
+
+ Thu Oct 11 03:17:31 2018
+ 3387 rwxr-xr-x 1  root  root regular file  abrt-action-list-dsos 
+
+ Thu Oct 11 02:52:45 2018
+ 4 rwxrwxrwx 1  root  root symlink reset->tset 
+
+ Thu Oct 11 03:15:38 2018
+ 215 rwxr-xr-x 1  root  root regular file  ps2pdf12 
+
+ Thu Oct 11 02:52:58 2018
+ 11904 rwxr-xr-x 1  root  root regular file  nl-rule-list 
+
+ Thu Oct 11 03:18:13 2018
+ 20304 rwxr-xr-x 1  root  root regular file  pkmon 
+
+ Thu Oct 11 03:04:28 2018
+ 75864 rwxr-xr-x 1  root  root regular file  chgrp 
+
+ Thu Oct 11 03:12:22 2018
+ 2404 rwxr-xr-x 1  root  root regular file  pinentry 
+
+ Thu Oct 11 03:21:38 2018
+ 75352 rwxr-xr-x 1  root  root regular file  xfce4-settings-editor 
+
+ Thu Oct 11 02:56:39 2018
+ 20656 rwxr-xr-x 1  root  root regular file  celtdec071 
+
+ Thu Oct 11 01:15:12 2018
+ 168872 rwxr-xr-x 1  root  root regular file  modutil 
+
+ Thu Oct 11 02:57:13 2018
+ 120392 rwxr-xr-x 2  root  root regular file  pigz 
+
+ Thu Oct 11 03:38:47 2018
+ 8 rwxrwxrwx 1  root  root symlink mac2unix->dos2unix 
+
+ Thu Oct 11 03:37:18 2018
+ 32170 rwxr-xr-x 1  root  root regular file  cg_annotate 
+
+ Thu Oct 11 03:33:35 2018
+ 1583 rwxr-xr-x 1  root  root regular file  rpmpeek 
+
+ Thu Oct 11 03:33:35 2018
+ 1034 rwxr-xr-x 1  root  root regular file  rpmls 
+
+ Thu Oct 11 03:13:03 2018
+ 37920 rwxr-xr-x 1  root  root regular file  lslocks 
+
+ Thu Oct 11 03:13:11 2018
+ 348880 rwxr-xr-x 1  root  root regular file  ssh-agent 
+
+ Thu Oct 11 03:04:28 2018
+ 99856 rwxr-xr-x 1  root  root regular file  stat 
+
+ Thu Oct 11 02:58:20 2018
+ 28208 rwxr-xr-x 1  root  root regular file  rapper 
+
+ Thu Oct 11 03:14:49 2018
+ 49256 rwxr-xr-x 1  root  root regular file  reporter-bugzilla 
+
+ Thu Oct 11 02:52:58 2018
+ 7608 rwxr-xr-x 1  root  root regular file  nl-util-addr 
+
+ Thu Oct 11 02:58:51 2018
+ 16448 rwxr-xr-x 1  root  root regular file  xstdcmap 
+
+ Thu Oct 11 03:24:46 2018
+ 3109 rwxr-xr-x 1  root  root regular file  blivet-gui-daemon 
+
+ Thu Oct 11 03:00:45 2018
+ 768536 rwxr-xr-x 1  root  root regular file  troff 
+
+ Thu Oct 11 03:10:06 2018
+ 42000 rwxr-xr-x 1  root  root regular file  pdftotext 
+
+ Thu Oct 11 03:13:32 2018
+ 113744 rwxr-xr-x 1  root  root regular file  ntfsrecover 
+
+ Thu Oct 11 03:18:35 2018
+ 40832 rwxr-xr-x 1  root  root regular file  smbcacls 
+
+ Thu Oct 11 03:25:23 2018
+ 12240 rwxr-xr-x 1  root  root regular file  vmware-hgfsclient 
+
+ Thu Oct 11 03:13:11 2018
+ 166920 rwxr-xr-x 1  root  root regular file  sftp 
+
+ Thu Oct 11 03:18:24 2018
+ 564296 rwxr-xr-x 1  root  root regular file  grub2-mkstandalone 
+
+ Thu Oct 11 03:20:21 2018
+ 884848 rwxr-xr-x 1  root  root regular file  nm-connection-editor 
+
+ Thu Oct 11 03:14:35 2018
+ 15896 rwxr-xr-x 1  root  root regular file  geoiplookup 
+
+ Thu Oct 11 03:12:27 2018
+ 20440 rwxr-xr-x 1  root  root regular file  isdv4-serial-inputattach 
+
+ Thu Oct 11 03:35:15 2018
+ 159688 rwxr-xr-x 1  root  root regular file  asunder 
+
+ Thu Oct 11 02:56:39 2018
+ 29768 rwxr-xr-x 1  root  root regular file  celtenc071 
+
+ Thu Oct 11 03:15:01 2018
+ 11744 rwxr-xr-x 1  root  root regular file  reporter-print 
+
+ Thu Oct 11 03:13:03 2018
+ 33560 rwxr-xr-x 1  root  root regular file  nsenter 
+
+ Thu Oct 11 03:09:23 2018
+ 41856 rwxr-xr-x 1  root  root regular file  mergerepo_c 
+
+ Thu Oct 11 02:57:36 2018
+ 35872 rwxr-xr-x 1  root  root regular file  wvtag 
+
+ Thu Oct 11 03:23:49 2018
+ 11688 rwxr-xr-x 1  root  root regular file  ausyscall 
+
+ Thu Oct 11 03:21:38 2018
+ 86080 rwxr-xr-x 1  root  root regular file  xfce4-mouse-settings 
+
+ Thu Oct 11 03:06:34 2018
+ 15856 rwxr-xr-x 1  root  root regular file  watchgnupg 
+
+ Thu Oct 11 03:06:58 2018
+ 493664 rwxr-xr-x 1  root  root regular file  cockpit-bridge 
+
+ Thu Oct 11 03:04:55 2018
+ 32576 rwxr-xr-x 1  root  root regular file  aserver 
+
+ Thu Oct 11 03:13:03 2018
+ 50712 rwxr-xr-x 1  root  root regular file  logger 
+
+ Thu Oct 11 03:12:42 2018
+ 36432 rwxr-xr-x 1  root  root regular file  wmctrl 
+
+ Thu Oct 11 03:07:55 2018
+ 46672 rwxr-xr-x 1  root  root regular file  gettext 
+
+ Thu Oct 11 03:00:59 2018
+ 9892 rwxr-xr-x 1  root  root regular file  shasum 
+
+ Thu Oct 11 03:20:39 2018
+ 132792 rwxr-xr-x 1  root  root regular file  report-gtk 
+
+ Thu Oct 11 03:30:56 2018
+ 275640 rwxr-xr-x 1  root  root regular file  xfburn 
+
+ Thu Oct 11 03:32:36 2018
+ 29544 rwxr-xr-x 1  root  root regular file  runscript 
+
+ Thu Oct 11 03:06:25 2018
+ 111528 rwxr-xr-x 1  root  root regular file  top 
+
+ Thu Oct 11 03:15:02 2018
+ 2911 rwxr-xr-x 1  root  root regular file  eu-make-debug-archive 
+
+ Thu Oct 11 03:00:45 2018
+ 3 rwxrwxrwx 1  root  root symlink gpic->pic 
+
+ Thu Oct 11 03:15:38 2018
+ 2752 rwxr-xr-x 1  root  root regular file  ps2epsi 
+
+ Thu Oct 11 03:06:42 2018
+ 42788 rwxr-xr-x 1  root  root regular file  xdg-mime 
+
+ Thu Oct 11 03:06:42 2018
+ 27303 rwxr-xr-x 1  root  root regular file  xdg-email 
+
+ Thu Oct 11 03:00:27 2018
+ 107816 rwxr-xr-x 1  root  root regular file  zipcloak 
+
+ Thu Oct 11 03:50:43 2018
+ 22 rwxrwxrwx 1  root  root symlink jhat->/etc/alternatives/jhat 
+
+ Thu Oct 11 02:51:18 2018
+ 24624 rwxr-xr-x 1  root  root regular file  file 
+
+ Thu Oct 11 03:23:07 2018
+ 2188 rwxr-xr-x 1  root  root regular file  abrt-action-check-oops-for-alt-component 
+
+ Thu Oct 11 02:56:34 2018
+ 20456 rwxr-xr-x 1  root  root regular file  efivar 
+
+ Thu Oct 11 03:23:29 2018
+ 115384 rwxr-xr-x 1  root  root regular file  firewall-cmd 
+
+ Sun Sep 30 14:10:20 2018
+ 29 rwxrwxrwx 1  root  root symlink markdown-calibre->/opt/calibre/markdown-calibre 
+
+ Thu Oct 11 03:07:55 2018
+ 46712 rwxr-xr-x 1  root  root regular file  envsubst 
+
+ Thu Oct 11 03:16:40 2018
+ 29304 rwxr-xr-x 1  root  root regular file  xfconf-query 
+
+ Thu Oct 11 03:14:00 2018
+ 4 rwxrwxrwx 1  root  root symlink nc->ncat 
+
+ Thu Oct 11 03:13:04 2018
+ 28888 rwxr-xr-x 1  root  root regular file  scriptreplay 
+
+ Thu Oct 11 03:00:21 2018
+ 6 rwxrwxrwx 1  root  root symlink bzless->bzmore 
+
+ Thu Oct 11 03:37:12 2018
+ 48032 rwxr-xr-x 1  root  root regular file  xprop 
+
+ Thu Oct 11 03:32:04 2018
+ 57392 rwxr-xr-x 1  root  root regular file  jack_test 
+
+ Thu Oct 11 03:15:19 2018
+ 3581640 rwxr-xr-x 1  root  root regular file  stap 
+
+ Thu Oct 11 03:32:26 2018
+ 33176 rwxr-xr-x 1  root  root regular file  opensc-tool 
+
+ Thu Oct 11 03:05:42 2018
+ 15864 rwxr-xr-x 1  root  root regular file  gdk-pixbuf-query-loaders-64 
+
+ Thu Oct 11 03:37:25 2018
+ 105344 rwxr-xr-x 1  root  root regular file  telnet 
+
+ Thu Oct 11 03:50:43 2018
+ 25 rwxrwxrwx 1  root  root symlink javadoc->/etc/alternatives/javadoc 
+
+ Thu Oct 11 03:14:58 2018
+ 33168 rwxr-xr-x 1  root  root regular file  report-cli 
+
+ Thu Oct 11 03:18:23 2018
+ 298688 rwxr-xr-x 1  root  root regular file  grub2-mkfont 
+
+ Thu Oct 11 03:22:34 2018
+ 8232 rwxr-xr-x 1  root  root regular file  lsinitrd 
+
+ Thu Oct 11 03:16:24 2018
+ 273 rwxr-xr-x 1  root  root regular file  Xorg 
+
+ Thu Oct 11 02:59:58 2018
+ 125920 rwxr-xr-x 1  root  root regular file  sed 
+
+ Thu Oct 11 03:06:28 2018
+ 47640 rwxr-xr-x 1  root  root regular file  nm 
+
+ Thu Oct 11 03:22:33 2018
+ 32720 rwxr-xr-x 5  root  root regular file  sha256hmac 
+
+ Thu Oct 11 03:33:44 2018
+ 1064 rwxr-xr-x 1  root  root regular file  gstack 
+
+ Thu Oct 11 03:32:06 2018
+ 136767 rwxr-xr-x 1  root  root regular file  foomatic-configure 
+
+ Thu Oct 11 03:18:35 2018
+ 93576 rwxr-xr-x 1  root  root regular file  cifsdd 
+
+ Thu Oct 11 03:10:07 2018
+ 11343 rwxr-xr-x 1  root  root regular file  mbim-network 
+
+ Thu Oct 11 03:19:07 2018
+ 223256 rwxr-xr-x 1  root  root regular file  bt-device 
+
+ Thu Oct 11 03:00:21 2018
+ 6 rwxrwxrwx 1  root  root symlink bzcmp->bzdiff 
+
+ Thu Oct 11 03:37:21 2018
+ 223064 rwxr-xr-x 1  root  root regular file  exiv2 
+
+ Thu Oct 11 03:04:28 2018
+ 42320 rwxr-xr-x 1  root  root regular file  sync 
+
+ Thu Oct 11 03:32:27 2018
+ 147032 rwxr-xr-x 1  root  root regular file  pkcs11-tool 
+
+ Thu Oct 11 03:16:04 2018
+ 11848 rwxr-xr-x 1  root  root regular file  systemd-ask-password 
+
+ Thu Oct 11 03:18:23 2018
+ 273360 rwxr-xr-x 1  root  root regular file  grub2-glue-efi 
+
+ Thu Oct 11 03:18:35 2018
+ 4896 rwxr-xr-x 1  root  root regular file  smbtar 
+
+ Thu Oct 11 03:20:29 2018
+ 134872 rwxr-xr-x 1  root  root regular file  xfwm4-workspace-settings 
+
+ Thu Oct 11 03:16:10 2018
+ 744152 rwxr-xr-x 1  root  root regular file  nmcli 
+
+ Thu Oct 11 03:18:02 2018
+ 20032 rwxr-xr-x 1  root  root regular file  aseqnet 
+
+ Thu Oct 11 03:23:16 2018
+ 9 rwxrwxrwx 1  root  root symlink rrdcreate->rrdupdate 
+
+ Thu Oct 11 03:16:31 2018
+ 79920 rwxr-xr-x 1  root  root regular file  bluemoon 
+
+ Thu Oct 11 03:33:49 2018
+ 43432 rwxr-xr-x 1  root  root regular file  delv 
+
+ Thu Oct 11 03:15:46 2018
+ 10813 rwxr-xr-x 1  root  root regular file  perlivp 
+
+ Thu Oct 11 01:15:12 2018
+ 117208 rwxr-xr-x 1  root  root regular file  ssltap 
+
+ Thu Oct 11 03:32:17 2018
+ 660176 rwxr-xr-x 1  root  root regular file  hpijs 
+
+ Thu Oct 11 03:11:06 2018
+ 381 rwxr-xr-x 1  root  root regular file  conch 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-setup->../share/hplip/setup.py 
+
+ Thu Oct 11 02:52:58 2018
+ 12120 rwxr-xr-x 1  root  root regular file  nl-qdisc-add 
+
+ Thu Oct 11 02:50:28 2018
+ 20480 rwxr-xr-x 1  root  root regular file  fribidi 
+
+ Thu Oct 11 03:16:31 2018
+ 118440 rwxr-xr-x 1  root  root regular file  l2test 
+
+ Thu Oct 11 03:15:02 2018
+ 261968 rwxr-xr-x 1  root  root regular file  eu-readelf 
+
+ Thu Oct 11 03:22:52 2018
+ 251824 rwxr-xr-x 1  root  root regular file  grub2-menulst2cfg 
+
+ Thu Oct 11 03:50:43 2018
+ 23 rwxrwxrwx 1  root  root symlink jdeps->/etc/alternatives/jdeps 
+
+ Thu Oct 11 03:36:31 2018
+ 2 rwxrwxrwx 1  root  root symlink rview->vi 
+
+ Thu Oct 11 03:18:45 2018
+ 12096 rwxr-xr-x 1  root  root regular file  kbdrate 
+
+ Sun Sep 30 14:10:20 2018
+ 22 rwxrwxrwx 1  root  root symlink lrfviewer->/opt/calibre/lrfviewer 
+
+ Thu Oct 11 03:32:06 2018
+ 2489 rwxr-xr-x 1  root  root regular file  foomatic-searchprinter 
+
+ Thu Oct 11 02:58:11 2018
+ 16200 rwxr-xr-x 1  root  root regular file  jimsh 
+
+ Thu Oct 11 03:14:29 2018
+ 74 rwxr-xr-x 1  root  root regular file  unarj 
+
+ Thu Oct 11 03:34:00 2018
+ 1135112 rwxr-xr-x 4  root  root regular file  g++ 
+
+ Thu Oct 11 03:10:06 2018
+ 21352 rwxr-xr-x 1  root  root regular file  pdfdetach 
+
+ Thu Oct 11 03:04:28 2018
+ 46712 rwxr-xr-x 1  root  root regular file  truncate 
+
+ Thu Oct 11 02:52:51 2018
+ 18672 rwxr-xr-x 1  root  root regular file  panelctl 
+
+ Thu Oct 11 03:06:25 2018
+ 25160 rwxr-xr-x 1  root  root regular file  watch 
+
+ Thu Oct 11 03:23:13 2018
+ 137 rwxr-xr-x 1  root  root regular file  batch 
+
+ Thu Oct 11 03:32:17 2018
+ 26 rwxrwxrwx 1  root  root symlink hp-testpage->../share/hplip/testpage.py 
+
+ Thu Oct 11 03:04:28 2018
+ 51952 rwxr-xr-x 1  root  root regular file  sha384sum 
+
+ Thu Oct 11 03:33:35 2018
+ 10391 rwxr-xr-x 1  root  root regular file  rpmdev-rmdevelrpms 
+
+ Thu Oct 11 03:22:34 2018
+ 6585 rwxr-xr-x 1  root  root regular file  mkinitrd 
+
+ Thu Oct 11 03:04:28 2018
+ 80304 rwxr-xr-x 1  root  root regular file  chown 
+
+ Thu Oct 11 03:28:43 2018
+ 1481 rwxr-xr-x 1  root  root regular file  catfish 
+
+ Thu Oct 11 03:00:12 2018
+ 2161 rwxr-xr-x 1  root  root regular file  xzmore 
+
+ Thu Oct 11 03:32:06 2018
+ 4000 rwxr-xr-x 1  root  root regular file  foomatic-ppd-options 
+
+ Thu Oct 11 03:06:10 2018
+ 10 rwxrwxrwx 1  root  root symlink pydoc2->./pydoc2.7 
+
+ Thu Oct 11 03:28:59 2018
+ 19992 rwxr-xr-x 1  root  root regular file  im-chooser 
+
+ Thu Oct 11 03:12:49 2018
+ 174424 rwxr-xr-x 1  root  root regular file  lsof 
+
+ Thu Oct 11 03:19:50 2018
+ 80600 rwxr-xr-x 1  root  root regular file  exo-desktop-item-edit 
+
+ Thu Oct 11 03:15:02 2018
+ 42272 rwxr-xr-x 1  root  root regular file  eu-ar 
+
+ Thu Oct 11 01:15:12 2018
+ 101680 rwxr-xr-x 1  root  root regular file  signver 
+
+ Thu Oct 11 03:30:23 2018
+ 245312 rwxr-xr-x 1  root  root regular file  xfce4-power-manager 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-sha384 
+
+ Thu Oct 11 03:04:28 2018
+ 51616 rwxr-xr-x 1  root  root regular file  nl 
+
+ Thu Oct 11 03:19:24 2018
+ 388 rwxr-xr-x 1  root  root regular file  deluge-web 
+
+ Thu Oct 11 03:01:01 2018
+ 32180 rwxr-xr-x 1  root  root regular file  autom4te 
+
+ Thu Oct 11 03:14:10 2018
+ 224 rwxr-xr-x 1  root  root regular file  c89 
+
+ Thu Oct 11 03:04:28 2018
+ 41992 rwxr-xr-x 1  root  root regular file  echo 
+
+ Thu Oct 11 03:29:22 2018
+ 89248 rwxr-xr-x 1  root  root regular file  gcm-picker 
+
+ Thu Oct 11 03:10:06 2018
+ 37280 rwxr-xr-x 1  root  root regular file  pdfunite 
+
+ Thu Oct 11 03:12:02 2018
+ 37992 rwxr-xr-x 1  root  root regular file  catman 
+
+ Thu Oct 11 03:18:45 2018
+ 16280 rwxr-xr-x 1  root  root regular file  setleds 
+
+ Thu Oct 11 03:00:47 2018
+ 8271 rwxr-xr-x 1  root  root regular file  piconv 
+
+ Thu Oct 11 03:21:20 2018
+ 3056 rwxr-xr-x 1  root  root regular file  startxfce4 
+
+ Thu Oct 11 03:52:28 2018
+ 27 rwxrwxrwx 1  root  root symlink unpack200->/etc/alternatives/unpack200 
+
+ Thu Oct 11 02:58:51 2018
+ 38208 rwxr-xr-x 1  root  root regular file  xmodmap 
+
+ Thu Oct 11 03:32:04 2018
+ 11776 rwxr-xr-x 1  root  root regular file  jack_latent_client 
+
+ Thu Oct 11 03:17:58 2018
+ 110592 rwxr-xr-x 1  root  root regular file  zvbi-atsc-cc 
+
+ Thu Oct 11 03:04:28 2018
+ 106712 rwxr-xr-x 1  root  root regular file  df 
+
+ Thu Oct 11 03:37:40 2018
+ 11696 rwxr-xr-x 1  root  root regular file  attr 
+
+ Thu Oct 11 03:00:23 2018
+ 61352 rwxr-xr-x 1  root  root regular file  sdiff 
+
+ Thu Oct 11 03:13:04 2018
+ 25024 rwxr-xr-x 1  root  root regular file  unshare 
+
+ Thu Oct 11 03:22:25 2018
+ 34544 rwxr-xr-x 1  root  root regular file  tpm2_evictcontrol 
+
+ Thu Oct 11 02:52:58 2018
+ 11744 rwxr-xr-x 1  root  root regular file  nf-monitor 
+
+ Thu Oct 11 03:37:18 2018
+ 24398 rwxr-xr-x 1  root  root regular file  ms_print 
+
+ Thu Oct 11 03:33:35 2018
+ 8792 rwxr-xr-x 1  root  root regular file  rpmdev-extract 
+
+ Thu Oct 11 02:59:47 2018
+ 26312 rwxr-xr-x 1  root  root regular file  which 
+
+ Thu Oct 11 02:58:14 2018
+ 28216 rwxr-xr-x 1  root  root regular file  mppprof 
+
+ Thu Oct 11 03:14:07 2018
+ 1135048 rwxr-xr-x 1  root  root regular file  cpp 
+
+ Thu Oct 11 03:21:38 2018
+ 53920 rwxr-xr-x 1  root  root regular file  xfce4-mime-settings 
+
+ Thu Oct 11 03:32:04 2018
+ 11736 rwxr-xr-x 1  root  root regular file  jack_alias 
+
+ Thu Oct 11 03:17:31 2018
+ 1269 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-ccpp-local 
+
+ Thu Oct 11 03:08:49 2018
+ 884 rwxr-xr-x 1  root  root regular file  gvfs-less 
+
+ Thu Oct 11 02:58:14 2018
+ 52800 rwxr-xr-x 1  root  root regular file  spotread 
+
+ Thu Oct 11 03:04:28 2018
+ 78776 rwxr-xr-x 1  root  root regular file  mkfifo 
+
+ Thu Oct 11 03:16:31 2018
+ 205072 rwxr-xr-x 1  root  root regular file  hciconfig 
+
+ Thu Oct 11 02:56:45 2018
+ 24536 rwxr-xr-x 1  root  root regular file  db_tuner 
+
+ Thu Oct 11 02:52:58 2018
+ 11744 rwxr-xr-x 1  root  root regular file  nf-log 
+
+ Thu Oct 11 03:16:04 2018
+ 24184 rwxr-xr-x 1  root  root regular file  systemd-socket-activate 
+
+ Thu Oct 11 03:15:02 2018
+ 29528 rwxr-xr-x 1  root  root regular file  eu-elfcompress 
+
+ Thu Oct 11 03:11:06 2018
+ 385 rwxr-xr-x 1  root  root regular file  tkconch 
+
+ Thu Oct 11 03:18:45 2018
+ 2613 rwxr-xr-x 1  root  root regular file  unicode_start 
+
+ Thu Oct 11 03:04:28 2018
+ 92160 rwxr-xr-x 1  root  root regular file  pr 
+
+ Thu Oct 11 03:18:35 2018
+ 24064 rwxr-xr-x 1  root  root regular file  smbcquotas 
+
+ Thu Oct 11 03:33:45 2018
+ 12025 rwxr-xr-x 1  root  root regular file  koji 
+
+ Thu Oct 11 03:14:05 2018
+ 24432 rwxr-xr-x 1  root  root regular file  htdbm 
+
+ Thu Oct 11 03:06:34 2018
+ 122912 rwxr-xr-x 1  root  root regular file  dirmngr-client 
+
+ Thu Oct 11 03:18:45 2018
+ 30952 rwxr-xr-x 1  root  root regular file  loadunimap 
+
+ Thu Oct 11 03:50:43 2018
+ 24 rwxrwxrwx 1  root  root symlink jstack->/etc/alternatives/jstack 
+
+ Thu Oct 11 02:58:14 2018
+ 44568 rwxr-xr-x 1  root  root regular file  ccxxmake 
+
+ Thu Oct 11 03:34:02 2018
+ 3193368 rwxr-xr-x 1  root  root regular file  nmap 
+
+ Thu Oct 11 03:06:28 2018
+ 34344 rwxr-xr-x 1  root  root regular file  size 
+
+ Thu Oct 11 03:29:45 2018
+ 393688 rwxr-xr-x 1  root  root regular file  xfdesktop 
+
+ Thu Oct 11 03:35:42 2018
+ 109160 rwxr-xr-x 1  root  root regular file  pinfo 
+
+ Thu Oct 11 03:16:04 2018
+ 11616 rwxr-xr-x 1  root  root regular file  systemd-detect-virt 
+
+ Thu Oct 11 03:08:49 2018
+ 277 rwxr-xr-x 1  root  root regular file  gvfs-trash 
+
+ Thu Oct 11 03:37:24 2018
+ 97120 rwxr-xr-x 1  root  root regular file  lame 
+
+ Thu Oct 11 03:32:46 2018
+ 87 rwxr-xr-x 1  root  root regular file  system-config-language 
+
+ Thu Oct 11 03:01:51 2018
+ 52768 rwxr-xr-x 1  root  root regular file  glxinfo64 
+
+ Thu Oct 11 03:17:45 2018
+ 16248 rwxr-xr-x 1  root  root regular file  abrt-dump-xorg 
+
+ Thu Oct 11 03:33:35 2018
+ 2991 rwxr-xr-x 1  root  root regular file  rpmdev-newinit 
+
+ Thu Oct 11 03:34:37 2018
+ 94224 rwxr-xr-x 1  root  root regular file  chronyc 
+
+ Thu Oct 11 03:04:28 2018
+ 47448 rwxr-xr-x 1  root  root regular file  tsort 
+
+ Thu Oct 11 03:19:45 2018
+ 120296 rwxr-xr-x 1  root  root regular file  broadwayd 
+
+ Thu Oct 11 03:13:03 2018
+ 24776 rwxr-xr-x 1  root  root regular file  isosize 
+
+ Thu Oct 11 03:05:43 2018
+ 15872 rwxr-xr-x 1  root  root regular file  notify-send 
+
+ Thu Oct 11 03:00:45 2018
+ 4 rwxrwxrwx 1  root  root symlink gneqn->neqn 
+
+ Thu Oct 11 02:59:40 2018
+ 4 rwxrwxrwx 1  root  root symlink sh->bash 
+
+ Thu Oct 11 02:55:03 2018
+ 750760 rwxr-xr-x 1  root  root regular file  brotli 
+
+ Thu Oct 11 03:38:47 2018
+ 8 rwxrwxrwx 1  root  root symlink unix2mac->unix2dos 
+
+ Thu Oct 11 02:58:14 2018
+ 15888 rwxr-xr-x 1  root  root regular file  cb2ti3 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-copy 
+
+ Thu Oct 11 03:12:00 2018
+ 568464 rwxr-xr-x 1  root  root regular file  transmission-show 
+
+ Thu Oct 11 03:07:55 2018
+ 19944 rwxr-xr-x 1  root  root regular file  msgconv 
+
+ Thu Oct 11 03:23:10 2018
+ 45064 rwx--x--x 1  slocate  root regular file  locate 
+
+ Thu Oct 11 03:18:13 2018
+ 83288 rwxr-xr-x 1  root  root regular file  pkcon 
+
+ Thu Oct 11 03:21:20 2018
+ 1708 rwxr-xr-x 1  root  root regular file  xflock4 
+
+ Thu Oct 11 03:13:04 2018
+ 45416 rwxr-xr-x 1  root  root regular file  setterm 
+
+ Thu Oct 11 03:18:02 2018
+ 123 rwxr-xr-x 1  root  root regular file  alsaunmute 
+
+ Thu Oct 11 03:14:12 2018
+ 1135088 rwxr-xr-x 3  root  root regular file  x86_64-redhat-linux-gcc-8 
+
+ Thu Oct 11 02:52:58 2018
+ 11744 rwxr-xr-x 1  root  root regular file  nf-queue 
+
+ Thu Oct 11 03:35:17 2018
+ 501248 rwxr-xr-x 1  screen  root regular file  screen 
+
+ Thu Oct 11 03:20:20 2018
+ 15872 rwxr-xr-x 1  root  root regular file  canberra-gtk-play 
+
+ Thu Oct 11 02:52:58 2018
+ 16840 rwxr-xr-x 1  root  root regular file  nf-exp-add 
+
+ Thu Oct 11 03:32:42 2018
+ 8 rwxrwxrwx 1  root  root symlink vboxtoau->vboxcnvt 
+
+ Thu Oct 11 03:12:38 2018
+ 15608 rwxr-xr-x 1  root  root regular file  gst-typefind 
+
+ Thu Oct 11 03:17:31 2018
+ 3551 rwxr-xr-x 1  root  root regular file  abrt-action-perform-ccpp-analysis 
+
+ Thu Oct 11 02:58:14 2018
+ 15888 rwxr-xr-x 1  root  root regular file  pathplot 
+
+ Thu Oct 11 03:32:17 2018
+ 25 rwxrwxrwx 1  root  root symlink hp-sendfax->../share/hplip/sendfax.py 
+
+ Thu Oct 11 02:58:14 2018
+ 36720 rwxr-xr-x 1  root  root regular file  icctest 
+
+ Thu Oct 11 03:21:28 2018
+ 4 rwxrwxrwx 1  root  root symlink gnome-help->yelp 
+
+ Thu Oct 11 03:36:28 2018
+ 431320 rwxr-xr-x 1  root  root regular file  flex 
+
+ Thu Oct 11 03:00:04 2018
+ 487936 rwxr-xr-x 1  root  root regular file  tar 
+
+ Thu Oct 11 02:58:14 2018
+ 15840 rwxr-xr-x 1  root  root regular file  icclu 
+
+ Thu Oct 11 03:05:11 2018
+ 12024 rwxr-xr-x 1  root  root regular file  gio-querymodules-64 
+
+ Thu Oct 11 03:17:31 2018
+ 10115 rwxr-xr-x 1  root  root regular file  abrt-action-install-debuginfo 
+
+ Thu Oct 11 03:35:53 2018
+ 22 rwxrwxrwx 1  root  root symlink miniterm-2.7.py->/usr/bin/miniterm.py-2 
+
+ Thu Oct 11 03:16:21 2018
+ 384944 rwxr-xr-x 1  root  root regular file  udevadm 
+
+ Thu Oct 11 03:17:31 2018
+ 6894 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-core 
+
+ Thu Oct 11 03:04:32 2018
+ 14792 rwxr-xr-x 1  root  root regular file  fc-match 
+
+ Thu Oct 11 03:16:04 2018
+ 15936 rwxr-xr-x 1  root  root regular file  systemd-cgls 
+
+ Thu Oct 11 03:11:06 2018
+ 387 rwxr-xr-x 1  root  root regular file  mailmail 
+
+ Thu Oct 11 02:52:58 2018
+ 11720 rwxr-xr-x 1  root  root regular file  nl-list-sockets 
+
+ Thu Oct 11 03:32:17 2018
+ 24 rwxrwxrwx 1  root  root symlink hp-unload->../share/hplip/unload.py 
+
+ Thu Oct 11 03:19:50 2018
+ 20208 rwxr-xr-x 1  root  root regular file  exo-open 
+
+ Thu Oct 11 03:38:25 2018
+ 27064 rwxr-xr-x 1  root  root regular file  mkzftree 
+
+ Thu Oct 11 02:59:40 2018
+ 28 rwxr-xr-x 1  root  root regular file  type 
+
+ Thu Oct 11 03:32:27 2018
+ 71096 rwxr-xr-x 1  root  root regular file  pkcs15-init 
+
+ Thu Oct 11 03:32:04 2018
+ 15960 rwxr-xr-x 1  root  root regular file  jack_iodelay 
+
+ Thu Oct 11 03:20:52 2018
+ 85400 rwxr-xr-x 1  root  root regular file  pinentry-gnome3 
+
+ Thu Oct 11 03:16:31 2018
+ 110592 rwxr-xr-x 1  root  root regular file  rfcomm 
+
+ Thu Oct 11 03:11:06 2018
+ 379 rwxr-xr-x 1  root  root regular file  cftp 
+
+ Thu Oct 11 03:13:06 2018
+ 11688 rwxr-xr-x 1  root  root regular file  semodule_unpackage 
+
+ Thu Oct 11 03:04:32 2018
+ 10696 rwxr-xr-x 1  root  root regular file  fc-pattern 
+
+ Thu Oct 11 02:56:45 2018
+ 16584 rwxr-xr-x 1  root  root regular file  db_verify 
+
+ Thu Oct 11 03:22:13 2018
+ 902504 rwxr-xr-x 1  root  root regular file  transmission-gtk 
+
+ Thu Oct 11 03:06:25 2018
+ 37056 rwxr-xr-x 1  root  root regular file  vmstat 
+
+ Thu Oct 11 03:12:38 2018
+ 15608 rwxr-xr-x 1  root  root regular file  gst-xmlinspect 
+
+ Thu Oct 11 03:25:23 2018
+ 43560 rwxr-xr-x 1  root  root regular file  vmware-toolbox-cmd 
+
+ Thu Oct 11 03:32:26 2018
+ 25040 rwxr-xr-x 1  root  root regular file  opensc-notify 
+
+ Thu Oct 11 03:35:46 2018
+ 11712 rwxr-xr-x 1  root  root regular file  op-check-perfevents 
+
+ Thu Oct 11 03:13:32 2018
+ 60208 rwxr-xr-x 1  root  root regular file  ntfsinfo 
+
+ Thu Oct 11 03:32:04 2018
+ 11816 rwxr-xr-x 1  root  root regular file  jack_session_notify 
+
+ Sat Nov 11 20:22:44 2017
+ 15312 rwxr-xr-x 1  root  root regular file  nettle-hash 
+
+ Thu Oct 11 03:18:24 2018
+ 1067816 rwxr-xr-x 1  root  root regular file  grub2-mkrescue 
+
+ Thu Oct 11 03:16:39 2018
+ 28944 rwxr-xr-x 1  root  root regular file  dbus-launch 
+
+ Thu Oct 11 03:15:14 2018
+ 15864 rwxr-xr-x 1  root  root regular file  reporter-systemd-journal 
+
+ Thu Oct 11 03:18:23 2018
+ 275424 rwxr-xr-x 1  root  root regular file  grub2-mklayout 
+
+ Thu Oct 11 03:35:58 2018
+ 643160 rwxr-xr-x 1  root  root regular file  tmux 
+
+ Thu Oct 11 03:33:44 2018
+ 14 rwxrwxrwx 1  root  root symlink gdb->../libexec/gdb 
+
+ Thu Oct 11 03:15:38 2018
+ 215 rwxr-xr-x 1  root  root regular file  ps2pdf13 
+
+ Thu Oct 11 03:32:39 2018
+ 16232 rwxr-xr-x 1  root  root regular file  getcifsacl 
+
+ Thu Oct 11 03:22:31 2018
+ 77720 rwxr-xr-x 1  root  root regular file  boltctl 
+
+ Thu Oct 11 03:06:34 2018
+ 170744 rwxr-xr-x 1  root  root regular file  gpg-connect-agent 
+
+ Thu Oct 11 03:13:04 2018
+ 33824 rwxr-xr-x 1  root  root regular file  taskset 
+
+ Thu Oct 11 03:31:52 2018
+ 4 rwxrwxrwx 1  root  root symlink gvimdiff->gvim 
+
+ Thu Oct 11 03:32:04 2018
+ 15856 rwxr-xr-x 1  root  root regular file  jack_server_control 
+
+ Thu Oct 11 03:00:45 2018
+ 134400 rwxr-xr-x 1  root  root regular file  grotty 
+
+ Thu Oct 11 03:18:35 2018
+ 32608 rwxr-xr-x 1  root  root regular file  sharesec 
+
+ Thu Oct 11 02:52:58 2018
+ 12272 rwxr-xr-x 1  root  root regular file  nl-route-add 
+
+ Thu Oct 11 03:50:43 2018
+ 28 rwxrwxrwx 1  root  root symlink jrunscript->/etc/alternatives/jrunscript 
+
+ Thu Oct 11 03:04:28 2018
+ 42344 rwxr-xr-x 1  root  root regular file  paste 
+
+ Thu Oct 11 03:25:23 2018
+ 9727 rwxr-xr-x 1  root  root regular file  vm-support 
+
+ Thu Oct 11 03:20:52 2018
+ 15832 rwxr-xr-x 1  root  root regular file  cd-convert 
+
+ Thu Oct 11 03:36:25 2018
+ 3461 rwxr-xr-x 1  root  root regular file  splitdiff 
+
+ Thu Oct 11 03:05:23 2018
+ 20064 rwxr-xr-x 1  root  root regular file  secret-tool 
+
+ Thu Oct 11 03:19:31 2018
+ 42 rwxr-xr-x 1  root  root regular file  qvlc 
+
+ Thu Oct 11 02:57:16 2018
+ 710176 rwxr-xr-x 1  root  root regular file  zstd 
+
+ Thu Oct 11 03:30:58 2018
+ 414296 rwxr-xr-x 1  root  root regular file  parole 
+
+ Thu Oct 11 03:00:21 2018
+ 1677 rwxr-xr-x 1  root  root regular file  bzgrep 
+
+ Thu Oct 11 03:29:27 2018
+ 15888 rwxr-xr-x 1  root  root regular file  evince-thumbnailer 
+
+ Thu Oct 11 03:28:43 2018
+ 7 rwxrwxrwx 1  root  root symlink catfish-py2->catfish 
+
+ Thu Oct 11 03:07:55 2018
+ 89576 rwxr-xr-x 1  root  root regular file  msgfmt 
+
+ Thu Oct 11 02:59:40 2018
+ 7331 rwxr-xr-x 1  root  root regular file  bashbug-64 
+
+ Thu Oct 11 03:20:15 2018
+ 1160 rwxr-xr-x 1  root  root regular file  ibus-setup 
+
+ Thu Oct 11 03:05:48 2018
+ 1841 rwxr-xr-x 1  root  root regular file  zmore 
+
+ Thu Oct 11 03:13:04 2018
+ 15816 rwxr-xr-x 1  root  root regular file  uuidgen 
+
+ Thu Oct 11 03:33:35 2018
+ 1658 rwxr-xr-x 1  root  root regular file  rpmelfsym 
+
+ Thu Oct 11 03:16:03 2018
+ 28392 rwxr-xr-x 1  root  root regular file  localectl 
+
+ Thu Oct 11 03:22:25 2018
+ 31712 rwxr-xr-x 1  root  root regular file  tpm2_pcrextend 
+
+ Thu Oct 11 03:34:37 2018
+ 139688 rwxr-xr-x 1  root  root regular file  VGAuthService 
+
+ Thu Oct 11 03:15:02 2018
+ 132240 rwxr-xr-x 1  root  root regular file  eu-elflint 
+
+ Thu Oct 11 03:35:29 2018
+ 111888 rwxr-xr-x 1  root  root regular file  leafpad 
+
+ Thu Oct 11 02:52:58 2018
+ 16624 rwxr-xr-x 1  root  root regular file  nf-exp-delete 
+
+ Thu Oct 11 03:18:45 2018
+ 219496 rwxr-xr-x 1  root  root regular file  loadkeys 
+
+ Thu Oct 11 03:13:32 2018
+ 43816 rwxr-xr-x 1  root  root regular file  ntfsfix 
+
+ Thu Oct 11 02:50:29 2018
+ 29680 rwxr-xr-x 1  root  root regular file  xmlwf 
+
+ Thu Oct 11 03:07:08 2018
+ 20488 rwxr-xr-x 1  root  root regular file  libinput 
+
+ Thu Oct 11 03:24:20 2018
+ 19992 rwxr-xr-x 1  root  root regular file  luksmeta 
+
+ Thu Oct 11 02:52:45 2018
+ 85048 rwxr-xr-x 1  root  root regular file  tic 
+
+ Thu Oct 11 03:24:32 2018
+ 57216 rwxr-xr-x 1  root  root regular file  udisksctl 
+
+ Thu Oct 11 03:32:04 2018
+ 11744 rwxr-xr-x 1  root  root regular file  jack_midiseq 
+
+ Thu Oct 11 02:52:58 2018
+ 11944 rwxr-xr-x 1  root  root regular file  idiag-socket-details 
+
+ Thu Oct 11 03:04:28 2018
+ 67136 rwxr-xr-x 1  root  root regular file  split 
+
+ Thu Oct 11 02:58:51 2018
+ 15872 rwxr-xr-x 1  root  root regular file  xhost 
+
+ Thu Oct 11 02:59:43 2018
+ 28 rwxr-xr-x 1  root  root regular file  egrep 
+
+ Thu Oct 11 03:01:22 2018
+ 132233 rwxr-xr-x 1  root  root regular file  perltidy 
+
+ Thu Oct 11 02:59:40 2018
+ 26 rwxr-xr-x 1  root  root regular file  cd 
+
+ Thu Oct 11 03:13:27 2018
+ 25696 rwx--x--x 1  root  root regular file  chsh 
+
+ Thu Oct 11 03:01:04 2018
+ 21920 rwxr-xr-x 1  root  root regular file  gdbm_dump 
+
+ Thu Oct 11 03:13:04 2018
+ 28592 rwxr-xr-x 1  root  root regular file  utmpdump 
+
+ Thu Oct 11 03:04:28 2018
+ 51920 rwxr-xr-x 1  root  root regular file  sha1sum 
+
+ Thu Oct 11 02:52:54 2018
+ 39848 rwxr-xr-x 1  root  root regular file  setfacl 
+
+ Thu Oct 11 03:08:42 2018
+ 15776 rwxr-xr-x 1  root  root regular file  cancel.cups 
+
+ Thu Oct 11 03:06:25 2018
+ 16528 rwxr-xr-x 1  root  root regular file  tload 
+
+ Thu Oct 11 03:17:31 2018
+ 15848 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-c 
+
+ Thu Oct 11 03:16:08 2018
+ 245840 rwxr-xr-x 1  root  root regular file  dbus-daemon 
+
+ Thu Oct 11 03:13:03 2018
+ 64160 rwxr-xr-x 1  root  root regular file  cal 
+
+ Thu Oct 11 03:22:25 2018
+ 23448 rwxr-xr-x 1  root  root regular file  tpm2_startup 
+
+ Thu Oct 11 03:50:43 2018
+ 24 rwxrwxrwx 1  root  root symlink jstatd->/etc/alternatives/jstatd 
+
+ Thu Oct 11 03:50:43 2018
+ 27 rwxrwxrwx 1  root  root symlink serialver->/etc/alternatives/serialver 
+
+ Thu Oct 11 03:16:08 2018
+ 25064 rwxr-xr-x 1  root  root regular file  dbus-test-tool 
+
+ Thu Oct 11 03:17:54 2018
+ 59752 rwxr-xr-x 1  root  root regular file  crontab 
+
+ Thu Oct 11 03:22:25 2018
+ 52928 rwxr-xr-x 1  root  root regular file  tpm2_load 
+
+ Thu Oct 11 02:58:14 2018
+ 81688 rwxr-xr-x 1  root  root regular file  collink 
+
+ Thu Oct 11 03:05:47 2018
+ 11752 rwxr-xr-x 1  root  root regular file  enchant-lsmod 
+
+ Thu Oct 11 03:13:03 2018
+ 7 rwxrwxrwx 1  root  root symlink i386->setarch 
+
+ Thu Oct 11 03:18:35 2018
+ 26688 rwxr-xr-x 1  root  root regular file  regtree 
+
+ Thu Oct 11 02:58:22 2018
+ 11712 rwxr-xr-x 1  root  root regular file  redland-db-upgrade 
+
+ Thu Oct 11 02:52:58 2018
+ 11952 rwxr-xr-x 1  root  root regular file  nl-link-stats 
+
+ Thu Oct 11 03:16:33 2018
+ 11816 rwxr-xr-x 1  root  root regular file  ppdhtml 
+
+ Thu Oct 11 03:35:37 2018
+ 58520 --x--x--x 1  root  root regular file  sudoreplay 
+
+ Thu Oct 11 03:27:55 2018
+ 53504 rwxr-xr-x 1  root  root regular file  gnome-disk-image-mounter 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-md5 
+
+ Thu Oct 11 03:13:06 2018
+ 11696 rwxr-xr-x 1  root  root regular file  semodule_link 
+
+ Thu Oct 11 03:04:17 2018
+ 26120 rwxr-xr-x 1  root  root regular file  time 
+
+ Thu Oct 11 03:04:28 2018
+ 61056 rwxr-xr-x 1  root  root regular file  who 
+
+ Thu Oct 11 03:04:28 2018
+ 61664 rwxr-xr-x 1  root  root regular file  printf 
+
+ Thu Oct 11 03:32:04 2018
+ 11712 rwxr-xr-x 1  root  root regular file  jack_monitor_client 
+
+ Thu Oct 11 03:12:19 2018
+ 19896 rwxr-xr-x 1  root  root regular file  pacmd 
+
+ Thu Oct 11 03:27:31 2018
+ 10912 rwxr-xr-x 1  root  root regular file  gtk-query-immodules-2.0-32 
+
+ Thu Oct 11 03:13:12 2018
+ 3 rwxrwxrwx 1  root  root symlink git-receive-pack->git 
+
+ Thu Oct 11 03:32:26 2018
+ 37624 rwxr-xr-x 1  root  root regular file  cryptoflex-tool 
+
+ Sun Sep 30 14:10:20 2018
+ 27 rwxrwxrwx 1  root  root symlink calibre-server->/opt/calibre/calibre-server 
+
+ Thu Oct 11 03:17:05 2018
+ 5993 rwxr-xr-x 1  root  root regular file  linux-boot-prober 
+
+ Thu Oct 11 03:32:26 2018
+ 24896 rwxr-xr-x 1  root  root regular file  dnie-tool 
+
+ Thu Oct 11 03:09:25 2018
+ 20352 rwxr-xr-x 1  root  root regular file  oggdec 
+
+ Thu Oct 11 03:37:04 2018
+ 602120 rwxr-xr-x 1  root  root regular file  doxyindexer 
+
+ Thu Oct 11 03:04:28 2018
+ 42288 rwxr-xr-x 1  root  root regular file  nice 
+
+ Thu Oct 11 02:52:58 2018
+ 12200 rwxr-xr-x 1  root  root regular file  nl-addr-add 
+
+ Thu Oct 11 03:21:44 2018
+ 15 rwxrwxrwx 1  root  root symlink gnome-keyring->gnome-keyring-3 
+
+ Thu Oct 11 03:16:04 2018
+ 49008 rwxr-xr-x 1  root  root regular file  systemd-mount 
+
+ Thu Oct 11 03:00:45 2018
+ 6 rwxrwxrwx 1  root  root symlink zsoelim->soelim 
+
+ Thu Oct 11 03:22:30 2018
+ 33896 rwxr-xr-x 1  root  root regular file  authselect 
+
+ Thu Oct 11 03:35:46 2018
+ 1870488 rwxr-xr-x 1  root  root regular file  opgprof 
+
+ Thu Oct 11 03:19:26 2018
+ 45 rwxr-xr-x 1  root  root regular file  cvlc 
+
+ Thu Oct 11 03:09:55 2018
+ 1109360 rwxr-xr-x 1  root  root regular file  gpg 
+
+ Thu Oct 11 03:32:04 2018
+ 11752 rwxr-xr-x 1  root  root regular file  jack_showtime 
+
+ Thu Oct 11 03:22:26 2018
+ 2008 rwxr-xr-x 1  root  root regular file  clevis-decrypt-http 
+
+ Thu Oct 11 03:29:32 2018
+ 841752 rwxr-xr-x 1  root  root regular file  seahorse 
+
+ Thu Oct 11 03:50:43 2018
+ 22 rwxrwxrwx 1  root  root symlink idlj->/etc/alternatives/idlj 
+
+ Thu Oct 11 03:01:00 2018
+ 4134 rwxr-xr-x 1  root  root regular file  pod2html 
+
+ Thu Oct 11 02:56:45 2018
+ 16632 rwxr-xr-x 1  root  root regular file  db_dump 
+
+ Thu Oct 11 03:36:06 2018
+ 68160 rwxr-xr-x 1  root  root regular file  ldappasswd 
+
+ Thu Oct 11 03:10:06 2018
+ 46304 rwxr-xr-x 1  root  root regular file  pdfinfo 
+
+ Thu Oct 11 03:06:25 2018
+ 12024 rwxr-xr-x 1  root  root regular file  uptime 
+
+ Thu Oct 11 03:36:38 2018
+ 95488 rwxr-xr-x 1  root  root regular file  indent 
+
+ Thu Oct 11 03:36:31 2018
+ 23 rwxrwxrwx 1  root  root symlink whois->/etc/alternatives/whois 
+
+ Thu Oct 11 03:17:22 2018
+ 426584 rwxr-xr-x 1  root  root regular file  grub2-editenv 
+
+ Thu Oct 11 02:59:40 2018
+ 28 rwxr-xr-x 1  root  root regular file  jobs 
+
+ Thu Oct 11 03:36:15 2018
+ 38208 rwxr-xr-x 1  root  root regular file  sscg 
+
+ Thu Oct 11 01:14:56 2018
+ 19552 rwxr-xr-x 1  root  root regular file  pldd 
+
+ Thu Oct 11 03:17:26 2018
+ 118616 rwxr-xr-x 1  root  root regular file  sane-find-scanner 
+
+ Sun Sep 30 14:10:20 2018
+ 33 rwxrwxrwx 1  root  root symlink fetch-ebook-metadata->/opt/calibre/fetch-ebook-metadata 
+
+ Thu Oct 11 02:58:14 2018
+ 56856 rwxr-xr-x 1  root  root regular file  chartread 
+
+ Thu Oct 11 02:59:40 2018
+ 28 rwxr-xr-x 1  root  root regular file  hash 
+
+ Thu Oct 11 02:59:40 2018
+ 31 rwxr-xr-x 1  root  root regular file  getopts 
+
+ Thu Oct 11 03:21:18 2018
+ 380 rwxr-xr-x 1  root  root regular file  deluge-gtk 
+
+ Thu Oct 11 03:36:11 2018
+ 870432 rwxr-xr-x 1  root  root regular file  zsh 
+
+ Thu Oct 11 03:18:45 2018
+ 9 rwxrwxrwx 1  root  root symlink psfgettable->psfxtable 
+
+ Thu Oct 11 03:00:45 2018
+ 5 rwxrwxrwx 1  root  root symlink gtroff->troff 
+
+ Thu Oct 11 03:04:09 2018
+ 258136 rwxr-xr-x 1  root  root regular file  par2 
+
+ Sun Sep 30 14:10:20 2018
+ 20 rwxrwxrwx 1  root  root symlink lrf2lrs->/opt/calibre/lrf2lrs 
+
+ Thu Oct 11 03:07:55 2018
+ 16216 rwxr-xr-x 1  root  root regular file  recode-sr-latin 
+
+ Thu Oct 11 03:18:28 2018
+ 10392 rwxr-xr-x 1  root  root regular file  purple-url-handler 
+
+ Thu Oct 11 03:35:53 2018
+ 33875 rwxr-xr-x 1  root  root regular file  miniterm-2.py 
+
+ Thu Oct 11 03:07:55 2018
+ 19944 rwxr-xr-x 1  root  root regular file  msgen 
+
+ Thu Oct 11 03:16:04 2018
+ 32496 rwxr-xr-x 1  root  root regular file  systemd-cgtop 
+
+ Thu Oct 11 03:11:30 2018
+ 16 rwxrwxrwx 1  root  root symlink coverage3->python3-coverage 
+
+ Thu Oct 11 03:15:38 2018
+ 669 rwxr-xr-x 1  root  root regular file  ps2ps2 
+
+ Thu Oct 11 03:35:37 2018
+ 4 rwxrwxrwx 1  root  root symlink sudoedit->sudo 
+
+ Thu Oct 11 03:13:03 2018
+ 7 rwxrwxrwx 1  root  root symlink linux32->setarch 
+
+ Thu Oct 11 03:23:16 2018
+ 83400 rwxr-xr-x 1  root  root regular file  rrdcached 
+
+ Thu Oct 11 03:04:28 2018
+ 85144 rwxr-xr-x 1  root  root regular file  tail 
+
+ Thu Oct 11 03:32:17 2018
+ 36 rwxrwxrwx 1  root  root symlink hp-config_usb_printer->../share/hplip/config_usb_printer.py 
+
+ Thu Oct 11 03:07:33 2018
+ 13156 rwxr-xr-x 1  root  root regular file  clean-binary-files 
+
+ Thu Oct 11 02:59:43 2018
+ 28 rwxr-xr-x 1  root  root regular file  fgrep 
+
+ Thu Oct 11 03:15:56 2018
+ 16816 rwxr-xr-x 1  root  root regular file  rpmspec 
+
+ Thu Oct 11 03:18:45 2018
+ 22616 rwxr-xr-x 1  root  root regular file  vlock 
+
+ Thu Oct 11 03:20:25 2018
+ 1496 rwxr-xr-x 1  root  root regular file  xfce4-popup-directorymenu 
+
+ Thu Oct 11 02:52:36 2018
+ 11760 rwxr-xr-x 1  root  root regular file  libieee1284_test 
+
+ Thu Oct 11 03:52:28 2018
+ 27 rwxrwxrwx 1  root  root symlink tnameserv->/etc/alternatives/tnameserv 
+
+ Thu Oct 11 03:36:27 2018
+ 438904 rwxr-xr-x 1  root  root regular file  bison 
+
+ Thu Oct 11 03:22:25 2018
+ 40056 rwxr-xr-x 1  root  root regular file  tpm2_nvdefine 
+
+ Thu Oct 11 03:04:16 2018
+ 15241 rwxr-xr-x 1  root  root regular file  run-on-binaries-in.sh 
+
+ Thu Oct 11 03:16:04 2018
+ 53176 rwxr-xr-x 1  root  root regular file  systemd-sysusers 
+
+ Thu Oct 11 02:57:36 2018
+ 86552 rwxr-xr-x 1  root  root regular file  wvunpack 
+
+ Thu Oct 11 03:16:04 2018
+ 36672 rwxr-xr-x 1  root  root regular file  systemd-firstboot 
+
+ Thu Oct 11 03:16:04 2018
+ 24152 rwxr-xr-x 1  root  root regular file  systemd-delta 
+
+ Thu Oct 11 03:33:35 2018
+ 4820 rwxr-xr-x 1  root  root regular file  rpmdev-checksig 
+
+ Thu Oct 11 03:14:10 2018
+ 589584 rwxr-xr-x 1  root  root regular file  gcov-tool 
+
+ Thu Oct 11 03:37:13 2018
+ 11712 rwxr-xr-x 1  root  root regular file  svc_recv 
+
+ Thu Oct 11 03:15:38 2018
+ 639 rwxr-xr-x 1  root  root regular file  eps2eps 
+
+ Thu Oct 11 02:52:58 2018
+ 16280 rwxr-xr-x 1  root  root regular file  nl-class-add 
+
+ Thu Oct 11 03:13:04 2018
+ 15848 rwxr-xr-x 1  root  root regular file  raw 
+
+ Thu Oct 11 03:22:25 2018
+ 46960 rwxr-xr-x 1  root  root regular file  tpm2_makecredential 
+
+ Thu Oct 11 03:06:34 2018
+ 180088 rwxr-xr-x 1  root  root regular file  gpgconf 
+
+ Thu Oct 11 03:07:14 2018
+ 24160 rwxr-xr-x 1  root  root regular file  csslint-0.6 
+
+ Thu Oct 11 03:22:26 2018
+ 3634 rwxr-xr-x 1  root  root regular file  clevis-decrypt-tpm2 
+
+ Thu Oct 11 02:58:14 2018
+ 15904 rwxr-xr-x 1  root  root regular file  extracticc 
+
+ Thu Oct 11 03:31:52 2018
+ 4 rwxrwxrwx 1  root  root symlink vimx->gvim 
+
+ Thu Oct 11 03:04:28 2018
+ 43272 rwxr-xr-x 1  root  root regular file  groups 
+
+ Thu Oct 11 03:22:33 2018
+ 32720 rwxr-xr-x 5  root  root regular file  sha512hmac 
+
+ Thu Oct 11 03:37:18 2018
+ 10418 rwxr-xr-x 1  root  root regular file  cg_diff 
+
+ Thu Oct 11 03:06:05 2018
+ 11152 rwxr-xr-x 2  root  root regular file  python3.6m 
+
+ Thu Oct 11 03:04:28 2018
+ 38208 rwxr-xr-x 1  root  root regular file  hostid 
+
+ Thu Oct 11 03:04:28 2018
+ 57024 rwxr-xr-x 1  root  root regular file  uniq 
+
+ Thu Oct 11 01:14:56 2018
+ 327144 rwxr-xr-x 1  root  root regular file  localedef 
+
+ Thu Oct 11 03:22:15 2018
+ 90 rwxr-xr-x 1  root  root regular file  scp-dbus-service 
+
+ Thu Oct 11 03:04:28 2018
+ 96072 rwxr-xr-x 1  root  root regular file  factor 
+
+ Thu Oct 11 03:22:26 2018
+ 3219 rwxr-xr-x 1  root  root regular file  clevis-encrypt-http 
+
+ Thu Oct 11 03:01:09 2018
+ 229 rwxr-xr-x 1  root  root regular file  withsctp 
+
+ Thu Oct 11 03:39:16 2018
+ 65936 rwxr-xr-x 1  root  root regular file  mpage 
+
+ Thu Oct 11 03:33:44 2018
+ 3415 rwxr-xr-x 1  root  root regular file  gcore 
+
+ Thu Oct 11 03:13:04 2018
+ 37168 rwxr-xr-x 1  root  root regular file  script 
+
+ Thu Oct 11 03:32:46 2018
+ 5 rwxrwxrwx 1  root  root symlink yum->dnf-3 
+
+ Thu Oct 11 03:17:26 2018
+ 54432 rwxr-xr-x 1  root  root regular file  scanimage 
+
+ Thu Oct 11 03:23:52 2018
+ 2767936 rwxr-xr-x 1  root  root regular file  Xvnc 
+
+ Thu Oct 11 03:21:08 2018
+ 24840 rwxr-xr-x 1  root  root regular file  grl-inspect-0.3 
+
+ Thu Oct 11 03:19:34 2018
+ 30224 rwxr-xr-x 1  root  root regular file  abrt-cli 
+
+ Thu Oct 11 03:08:49 2018
+ 279 rwxr-xr-x 1  root  root regular file  gvfs-rm 
+
+ Thu Oct 11 03:00:24 2018
+ 182984 rwxr-xr-x 1  root  root regular file  m4 
+
+ Thu Oct 11 03:37:34 2018
+ 138432 rwxr-xr-x 1  root  root regular file  metaflac 
+
+ Thu Oct 11 03:22:25 2018
+ 51120 rwxr-xr-x 1  root  root regular file  tpm2_loadexternal 
+
+ Thu Oct 11 03:22:34 2018
+ 66464 rwxr-xr-x 1  root  root regular file  dracut 
+
+ Thu Oct 11 02:52:45 2018
+ 23576 rwxr-xr-x 1  root  root regular file  tset 
+
+ Thu Oct 11 02:58:14 2018
+ 19984 rwxr-xr-x 1  root  root regular file  applycal 
+
+ Thu Oct 11 02:52:58 2018
+ 12120 rwxr-xr-x 1  root  root regular file  nl-neigh-delete 
+
+ Thu Oct 11 02:55:51 2018
+ 29224 rwxr-xr-x 1  root  root regular file  h2ph 
+
+ Thu Oct 11 02:53:20 2018
+ 11808 rwxr-xr-x 2  root  root regular file  perl 
+
+ Thu Oct 11 03:13:32 2018
+ 47920 rwxr-xr-x 1  root  root regular file  ntfsdecrypt 
+
+ Thu Oct 11 03:32:42 2018
+ 161480 rwxr-xr-x 1  root  root regular file  isdnrate 
+
+ Thu Oct 11 03:16:31 2018
+ 750824 rwxr-xr-x 1  root  root regular file  btmon 
+
+ Thu Oct 11 03:00:50 2018
+ 3948 rwxr-xr-x 1  root  root regular file  pod2usage 
+
+ Thu Oct 11 03:05:48 2018
+ 103296 rwxr-xr-x 1  root  root regular file  gzip 
+
+ Thu Oct 11 03:33:12 2018
+ 31648 rwxr-xr-x 1  root  root regular file  ac 
+
+ Thu Oct 11 03:32:42 2018
+ 8 rwxrwxrwx 1  root  root symlink autovbox->vboxcnvt 
+
+ Thu Oct 11 03:32:35 2018
+ 158576 rwxr-xr-x 1  root  root regular file  wvdial 
+
+ Thu Oct 11 03:08:43 2018
+ 23 rwxrwxrwx 1  root  root symlink lpr->/etc/alternatives/print 
+
+ Thu Oct 11 03:27:06 2018
+ 10908 rwxr-xr-x 1  root  root regular file  gdk-pixbuf-query-loaders-32 
+
+ Thu Oct 11 03:22:25 2018
+ 38744 rwxr-xr-x 1  root  root regular file  tpm2_encryptdecrypt 
+
+ Thu Oct 11 03:04:28 2018
+ 51920 rwxr-xr-x 1  root  root regular file  md5sum 
+
+ Thu Oct 11 03:16:31 2018
+ 298272 rwxr-xr-x 1  root  root regular file  gatttool 
+
+ Thu Oct 11 03:08:43 2018
+ 28 rwxrwxrwx 1  root  root symlink lprm->/etc/alternatives/print-lprm 
+
+ Thu Oct 11 02:50:36 2018
+ 33056 rwxr-xr-x 1  root  root regular file  gpg-error 
+
+ Thu Oct 11 03:30:35 2018
+ 360400 rwxr-xr-x 1  root  root regular file  nm-applet 
+
+ Thu Oct 11 02:56:45 2018
+ 16608 rwxr-xr-x 1  root  root regular file  db_replicate 
+
+ Thu Oct 11 03:21:18 2018
+ 372 rwxr-xr-x 1  root  root regular file  deluge 
+
+ Thu Oct 11 03:07:33 2018
+ 1736 rwxr-xr-x 1  root  root regular file  rebuild-jar-repository 
+
+ Thu Oct 11 02:58:51 2018
+ 11712 rwxr-xr-x 1  root  root regular file  showrgb 
+
+ Thu Oct 11 03:15:02 2018
+ 25368 rwxr-xr-x 1  root  root regular file  eu-stack 
+
+ Thu Oct 11 02:59:40 2018
+ 1194696 rwxr-xr-x 1  root  root regular file  bash 
+
+ Thu Oct 11 01:14:56 2018
+ 33096 rwxr-xr-x 1  root  root regular file  sprof 
+
+ Thu Oct 11 03:34:00 2018
+ 1135112 rwxr-xr-x 4  root  root regular file  x86_64-redhat-linux-g++ 
+
+ Thu Oct 11 03:22:25 2018
+ 28072 rwxr-xr-x 1  root  root regular file  tpm2_dictionarylockout 
+
+ Thu Oct 11 03:07:33 2018
+ 4595 rwxr-xr-x 1  root  root regular file  create-jar-links 
+
+ Thu Oct 11 03:32:04 2018
+ 12 rwxrwxrwx 1  root  root symlink jack_disconnect->jack_connect 
+
+ Thu Oct 11 03:37:18 2018
+ 10912 rwxr-xr-x 1  root  root regular file  valgrind-listener 
+
+ Thu Oct 11 03:22:25 2018
+ 35256 rwxr-xr-x 1  root  root regular file  tpm2_rsadecrypt 
+
+ Thu Oct 11 03:23:49 2018
+ 12096 rwxr-xr-x 1  root  root regular file  aulastlog 
+
+ Thu Oct 11 03:17:26 2018
+ 178640 rwxr-xr-x 1  root  root regular file  umax_pp 
+
+ Thu Oct 11 03:19:55 2018
+ 32 rwxr-xr-x 1  root  root regular file  ooffice 
+
+ Thu Oct 11 03:13:03 2018
+ 28880 rwxr-xr-x 1  root  root regular file  fallocate 
+
+ Thu Oct 11 03:00:13 2018
+ 33408 rwxr-xr-x 1  root  root regular file  iso-info 
+
+ Thu Oct 11 03:16:17 2018
+ 11736 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-xorg 
+
+ Thu Oct 11 03:04:28 2018
+ 49064 rwxr-xr-x 1  root  root regular file  comm 
+
+ Thu Oct 11 02:56:45 2018
+ 16600 rwxr-xr-x 1  root  root regular file  db_stat 
+
+ Thu Oct 11 03:00:03 2018
+ 85552 rwxr-xr-x 1  root  root regular file  xargs 
+
+ Thu Oct 11 03:16:35 2018
+ 29 rwxrwxrwx 1  root  root symlink driverless->../lib/cups/driver/driverless 
+
+ Thu Oct 11 02:58:14 2018
+ 20008 rwxr-xr-x 1  root  root regular file  fakeCMY 
+
+ Thu Oct 11 03:06:05 2018
+ 78 rwxr-xr-x 1  root  root regular file  pydoc3.6 
+
+ Thu Oct 11 03:32:17 2018
+ 26 rwxrwxrwx 1  root  root symlink hp-timedate->../share/hplip/timedate.py 
+
+ Thu Oct 11 03:15:47 2018
+ 4194 rwxr-xr-x 1  root  root regular file  instmodsh 
+
+ Thu Oct 11 03:05:25 2018
+ 47568 rwxr-xr-x 1  root  root regular file  gst-inspect-1.0 
+
+ Thu Oct 11 03:00:45 2018
+ 126600 rwxr-xr-x 1  root  root regular file  pre-grohtml 
+
+ Thu Oct 11 03:17:45 2018
+ 33352 rwxr-xr-x 1  root  root regular file  abrt-dump-journal-xorg 
+
+ Thu Oct 11 03:32:06 2018
+ 35032 rwxr-xr-x 1  root  root regular file  foomatic-printjob 
+
+ Thu Oct 11 03:19:36 2018
+ 92640 rwxr-xr-x 1  root  root regular file  pulseaudio 
+
+ Thu Oct 11 03:12:19 2018
+ 15952 rwxr-xr-x 1  root  root regular file  pasuspender 
+
+ Thu Oct 11 03:13:04 2018
+ 20040 rwxr-xr-x 1  root  root regular file  ul 
+
+ Thu Oct 11 03:04:28 2018
+ 51672 rwxr-xr-x 1  root  root regular file  expand 
+
+ Thu Oct 11 03:33:35 2018
+ 11896 rwxr-xr-x 1  root  root regular file  rpminfo 
+
+ Thu Oct 11 03:32:36 2018
+ 11760 rwxr-xr-x 1  root  root regular file  ascii-xfr 
+
+ Thu Oct 11 03:05:48 2018
+ 2205 rwxr-xr-x 1  root  root regular file  zless 
+
+ Thu Oct 11 02:58:22 2018
+ 44992 rwxr-xr-x 1  root  root regular file  rdfproc 
+
+ Thu Oct 11 03:30:06 2018
+ 68176 rwxr-xr-x 1  root  root regular file  xfce4-clipman 
+
+ Thu Oct 11 03:36:28 2018
+ 4 rwxrwxrwx 1  root  root symlink lex->flex 
+
+ Thu Oct 11 03:13:12 2018
+ 2486192 rwxr-xr-x 1  root  root regular file  git 
+
+ Thu Oct 11 03:19:55 2018
+ 39 rwxr-xr-x 1  root  root regular file  ooviewdoc 
+
+ Sun Sep 30 14:10:20 2018
+ 25 rwxrwxrwx 1  root  root symlink ebook-viewer->/opt/calibre/ebook-viewer 
+
+ Thu Oct 11 03:07:55 2018
+ 70816 rwxr-xr-x 1  root  root regular file  msgmerge 
+
+ Thu Oct 11 03:52:28 2018
+ 22 rwxrwxrwx 1  root  root symlink java->/etc/alternatives/java 
+
+ Thu Oct 11 03:32:09 2018
+ 6 rwxrwxrwx 1  root  root symlink gaim->pidgin 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-sha224 
+
+ Thu Oct 11 03:27:49 2018
+ 24 rwxrwxrwx 1  root  root symlink vmware-user->vmware-user-suid-wrapper 
+
+ Thu Oct 11 03:35:32 2018
+ 13728 rwxr-xr-x 1  root  root regular file  jigdo-mirror 
+
+ Thu Oct 11 03:34:37 2018
+ 3374 rwxr-xr-x 1  root  root regular file  esmtp-wrapper 
+
+ Thu Oct 11 03:04:28 2018
+ 116512 rwxr-xr-x 1  root  root regular file  date 
+
+ Thu Oct 11 03:04:28 2018
+ 37888 rwxr-xr-x 1  root  root regular file  false 
+
+ Thu Oct 11 03:36:25 2018
+ 9 rwxrwxrwx 1  root  root symlink flipdiff->interdiff 
+
+ Thu Oct 11 03:06:28 2018
+ 66392 rwxr-xr-x 1  root  root regular file  ranlib 
+
+ Thu Oct 11 03:32:26 2018
+ 28480 rwxr-xr-x 1  root  root regular file  netkey-tool 
+
+ Thu Oct 11 02:56:45 2018
+ 16632 rwxr-xr-x 1  root  root regular file  db_log_verify 
+
+ Thu Oct 11 02:51:02 2018
+ 28200 rwxr-xr-x 1  root  root regular file  xsltproc 
+
+ Thu Oct 11 03:33:35 2018
+ 2941 rwxr-xr-x 1  root  root regular file  rpmargs 
+
+ Thu Oct 11 03:35:32 2018
+ 303304 rwxr-xr-x 1  root  root regular file  jigdo-file 
+
+ Thu Oct 11 03:04:28 2018
+ 72256 rwxr-xr-x 1  root  root regular file  shred 
+
+ Thu Oct 11 03:13:34 2018
+ 214936 rwxr-xr-x 1  root  root regular file  stapdyn 
+
+ Thu Oct 11 03:13:03 2018
+ 38256 rwxr-xr-x 1  root  root regular file  kill 
+
+ Thu Oct 11 03:13:40 2018
+ 409504 rwxr-xr-x 1  root  root regular file  mailx 
+
+ Thu Oct 11 03:20:12 2018
+ 32888 rwxr-xr-x 1  root  root regular file  ibus 
+
+ Thu Oct 11 03:29:34 2018
+ 75 rwxr-xr-x 1  root  root regular file  blueberry 
+
+ Thu Oct 11 03:35:11 2018
+ 32336 rwxr-xr-x 1  root  root regular file  paps 
+
+ Thu Oct 11 02:56:45 2018
+ 36952 rwxr-xr-x 1  root  root regular file  db_printlog 
+
+ Thu Oct 11 03:05:47 2018
+ 19928 rwxr-xr-x 1  root  root regular file  enchant 
+
+ Thu Oct 11 03:37:45 2018
+ 7 rwxrwxrwx 1  root  root symlink xdelta->xdelta3 
+
+ Thu Oct 11 03:18:23 2018
+ 1087592 rwxr-xr-x 1  root  root regular file  grub2-fstest 
+
+ Thu Oct 11 02:54:15 2018
+ 8 rwxrwxrwx 1  root  root symlink ypdomainname->hostname 
+
+ Thu Oct 11 03:13:04 2018
+ 15856 rwxr-xr-x 1  root  root regular file  rename 
+
+ Thu Oct 11 03:33:33 2018
+ 108696 rwxr-xr-x 1  root  root regular file  svnserve 
+
+ Thu Oct 11 03:04:28 2018
+ 108304 rwxr-xr-x 1  root  root regular file  touch 
+
+ Thu Oct 11 03:05:11 2018
+ 19952 rwxr-xr-x 1  root  root regular file  gapplication 
+
+ Thu Oct 11 03:04:32 2018
+ 10696 rwxr-xr-x 1  root  root regular file  fc-scan 
+
+ Thu Oct 11 03:16:31 2018
+ 151200 rwxr-xr-x 1  root  root regular file  hcitool 
+
+ Thu Oct 11 03:24:07 2018
+ 86496 rwxr-xr-x 1  root  root regular file  machinectl 
+
+ Thu Oct 11 02:57:51 2018
+ 112976 rwxr-xr-x 1  root  root regular file  lowntfs-3g 
+
+ Thu Oct 11 02:52:58 2018
+ 12024 rwxr-xr-x 1  root  root regular file  nl-tctree-list 
+
+ Thu Oct 11 03:33:35 2018
+ 3722 rwxr-xr-x 1  root  root regular file  rpmdev-packager 
+
+ Thu Oct 11 02:58:08 2018
+ 11712 rwxr-xr-x 1  root  root regular file  chmextract 
+
+ Thu Oct 11 03:09:00 2018
+ 5 rwxrwxrwx 1  root  root symlink guile2->guile 
+
+ Thu Oct 11 03:01:51 2018
+ 52768 rwxr-xr-x 1  root  root regular file  glxinfo 
+
+ Thu Oct 11 03:37:18 2018
+ 19424 rwxr-xr-x 1  root  root regular file  valgrind 
+
+ Thu Oct 11 02:59:49 2018
+ 36504 rwxr-xr-x 1  root  root regular file  fonttosfnt 
+
+ Thu Oct 11 02:58:18 2018
+ 143232 rwxr-xr-x 1  root  root regular file  lz4 
+
+ Thu Oct 11 01:15:12 2018
+ 15832 rwxr-xr-x 1  root  root regular file  nss-policy-check 
+
+ Thu Oct 11 03:16:48 2018
+ 11696 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-oops 
+
+ Thu Oct 11 03:09:05 2018
+ 55488 rwxr-xr-x 1  root  root regular file  esmtp 
+
+ Thu Oct 11 03:13:03 2018
+ 11704 rwxr-xr-x 1  root  root regular file  mesg 
+
+ Thu Oct 11 03:32:26 2018
+ 29064 rwxr-xr-x 1  root  root regular file  gids-tool 
+
+ Thu Oct 11 03:17:16 2018
+ 11864 rwxr-xr-x 1  root  root regular file  cd-iccdump 
+
+ Thu Oct 11 03:18:30 2018
+ 15816 rwxr-xr-x 1  root  root regular file  imsettings-switch 
+
+ Thu Oct 11 03:09:40 2018
+ 13457 rwxr-xr-x 1  root  root regular file  qmi-network 
+
+ Thu Oct 11 03:00:22 2018
+ 207328 rwxr-xr-x 2  root  root regular file  unzip 
+
+ Thu Oct 11 03:00:45 2018
+ 55464 rwxr-xr-x 1  root  root regular file  preconv 
+
+ Thu Oct 11 03:35:46 2018
+ 2105848 rwxr-xr-x 1  root  root regular file  opreport 
+
+ Thu Oct 11 02:55:51 2018
+ 45458 rwxr-xr-x 2  root  root regular file  perlthanks 
+
+ Thu Oct 11 03:16:31 2018
+ 147472 rwxr-xr-x 1  root  root regular file  hciattach 
+
+ Thu Oct 11 03:32:27 2018
+ 58696 rwxr-xr-x 1  root  root regular file  pkcs15-tool 
+
+ Thu Oct 11 03:33:30 2018
+ 17336 rwxr-xr-x 1  root  root regular file  rngtest 
+
+ Thu Oct 11 03:01:08 2018
+ 12104 rwxr-xr-x 1  root  root regular file  lessecho 
+
+ Thu Oct 11 03:04:28 2018
+ 51880 rwxr-xr-x 1  root  root regular file  sum 
+
+ Thu Oct 11 03:36:31 2018
+ 2 rwxrwxrwx 1  root  root symlink rvi->vi 
+
+ Thu Oct 11 03:16:08 2018
+ 11704 rwxr-xr-x 1  root  root regular file  dbus-uuidgen 
+
+ Thu Oct 11 03:24:40 2018
+ 2781 rwxr-xr-x 1  root  root regular file  anaconda-cleanup 
+
+ Thu Oct 11 03:04:28 2018
+ 51536 rwxr-xr-x 1  root  root regular file  base32 
+
+ Thu Oct 11 03:01:09 2018
+ 32600 rwxr-xr-x 1  root  root regular file  sctp_test 
+
+ Thu Oct 11 03:37:12 2018
+ 11752 rwxr-xr-x 1  root  root regular file  xlsatoms 
+
+ Thu Oct 11 03:22:25 2018
+ 29992 rwxr-xr-x 1  root  root regular file  tpm2_getrandom 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-info 
+
+ Thu Oct 11 03:04:28 2018
+ 41984 rwxr-xr-x 1  root  root regular file  printenv 
+
+ Thu Oct 11 03:21:59 2018
+ 46072 rwxr-xr-x 1  root  root regular file  rygel 
+
+ Thu Oct 11 03:13:04 2018
+ 11712 rwxr-xr-x 1  root  root regular file  setsid 
+
+ Thu Oct 11 03:15:39 2018
+ 395 rwxr-xr-x 1  root  root regular file  printafm 
+
+ Thu Oct 11 03:06:31 2018
+ 32920 rwxr-xr-x 1  root  root regular file  gtk-update-icon-cache 
+
+ Thu Oct 11 03:07:51 2018
+ 20152 rwxr-xr-x 1  root  root regular file  xinit 
+
+ Thu Oct 11 03:18:46 2018
+ 12320 rwxr-xr-x 1  root  root regular file  cisco-decrypt 
+
+ Sun Sep 30 14:10:20 2018
+ 23 rwxrwxrwx 1  root  root symlink ebook-meta->/opt/calibre/ebook-meta 
+
+ Thu Oct 11 02:58:21 2018
+ 46160 rwxr-xr-x 1  root  root regular file  roqet 
+
+ Thu Oct 11 03:36:04 2018
+ 11704 rwxr-xr-x 1  root  root regular file  rpmdumpheader 
+
+ Thu Oct 11 03:12:19 2018
+ 5 rwxrwxrwx 1  root  root symlink parec->pacat 
+
+ Thu Oct 11 03:33:33 2018
+ 356048 rwxr-xr-x 1  root  root regular file  svn 
+
+ Thu Oct 11 03:32:04 2018
+ 37344 rwxr-xr-x 1  root  root regular file  jack_netsource 
+
+ Thu Oct 11 03:04:28 2018
+ 172408 rwxr-xr-x 1  root  root regular file  mv 
+
+ Thu Oct 11 03:17:31 2018
+ 11696 rwxr-xr-x 1  root  root regular file  abrt-action-generate-core-backtrace 
+
+ Thu Oct 11 03:13:34 2018
+ 71088 rwxr-xr-x 1  root  root regular file  stapbpf 
+
+ Thu Oct 11 02:52:58 2018
+ 11928 rwxr-xr-x 1  root  root regular file  nl-classid-lookup 
+
+ Thu Oct 11 03:18:40 2018
+ 81224 rwxr-xr-x 1  root  root regular file  openfortivpn 
+
+ Thu Oct 11 03:12:39 2018
+ 23616 rwxr-xr-x 1  root  root regular file  gst-xmlinspect-0.10 
+
+ Thu Oct 11 02:56:45 2018
+ 16280 rwxr-xr-x 1  root  root regular file  db_recover 
+
+ Thu Oct 11 03:12:38 2018
+ 15608 rwxr-xr-x 1  root  root regular file  gst-launch 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-query->../share/hplip/query.py 
+
+ Thu Oct 11 03:04:28 2018
+ 47432 rwxr-xr-x 1  root  root regular file  cat 
+
+ Thu Oct 11 03:12:02 2018
+ 97624 rwxr-xr-x 1  root  root regular file  lexgrog 
+
+ Thu Oct 11 03:23:13 2018
+ 2 rwxrwxrwx 1  root  root symlink atrm->at 
+
+ Thu Oct 11 02:51:03 2018
+ 15912 rwxr-xr-x 1  root  root regular file  libtar 
+
+ Thu Oct 11 03:17:31 2018
+ 33336 rwxr-xr-x 1  root  root regular file  abrt-dump-journal-core 
+
+ Thu Oct 11 03:08:49 2018
+ 277 rwxr-xr-x 1  root  root regular file  gvfs-mount 
+
+ Thu Oct 11 03:16:31 2018
+ 267424 rwxr-xr-x 1  root  root regular file  meshctl 
+
+ Thu Oct 11 03:08:43 2018
+ 30 rwxrwxrwx 1  root  root symlink cancel->/etc/alternatives/print-cancel 
+
+ Thu Oct 11 02:58:26 2018
+ 80856 rwxr-xr-x 3  root  root regular file  sb 
+
+ Thu Oct 11 03:37:34 2018
+ 237432 rwxr-xr-x 1  root  root regular file  flac 
+
+ Thu Oct 11 03:01:19 2018
+ 842 rwxr-xr-x 1  root  root regular file  package-stash-conflicts 
+
+ Thu Oct 11 03:32:06 2018
+ 11907 rwxr-xr-x 1  root  root regular file  foomatic-ppd-to-xml 
+
+ Thu Oct 11 03:17:16 2018
+ 24224 rwxr-xr-x 1  root  root regular file  cd-create-profile 
+
+ Thu Oct 11 03:06:34 2018
+ 1083768 rwxr-xr-x 1  root  root regular file  gpg2 
+
+ Thu Oct 11 03:14:27 2018
+ 1587 rwxr-xr-x 1  root  root regular file  libyui-terminal 
+
+ Thu Oct 11 03:14:35 2018
+ 11744 rwxr-xr-x 1  root  root regular file  geoiplookup6 
+
+ Thu Oct 11 03:21:44 2018
+ 1148616 rwxr-xr-x 1  root  root regular file  gnome-keyring-daemon 
+
+ Thu Oct 11 03:04:28 2018
+ 42936 rwxr-xr-x 1  root  root regular file  yes 
+
+ Thu Oct 11 03:32:17 2018
+ 3237 rwxr-xr-x 1  root  root regular file  hpcups-update-ppds 
+
+ Thu Oct 11 03:08:05 2018
+ 543240 rwxr-xr-x 1  root  root regular file  wget 
+
+ Thu Oct 11 03:04:18 2018
+ 56416 rwxr-xr-x 1  root  root regular file  ed 
+
+ Thu Oct 11 03:01:07 2018
+ 32728 rwxr-xr-x 1  root  root regular file  keyctl 
+
+ Thu Oct 11 03:32:26 2018
+ 59368 rwxr-xr-x 1  root  root regular file  opensc-explorer 
+
+ Thu Oct 11 03:14:26 2018
+ 11736 rwxr-xr-x 1  root  root regular file  paperconf 
+
+ Thu Oct 11 03:36:25 2018
+ 10 rwxrwxrwx 1  root  root symlink lsdiff->filterdiff 
+
+ Thu Oct 11 03:06:10 2018
+ 7 rwxrwxrwx 1  root  root symlink python->python2 
+
+ Sat Nov 11 20:22:44 2017
+ 7048 rwxr-xr-x 1  root  root regular file  nettle-lfib-stream 
+
+ Thu Oct 11 03:09:25 2018
+ 33992 rwxr-xr-x 1  root  root regular file  vorbiscomment 
+
+ Thu Oct 11 03:18:35 2018
+ 1207040 rwxr-xr-x 1  root  root regular file  rpcclient 
+
+ Thu Oct 11 03:37:18 2018
+ 27368 rwxr-xr-x 1  root  root regular file  valgrind-di-server 
+
+ Thu Oct 11 02:58:08 2018
+ 11696 rwxr-xr-x 1  root  root regular file  msexpand 
+
+ Thu Oct 11 03:00:45 2018
+ 39392 rwxr-xr-x 1  root  root regular file  soelim 
+
+ Thu Oct 11 02:58:14 2018
+ 32440 rwxr-xr-x 1  root  root regular file  tiffgamut 
+
+ Thu Oct 11 03:00:06 2018
+ 178688 rwxr-xr-x 1  root  root regular file  cpio 
+
+ Thu Oct 11 03:33:35 2018
+ 1526 rwxr-xr-x 8  root  root regular file  rpmdev-sha256 
+
+ Thu Oct 11 03:13:26 2018
+ 3869 rwxr-xr-x 1  root  root regular file  fakeroot-tcp 
+
+ Thu Oct 11 03:32:27 2018
+ 2107 rwxr-xr-x 1  root  root regular file  pkcs11-switch 
+
+ Thu Oct 11 03:04:28 2018
+ 69976 rwxr-xr-x 1  root  root regular file  b2sum 
+
+ Thu Oct 11 03:32:42 2018
+ 30248 rwxr-xr-x 1  root  root regular file  vboxcnvt 
+
+ Thu Oct 11 03:14:53 2018
+ 1942 rwxr-xr-x 1  root  root regular file  dnf-3 
+
+ Thu Oct 11 03:04:09 2018
+ 13 rwxrwxrwx 1  root  root symlink par2verify->/usr/bin/par2 
+
+ Thu Oct 11 03:22:25 2018
+ 56368 rwxr-xr-x 1  root  root regular file  tpm2_sign 
+
+ Thu Oct 11 03:05:25 2018
+ 22992 rwxr-xr-x 1  root  root regular file  gst-stats-1.0 
+
+ Thu Oct 11 03:00:45 2018
+ 209896 rwxr-xr-x 1  root  root regular file  eqn 
+
+ Thu Oct 11 03:21:10 2018
+ 10880 rwxr-xr-x 1  root  root regular file  gkbd-keyboard-display 
+
+ Thu Oct 11 03:04:28 2018
+ 42672 rwxr-xr-x 1  root  root regular file  pwd 
+
+ Thu Oct 11 03:23:15 2018
+ 28424 rwxr-xr-x 1  root  root regular file  rpcinfo 
+
+ Thu Oct 11 03:24:14 2018
+ 11 rwxrwxrwx 1  root  root symlink audit2why->audit2allow 
+
+ Sun Sep 30 14:10:20 2018
+ 25 rwxrwxrwx 1  root  root symlink ebook-device->/opt/calibre/ebook-device 
+
+ Thu Oct 11 02:58:51 2018
+ 15872 rwxr-xr-x 1  root  root regular file  sessreg 
+
+ Thu Oct 11 03:00:30 2018
+ 19944 rwxr-xr-x 1  root  root regular file  prtstat 
+
+ Thu Oct 11 02:52:58 2018
+ 16456 rwxr-xr-x 1  root  root regular file  nf-ct-list 
+
+ Thu Oct 11 03:12:19 2018
+ 2225 rwxr-xr-x 1  root  root regular file  padsp-32 
+
+ Thu Oct 11 03:14:12 2018
+ 1135088 rwxr-xr-x 3  root  root regular file  gcc 
+
+ Thu Oct 11 01:15:11 2018
+ 126744 rwxr-xr-x 1  root  root regular file  crlutil 
+
+ Thu Oct 11 03:00:13 2018
+ 29280 rwxr-xr-x 1  root  root regular file  iso-read 
+
+ Thu Oct 11 02:59:40 2018
+ 29 rwxr-xr-x 1  root  root regular file  alias 
+
+ Thu Oct 11 02:56:45 2018
+ 16592 rwxr-xr-x 1  root  root regular file  db_deadlock 
+
+ Thu Oct 11 03:04:28 2018
+ 42304 rwxr-xr-x 1  root  root regular file  unlink 
+
+ Thu Oct 11 03:22:33 2018
+ 32720 rwxr-xr-x 5  root  root regular file  sha1hmac 
+
+ Thu Oct 11 03:21:34 2018
+ 41 rwxr-xr-x 1  root  root regular file  oowriter 
+
+ Thu Oct 11 03:00:13 2018
+ 25176 rwxr-xr-x 1  root  root regular file  cd-drive 
+
+ Thu Oct 11 03:09:52 2018
+ 5054440 rwxr-xr-x 1  root  root regular file  claws-mail 
+
+ Thu Oct 11 03:07:55 2018
+ 282720 rwxr-xr-x 1  root  root regular file  xgettext 
+
+ Thu Oct 11 03:18:23 2018
+ 460528 rwxr-xr-x 1  root  root regular file  grub2-mknetdir 
+
+ Thu Oct 11 03:39:10 2018
+ 107912 rwxr-xr-x 1  root  root regular file  yacc 
+
+ Thu Oct 11 02:58:14 2018
+ 44584 rwxr-xr-x 1  root  root regular file  fakeread 
+
+ Thu Oct 11 03:29:34 2018
+ 80 rwxr-xr-x 1  root  root regular file  blueberry-tray 
+
+ Thu Oct 11 03:12:38 2018
+ 15608 rwxr-xr-x 1  root  root regular file  gst-feedback 
+
+ Thu Oct 11 03:15:02 2018
+ 60184 rwxr-xr-x 1  root  root regular file  eu-nm 
+
+ Thu Oct 11 03:08:48 2018
+ 23289 rwxr-xr-x 1  root  root regular file  bond2team 
+
+ Thu Oct 11 03:00:13 2018
+ 46096 rwxr-xr-x 1  root  root regular file  cd-info 
+
+ Thu Oct 11 02:58:14 2018
+ 40512 rwxr-xr-x 1  root  root regular file  scanin 
+
+ Thu Oct 11 02:52:58 2018
+ 12248 rwxr-xr-x 1  root  root regular file  nl-addr-delete 
+
+ Thu Oct 11 03:01:16 2018
+ 253317 rwxr-xr-x 2  root  root regular file  automake 
+
+ Thu Oct 11 02:51:33 2018
+ 16128 rwxr-xr-x 1  root  root regular file  sendiso 
+
+ Thu Oct 11 03:35:34 2018
+ 118416 rwxr-xr-x 1  root  root regular file  afs5log 
+
+ Thu Oct 11 03:06:40 2018
+ 24448 rwxr-xr-x 1  root  root regular file  update-desktop-database 
+
+ Thu Oct 11 02:57:51 2018
+ 7 rwxrwxrwx 1  root  root symlink ntfsmount->ntfs-3g 
+
+ Thu Oct 11 03:04:28 2018
+ 60624 rwxr-xr-x 1  root  root regular file  seq 
+
+ Thu Oct 11 03:16:31 2018
+ 15816 rwxr-xr-x 1  root  root regular file  hex2hcd 
+
+ Thu Oct 11 03:13:40 2018
+ 15 rwxrwxrwx 1  root  root symlink Mail->../../bin/mailx 
+
+ Thu Oct 11 03:00:45 2018
+ 3312 rwxr-xr-x 1  root  root regular file  nroff 
+
+ Thu Oct 11 03:35:54 2018
+ 4218 rwxr-xr-x 1  root  root regular file  usb-devices 
+
+ Thu Oct 11 03:37:12 2018
+ 24496 rwxr-xr-x 1  root  root regular file  xlsfonts 
+
+ Thu Oct 11 03:10:02 2018
+ 115416 rwxr-xr-x 1  root  root regular file  appstream-util 
+
+ Thu Oct 11 03:50:43 2018
+ 30 rwxrwxrwx 1  root  root symlink native2ascii->/etc/alternatives/native2ascii 
+
+ Thu Oct 11 03:11:30 2018
+ 16 rwxrwxrwx 1  root  root symlink coverage-3.6->python3-coverage 
+
+ Thu Oct 11 03:17:50 2018
+ 24032 rwxr-xr-x 1  root  root regular file  gsettings-data-convert 
+
+ Thu Oct 11 03:09:06 2018
+ 27 rwxrwxrwx 1  root  root symlink mailq->/etc/alternatives/mta-mailq 
+
+ Thu Oct 11 03:14:10 2018
+ 37016 rwxr-xr-x 1  root  root regular file  gcc-nm 
+
+ Thu Oct 11 02:52:51 2018
+ 15832 rwxr-xr-x 1  root  root regular file  dvcont 
+
+ Thu Oct 11 03:04:28 2018
+ 81592 rwxr-xr-x 1  root  root regular file  rm 
+
+ Sun Sep 30 14:10:20 2018
+ 20 rwxrwxrwx 1  root  root symlink lrs2lrf->/opt/calibre/lrs2lrf 
+
+ Thu Oct 11 02:52:58 2018
+ 12120 rwxr-xr-x 1  root  root regular file  nl-cls-list 
+
+ Thu Oct 11 03:37:12 2018
+ 32840 rwxr-xr-x 1  root  root regular file  xev 
+
+ Thu Oct 11 03:04:28 2018
+ 88176 rwxr-xr-x 1  root  root regular file  ptx 
+
+ Thu Oct 11 03:16:24 2018
+ 16832 rwxr-xr-x 1  root  root regular file  cvt 
+
+ Thu Oct 11 03:06:05 2018
+ 8 rwxrwxrwx 1  root  root symlink pydoc3->pydoc3.6 
+
+ Thu Oct 11 03:04:28 2018
+ 75496 rwxr-xr-x 1  root  root regular file  chmod 
+
+ Thu Oct 11 03:04:51 2018
+ 43688 rwxr-xr-x 1  root  root regular file  newuidmap 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-tree 
+
+ Thu Oct 11 03:18:28 2018
+ 10712 rwxr-xr-x 1  root  root regular file  purple-client-example 
+
+ Thu Oct 11 03:25:22 2018
+ 15880 rwxr-xr-x 1  root  root regular file  ulockmgr_server 
+
+ Thu Oct 11 03:10:06 2018
+ 20792 rwxr-xr-x 1  root  root regular file  pdffonts 
+
+ Thu Oct 11 03:00:45 2018
+ 3 rwxrwxrwx 1  root  root symlink gtbl->tbl 
+
+ Thu Oct 11 03:07:58 2018
+ 29008 rwxr-xr-x 1  root  root regular file  passwd 
+
+ Thu Oct 11 03:11:28 2018
+ 3414 rwxr-xr-x 1  root  root regular file  fros 
+
+ Thu Oct 11 03:14:42 2018
+ 15856 rwxr-xr-x 1  root  root regular file  satyr 
+
+ Thu Oct 11 03:23:05 2018
+ 24827 rwxr-xr-x 1  root  root regular file  kdumpctl 
+
+ Thu Oct 11 02:58:48 2018
+ 12120 rwxr-xr-x 1  root  root regular file  compface 
+
+ Thu Oct 11 03:18:45 2018
+ 12456 rwxr-xr-x 1  root  root regular file  fgconsole 
+
+ Sun Sep 30 14:10:20 2018
+ 23 rwxrwxrwx 1  root  root symlink ebook-edit->/opt/calibre/ebook-edit 
+
+ Thu Oct 11 03:29:22 2018
+ 119360 rwxr-xr-x 1  root  root regular file  gcm-viewer 
+
+ Thu Oct 11 03:36:54 2018
+ 176 rwxr-xr-x 1  root  root regular file  vifm-screen-split 
+
+ Thu Oct 11 03:00:45 2018
+ 231856 rwxr-xr-x 1  root  root regular file  post-grohtml 
+
+ Thu Oct 11 03:18:45 2018
+ 9 rwxrwxrwx 1  root  root symlink psfaddtable->psfxtable 
+
+ Thu Oct 11 03:22:25 2018
+ 49032 rwxr-xr-x 1  root  root regular file  tpm2_nvread 
+
+ Thu Oct 11 03:18:35 2018
+ 19920 rwxr-xr-x 1  root  root regular file  smbspool 
+
+ Thu Oct 11 03:32:00 2018
+ 47234592 rwxr-xr-x 1  root  root regular file  telegram-desktop 
+
+ Thu Oct 11 03:06:06 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip 
+
+ Thu Oct 11 02:57:16 2018
+ 4 rwxrwxrwx 1  root  root symlink unzstd->zstd 
+
+ Thu Oct 11 03:24:40 2018
+ 7934 rwxr-xr-x 1  root  root regular file  analog 
+
+ Thu Oct 11 03:04:28 2018
+ 41984 rwxr-xr-x 1  root  root regular file  env 
+
+ Thu Oct 11 03:36:05 2018
+ 68160 rwxr-xr-x 1  root  root regular file  ldapexop 
+
+ Thu Oct 11 03:13:04 2018
+ 11728 rwxr-xr-x 1  root  root regular file  rev 
+
+ Thu Oct 11 03:00:45 2018
+ 222232 rwxr-xr-x 1  root  root regular file  pic 
+
+ Thu Oct 11 03:22:25 2018
+ 43528 rwxr-xr-x 1  root  root regular file  tpm2_activatecredential 
+
+ Thu Oct 11 02:59:02 2018
+ 15912 rwxr-xr-x 1  root  root regular file  hangul 
+
+ Thu Oct 11 03:16:04 2018
+ 11824 rwxr-xr-x 1  root  root regular file  systemd-cat 
+
+ Thu Oct 11 03:36:22 2018
+ 3151384 rwxr-xr-x 1  root  root regular file  vim 
+
+ Thu Oct 11 03:04:28 2018
+ 85944 rwxr-xr-x 1  root  root regular file  stty 
+
+ Thu Oct 11 03:37:04 2018
+ 49488 rwxr-xr-x 1  root  root regular file  doxysearch.cgi 
+
+ Thu Oct 11 03:32:04 2018
+ 11744 rwxr-xr-x 1  root  root regular file  jack_net_master 
+
+ Thu Oct 11 02:59:40 2018
+ 31 rwxr-xr-x 1  root  root regular file  unalias 
+
+ Thu Oct 11 01:15:12 2018
+ 97256 rwxr-xr-x 1  root  root regular file  pk12util 
+
+ Thu Oct 11 02:55:51 2018
+ 19150 rwxr-xr-x 1  root  root regular file  splain 
+
+ Thu Oct 11 03:16:17 2018
+ 11696 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-python 
+
+ Thu Oct 11 03:30:06 2018
+ 90560 rwxr-xr-x 1  root  root regular file  xfce4-clipman-settings 
+
+ Thu Oct 11 03:04:16 2018
+ 11407 rwxr-xr-x 1  root  root regular file  built-by.sh 
+
+ Thu Oct 11 03:05:41 2018
+ 53576 rwxr-xr-x 1  root  root regular file  update-mime-database 
+
+ Thu Oct 11 03:32:06 2018
+ 4629 rwxr-xr-x 1  root  root regular file  foomatic-compiledb 
+
+ Thu Oct 11 03:16:03 2018
+ 53696 rwxr-xr-x 1  root  root regular file  loginctl 
+
+ Thu Oct 11 03:37:13 2018
+ 11712 rwxr-xr-x 1  root  root regular file  aread 
+
+ Thu Oct 11 03:15:40 2018
+ 352 rwxr-xr-x 1  root  root regular file  gsdj500 
+
+ Thu Oct 11 03:04:16 2018
+ 21515 rwxr-xr-x 1  root  root regular file  hardened.sh 
+
+ Sun Sep 30 14:10:20 2018
+ 25 rwxrwxrwx 1  root  root symlink calibre-smtp->/opt/calibre/calibre-smtp 
+
+ Thu Oct 11 03:14:05 2018
+ 11720 rwxr-xr-x 1  root  root regular file  logresolve 
+
+ Thu Oct 11 03:16:45 2018
+ 5 rwxrwxrwx 1  root  root symlink dnf->dnf-3 
+
+ Thu Oct 11 03:06:06 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip2.7 
+
+ Thu Oct 11 03:08:12 2018
+ 388 rwxr-xr-x 1  root  root regular file  chardetect 
+
+ Thu Oct 11 03:36:35 2018
+ 1248352 rwxr-xr-x 1  root  root regular file  sqlite3 
+
+ Thu Oct 11 03:00:45 2018
+ 6 rwxrwxrwx 1  root  root symlink gsoelim->soelim 
+
+ Thu Oct 11 03:13:32 2018
+ 32632 rwxr-xr-x 1  root  root regular file  ntfsls 
+
+ Thu Oct 11 03:04:28 2018
+ 43872 rwxr-xr-x 1  root  root regular file  sleep 
+
+ Thu Oct 11 03:33:35 2018
+ 6775 rwxr-xr-x 1  root  root regular file  rpmdev-diff 
+
+ Thu Oct 11 02:54:15 2018
+ 8 rwxrwxrwx 1  root  root symlink nisdomainname->hostname 
+
+ Thu Oct 11 03:22:25 2018
+ 51656 rwxr-xr-x 1  root  root regular file  tpm2_verifysignature 
+
+ Thu Oct 11 03:24:40 2018
+ 13 rwxrwxrwx 1  root  root symlink liveinst->consolehelper 
+
+ Thu Oct 11 01:14:56 2018
+ 25280 rwxr-xr-x 1  root  root regular file  makedb 
+
+ Thu Oct 11 03:31:44 2018
+ 126336 rwxr-xr-x 1  root  root regular file  xfce4-about 
+
+ Thu Oct 11 03:33:51 2018
+ 289080 rwxr-xr-x 1  root  root regular file  xarchiver 
+
+ Thu Oct 11 03:35:46 2018
+ 1950976 rwxr-xr-x 1  root  root regular file  opannotate 
+
+ Thu Oct 11 03:33:57 2018
+ 129197 rwxr-xr-x 1  root  root regular file  libtoolize 
+
+ Thu Oct 11 03:17:36 2018
+ 11720 rwxr-xr-x 1  root  root regular file  abrt-merge-pstoreoops 
+
+ Thu Oct 11 03:04:28 2018
+ 175576 rwxr-xr-x 1  root  root regular file  cp 
+
+ Thu Oct 11 03:13:10 2018
+ 455648 rwxr-xr-x 1  root  root regular file  ssh-keygen 
+
+ Thu Oct 11 03:35:54 2018
+ 29792 rwxr-xr-x 1  root  root regular file  usbhid-dump 
+
+ Thu Oct 11 03:36:31 2018
+ 1225400 rwxr-xr-x 1  root  root regular file  vi 
+
+ Thu Oct 11 03:50:43 2018
+ 23 rwxrwxrwx 1  root  root symlink javah->/etc/alternatives/javah 
+
+ Thu Oct 11 03:17:31 2018
+ 1383 rwxr-xr-x 1  root  root regular file  abrt-action-analyze-vulnerability 
+
+ Thu Oct 11 03:08:49 2018
+ 275 rwxr-xr-x 1  root  root regular file  gvfs-ls 
+
+ Thu Oct 11 02:59:55 2018
+ 165592 rwxr-xr-x 1  root  root regular file  kmod 
+
+ Sun Sep 30 14:10:20 2018
+ 26 rwxrwxrwx 1  root  root symlink ebook-convert->/opt/calibre/ebook-convert 
+
+ Thu Oct 11 03:13:03 2018
+ 50152 rwxr-xr-x 1  root  root regular file  mount 
+
+ Thu Oct 11 02:52:58 2018
+ 11904 rwxr-xr-x 1  root  root regular file  genl-ctrl-list 
+
+ Thu Oct 11 03:01:11 2018
+ 19024 rwxr-xr-x 1  root  root regular file  xxd 
+
+ Thu Oct 11 03:23:16 2018
+ 9 rwxrwxrwx 1  root  root symlink rrdinfo->rrdupdate 
+
+ Thu Oct 11 03:19:26 2018
+ 16264 rwxr-xr-x 1  root  root regular file  vlc 
+
+ Thu Oct 11 03:00:12 2018
+ 1802 rwxr-xr-x 1  root  root regular file  xzless 
+
+ Thu Oct 11 03:00:25 2018
+ 36960 rwxr-xr-x 1  root  root regular file  idn 
+
+ Thu Oct 11 03:06:30 2018
+ 20 rwxrwxrwx 1  root  root symlink ld->/etc/alternatives/ld 
+
+ Thu Oct 11 03:19:55 2018
+ 38 rwxrwxrwx 1  root  root symlink soffice->/usr/lib64/libreoffice/program/soffice 
+
+ Thu Oct 11 03:22:25 2018
+ 32640 rwxr-xr-x 1  root  root regular file  tpm2_nvlist 
+
+ Thu Oct 11 03:19:31 2018
+ 46 rwxr-xr-x 1  root  root regular file  svlc 
+
+ Thu Oct 11 03:08:49 2018
+ 273 rwxr-xr-x 1  root  root regular file  gvfs-cat 
+
+ Thu Oct 11 03:10:43 2018
+ 13 rwxrwxrwx 1  root  root symlink nosetests-2->nosetests-2.7 
+
+ Thu Oct 11 03:30:02 2018
+ 88728 rwxr-xr-x 1  root  root regular file  globaltime 
+
+ Thu Oct 11 03:15:50 2018
+ 15775 rwxr-xr-x 1  root  root regular file  libnetcfg 
+
+ Thu Oct 11 03:32:26 2018
+ 33120 rwxr-xr-x 1  root  root regular file  piv-tool 
+
+ Thu Oct 11 03:15:40 2018
+ 350 rwxr-xr-x 1  root  root regular file  gslp 
+
+ Thu Oct 11 03:06:25 2018
+ 28912 rwxr-xr-x 1  root  root regular file  pgrep 
+
+ Thu Oct 11 03:20:25 2018
+ 320536 rwxr-xr-x 1  root  root regular file  xfce4-panel 
+
+ Thu Oct 11 03:04:28 2018
+ 52768 rwxr-xr-x 1  root  root regular file  rmdir 
+
+ Thu Oct 11 02:58:14 2018
+ 20016 rwxr-xr-x 1  root  root regular file  invprofcheck 
+
+ Thu Oct 11 03:29:27 2018
+ 469224 rwxr-xr-x 1  root  root regular file  evince 
+
+ Thu Oct 11 02:58:14 2018
+ 129248 rwxr-xr-x 1  root  root regular file  targen 
+
+ Thu Oct 11 03:21:38 2018
+ 111216 rwxr-xr-x 1  root  root regular file  xfsettingsd 
+
+ Thu Oct 11 03:31:52 2018
+ 4 rwxrwxrwx 1  root  root symlink gex->gvim 
+
+ Thu Oct 11 03:10:06 2018
+ 20672 rwxr-xr-x 1  root  root regular file  pdfsig 
+
+ Thu Oct 11 02:52:45 2018
+ 11144 rwxr-xr-x 1  root  root regular file  clear 
+
+ Thu Oct 11 03:13:06 2018
+ 16112 rwxr-xr-x 1  root  root regular file  semodule_package 
+
+ Thu Oct 11 03:32:17 2018
+ 23 rwxrwxrwx 1  root  root symlink hp-probe->../share/hplip/probe.py 
+
+ Thu Oct 11 01:15:10 2018
+ 411296 rwxr-xr-x 1  root  root regular file  curl 
+
+ Thu Oct 11 03:15:38 2018
+ 11 rwxrwxrwx 1  root  root symlink ghostscript->/usr/bin/gs 
+
+ Thu Oct 11 03:32:03 2018
+ 1340 rwxr-xr-x 1  root  root regular file  start-pulseaudio-x11 
+
+ Thu Oct 11 03:22:25 2018
+ 65952 rwxr-xr-x 1  root  root regular file  tpm2_create 
+
+ Thu Oct 11 03:14:10 2018
+ 551720 rwxr-xr-x 1  root  root regular file  gcov-dump 
+
+ Thu Oct 11 03:25:22 2018
+ 32848 rwxr-xr-x 1  root  root regular file  fusermount 
+
+ Thu Oct 11 03:50:43 2018
+ 26 rwxrwxrwx 1  root  root symlink wsimport->/etc/alternatives/wsimport 
+
+ Thu Oct 11 03:24:14 2018
+ 18001 rwxr-xr-x 1  root  root regular file  sandbox 
+
+ Thu Oct 11 03:16:44 2018
+ 15888 rwxr-xr-x 1  root  root regular file  upower 
+
+ Thu Oct 11 03:06:06 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip2 
+
+ Thu Oct 11 03:37:46 2018
+ 165888 rwxr-xr-x 1  root  root regular file  xdelta3 
+
+ Thu Oct 11 03:29:52 2018
+ 39 rwxr-xr-x 1  root  root regular file  oomath 
+
+ Thu Oct 11 02:58:50 2018
+ 7592 rwxr-xr-x 1  root  root regular file  mcpp 
+
+ Thu Oct 11 03:09:25 2018
+ 20088 rwxr-xr-x 1  root  root regular file  vcut 
+
+ Thu Oct 11 03:22:26 2018
+ 1505 rwxr-xr-x 1  root  root regular file  clevis 
+
+ Thu Oct 11 03:50:43 2018
+ 23 rwxrwxrwx 1  root  root symlink javac->/etc/alternatives/javac 
+
+ Thu Oct 11 03:25:23 2018
+ 51480 rwxr-xr-x 1  root  root regular file  vmtoolsd 
+
+ Thu Oct 11 03:00:12 2018
+ 81928 rwxr-xr-x 1  root  root regular file  xz 
+
+ Thu Oct 11 03:06:25 2018
+ 20312 rwxr-xr-x 1  root  root regular file  w 
+
+ Thu Oct 11 03:00:22 2018
+ 2953 rwxr-xr-x 1  root  root regular file  zipgrep 
+
+ Thu Oct 11 03:18:35 2018
+ 102504 rwxr-xr-x 1  root  root regular file  samba-regedit 
+
+ Thu Oct 11 03:23:49 2018
+ 20336 rwxr-xr-x 1  root  root regular file  aulast 
+
+ Thu Oct 11 03:16:33 2018
+ 15920 rwxr-xr-x 1  root  root regular file  ppdpo 
+
+ Thu Oct 11 03:21:49 2018
+ 89712 rwxr-xr-x 1  root  root regular file  xfce4-screenshooter 
+
+ Thu Oct 11 03:13:40 2018
+ 5 rwxrwxrwx 1  root  root symlink mail->mailx 
+
+ Thu Oct 11 03:23:13 2018
+ 55440 rwxr-xr-x 1  root  root regular file  at 
+
+ Thu Oct 11 03:06:42 2018
+ 25762 rwxr-xr-x 1  root  root regular file  xdg-open 
+
+ Thu Oct 11 03:05:06 2018
+ 20696 rwxr-xr-x 1  root  root regular file  rpm 
+
+ Thu Oct 11 03:08:34 2018
+ 15864 rwxr-xr-x 1  root  root regular file  gtk-query-immodules-2.0-64 
+
+ Thu Oct 11 03:16:21 2018
+ 4508 rwxr-xr-x 1  root  root regular file  kernel-install 
+
+ Thu Oct 11 03:32:04 2018
+ 33272 rwxr-xr-x 1  root  root regular file  alsa_out 
+
+ Thu Oct 11 02:59:49 2018
+ 40752 rwxr-xr-x 1  root  root regular file  mkfontscale 
+
+ Thu Oct 11 02:58:18 2018
+ 3 rwxrwxrwx 1  root  root symlink lz4c->lz4 
+
+ Thu Oct 11 03:12:21 2018
+ 16696 rwxr-xr-x 1  root  root regular file  fprintd-enroll 
+
+ Thu Oct 11 03:12:19 2018
+ 5 rwxrwxrwx 1  root  root symlink parecord->pacat 
+
+ Thu Oct 11 02:52:58 2018
+ 12112 rwxr-xr-x 1  root  root regular file  nl-qdisc-list 
+
+ Thu Oct 11 03:32:26 2018
+ 33168 rwxr-xr-x 1  root  root regular file  cardos-tool 
+
+ Thu Oct 11 03:04:28 2018
+ 182904 rwxr-xr-x 1  root  root regular file  install 
+
+ Thu Oct 11 03:01:01 2018
+ 8533 rwxr-xr-x 1  root  root regular file  autoheader 
+
+ Thu Oct 11 03:18:02 2018
+ 79456 rwxr-xr-x 1  root  root regular file  alsaloop 
+
+ Thu Oct 11 03:00:21 2018
+ 5 rwxrwxrwx 1  root  root symlink bunzip2->bzip2 
+
+ Thu Oct 11 03:37:13 2018
+ 11728 rwxr-xr-x 1  root  root regular file  atmdump 
+
+ Thu Oct 11 03:04:31 2018
+ 2415 rwxr-xr-x 1  root  root regular file  update-crypto-policies 
+
+ Thu Oct 11 03:06:01 2018
+ 407 rwxr-xr-x 1  root  root regular file  pip3 
+
+ Thu Oct 11 03:15:38 2018
+ 698 rwxr-xr-x 1  root  root regular file  pdf2dsc 
+
+ Thu Oct 11 03:14:29 2018
+ 15184 rwxr-xr-x 1  root  root regular file  arjdisp 
+
+ Thu Oct 11 03:27:04 2018
+ 11148 rwxr-xr-x 1  root  root regular file  gio-querymodules-32 
+
+ Thu Oct 11 03:33:47 2018
+ 229744 rwxr-xr-x 1  root  root regular file  ltrace 
+
+ Thu Oct 11 02:58:14 2018
+ 15832 rwxr-xr-x 1  root  root regular file  ccttest 
+
+ Thu Oct 11 03:04:28 2018
+ 65176 rwxr-xr-x 1  root  root regular file  [ 
+
+ Thu Oct 11 03:04:28 2018
+ 121848 rwxr-xr-x 1  root  root regular file  du 
+
+ Thu Oct 11 03:10:07 2018
+ 84000 rwxr-xr-x 1  root  root regular file  mbimcli 
+
+ Thu Oct 11 03:08:43 2018
+ 26 rwxrwxrwx 1  root  root symlink lp->/etc/alternatives/print-lp 
+
+ Thu Oct 11 03:22:08 2018
+ 20072 rwxr-xr-x 1  root  root regular file  dm-tool 
+
+ Thu Oct 11 02:58:08 2018
+ 11704 rwxr-xr-x 1  root  root regular file  oabextract 
+
+ Thu Oct 11 03:15:16 2018
+ 3271 rwxr-xr-x 1  root  root regular file  gdb-add-index 
+
+ Thu Oct 11 03:37:17 2018
+ 11880 rwxr-xr-x 1  root  root regular file  generate_randfile 
+
+ Thu Oct 11 02:58:45 2018
+ 24120 rwxr-xr-x 1  root  root regular file  ndptool 
+
+ Thu Oct 11 02:57:16 2018
+ 4 rwxrwxrwx 1  root  root symlink zstdmt->zstd 
+
+ Thu Oct 11 01:14:56 2018
+ 28288 rwxr-xr-x 1  root  root regular file  gencat 
+
+ Thu Oct 11 03:26:23 2018
+ 14004 rwxr-xr-x 1  root  root regular file  fc-cache-32 
+
+ Thu Oct 11 03:23:25 2018
+ 13 rwxrwxrwx 1  root  root symlink hddtemp->consolehelper 
+
+ Thu Oct 11 03:04:28 2018
+ 43272 rwxr-xr-x 1  root  root regular file  basename 
+
+ Thu Oct 11 03:06:25 2018
+ 20712 rwxr-xr-x 1  root  root regular file  slabtop 
+
+ Thu Oct 11 03:50:43 2018
+ 21 rwxrwxrwx 1  root  root symlink xjc->/etc/alternatives/xjc 
+
+ Thu Oct 11 03:35:36 2018
+ 11848 rwxr-xr-x 1  root  root regular file  pwqgen 
+
+ Thu Oct 11 03:06:34 2018
+ 28664 rwxr-xr-x 1  root  root regular file  gpgparsemail 
+
+ Thu Oct 11 03:15:39 2018
+ 516 rwxr-xr-x 1  root  root regular file  pfbtopfa 
+
+ Thu Oct 11 03:06:28 2018
+ 245328 rwxr-xr-x 1  root  root regular file  objcopy 
+
+ Thu Oct 11 03:32:42 2018
+ 2384 rwxr-xr-x 1  root  root regular file  vboxplay 
+
+ Thu Oct 11 03:09:55 2018
+ 64464 rwxr-xr-x 1  root  root regular file  gpgsplit 
+
+ Thu Oct 11 03:00:30 2018
+ 15864 rwxr-xr-x 1  root  root regular file  peekfd 
+
+ Thu Oct 11 03:33:09 2018
+ 81 rwxr-xr-x 1  root  root regular file  system-config-users 
+
+ Thu Oct 11 03:27:59 2018
+ 3755 rwxr-xr-x 1  root  root regular file  clevis-luks-bind 
+
+ Thu Oct 11 03:36:46 2018
+ 688376 rwxr-xr-x 1  root  root regular file  cscope 
+
+ Thu Oct 11 03:23:16 2018
+ 28816 rwxr-xr-x 1  root  root regular file  rrdcgi 
+
+ Thu Oct 11 03:05:06 2018
+ 3 rwxrwxrwx 1  root  root symlink rpmquery->rpm 
+
+ Thu Oct 11 03:07:01 2018
+ 11720 rwxr-xr-x 1  root  root regular file  pwmake 
+
+ Thu Oct 11 03:34:51 2018
+ 24456 rwxr-xr-x 1  root  root regular file  xscreensaver-command 
+
+ Thu Oct 11 03:20:36 2018
+ 877112 rwxr-xr-x 1  root  root regular file  WebKitWebDriver 
+
+ Thu Oct 11 02:59:43 2018
+ 187952 rwxr-xr-x 1  root  root regular file  grep 
+
+ Thu Oct 11 03:36:28 2018
+ 4 rwxrwxrwx 1  root  root symlink flex++->flex 
+
